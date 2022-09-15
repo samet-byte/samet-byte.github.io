@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>FORM</title>
+</head>
+
+    <script type="text/javascript" src="jquery-for-form.js"></script>
+<link rel="stylesheet" type="text/css" href="styleFORM.css">
+    
+    
+<body>
+    
+    
+	<div id="wrapper">
+    
+    <div id="elements">
+        
+    <div id="dMail">
+    
+    <label for="email">E-Mail:</label>
+    <input type="text"
+           name="email" 
+           id="email" 
+           placeholder="eg. sam@sam.samsam"
+           autofocus="autofocus">
+    </div>
+    
+    <div id="dTel">
+    <label for="telephone">Telephone:</label>
+    <input type="text" 
+           name="telephone" 
+           id="telephone" 
+           placeholder="+90 5XX XXX XX XX">
+    </div>
+        
+    <div id="divPassword">
+    
+    <label for="password">Password:</label>
+    <input type="password" 
+           name="password" 
+           id="password" 
+           placeholder="········"
+           required="required"
+           >
+        
+    <label for="passwordC">Confirm Password:</label>
+    <input type="password" 
+           name="passwordC" 
+           id="passwordC" 
+           placeholder="········">        
+    </div>
+        
+        <input type=submit id="submit" value="SIGN UP">
+        
+    </div>
+        <div id="msg">
+        <span id="error"></span>
+        <span id="missing"></span>
+        </div>
+    </div>
+    
+    
+</body>
+
+    <script type="text/javascript" src="scriptFORM.js"></script>
+</html>
