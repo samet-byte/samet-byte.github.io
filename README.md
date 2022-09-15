@@ -1,3 +1,4 @@
 # Merhaba
 Dünya
 
+theme: minima
