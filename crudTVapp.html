@@ -260,12 +260,10 @@ $.getJSON(url, function (json) {
 </style>
 <body BGCOLOR="BLACK" TEXT="WHITE">
 <div align="center">
-  <h1>HEADER</h1> 
+  <h1>Böğün Ne İzlesem TV APP</h1> 
 <h2>CRUD OPERATION ON GOOGLE SPREAD SHEET, WEB APPLICATION USING GOOGLE APP SCRIPT</h2> 
-<p>This is simple application.
-  You can develop your own logic based on your requirements.</p>
-<p>Be careful with the parameters you are sending,
-  it should match the parameters that are received in google app script.</p>
+<p></p>
+<!-- <p>Be careful with the parameters you are sending, it should match the parameters that are received in google app script.</p> -->
 
 
 <form >
@@ -307,9 +305,11 @@ $.getJSON(url, function (json) {
 <input type="button" onclick="read_value()" value="Read" />
 <input type="button" onclick="update_value()" value="Update" />
 <input type="button" onclick="delete_value()" value="Delete" />
+<div id="spreadsheetlink">
 <a href=
 "https://docs.google.com/spreadsheets/d/1dUoMkJXCeHwUu43pfX7MKCpEy7z2HGi6Cz_hrAzvdWA/edit#gid=0"
  target="_blank">Click here to open Spread Sheet </a>
+</div>
 <div id="showData"></div>
 </div>
 </body>
