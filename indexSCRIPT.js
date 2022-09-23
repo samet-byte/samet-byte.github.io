@@ -20,7 +20,7 @@ madeWithElements(
 	"W3Schools",
 	"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/510px-W3Schools_logo.svg.png", 
 	"W3Schools",
-	"&emsp; &emsp;"
+	"&emsp;"
 	);
 	
 	
