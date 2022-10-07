@@ -24,7 +24,7 @@ madeWithElements(
 	);
 	
 	
-	madeWithElements(
+madeWithElements(
 		"https://www.bitmoji.com",
 		"Bitmoji",
 		"https://www.bitmoji.com/favicon/b7cc4bae.favicon-152.cache.png",
@@ -32,3 +32,4 @@ madeWithElements(
 		""
 	)
 	
+

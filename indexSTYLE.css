@@ -16,6 +16,15 @@
 	color: red;
 }
 
+#centered
+{
+	align-content: center;
+	align-items: center;
+	box-align: center;
+	text-align: center;
+	text-align-last: center;
+	vertical-align: middle;
+}
 				
 				
 				//format('woff2'"
