@@ -17,7 +17,7 @@ function rentry(sub)
   
   a.textContent = sub;
   a.style.textDecoration = "none";
-  a.setAttribute('href', "https:rentry.co/"+sub);
+  a.setAttribute('href', "https://rentry.co/"+sub);
   newItem.appendChild(a);
   ulist.appendChild(newItem);
 	
