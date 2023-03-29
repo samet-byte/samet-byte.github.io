@@ -1,10 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Website</title>
+  <title>List of Files</title>
 </head>
 <body>
-  <h1>Welcome to My Website</h1>
-  <p>Click <a href="index.php">here</a> to view the list of files.</p>
+  <h1>List of Files in Directory</h1>
+  <ul id="file-list"></ul>
+
+  <script>
+    const xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+      if (this.readyState === 4 && this.status === 200) {
+        const fileList = this.responseText.split('\n');
+        const fileListHTML = fileList.map(file => `<li>${file}</li>`).join('');
+        document.getElementById('file-list').innerHTML = fileListHTML;
+      } 
+    };
+    xhr.open('GET', './', true);
+    xhr.send();
+  </script>
 </body>
 </html>
