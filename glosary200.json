@@ -1,0 +1,2319 @@
+[
+	{
+		"book": "2",
+		"desc": "The American Board for Engineering and Technology (___) is the governing body that grants accreditation to university engineering degree programs in the United States.",
+		"id": "10",
+		"unit": "3",
+		"word": "ABET"
+	},
+	{
+		"book": "2",
+		"desc": "Something that is ___ can generally exist only as an idea. It is the opposite of “concrete.”",
+		"id": "11",
+		"unit": "6",
+		"word": "abstract"
+	},
+	{
+		"book": "2",
+		"desc": "Something that is ___ has been officially recognized by a governing body as meeting certain basic requirements.",
+		"id": "12",
+		"unit": "3",
+		"word": "accredited"
+	},
+	{
+		"book": "2",
+		"desc": "Advertising is the process of calling consumers' attention to a company’s products or services.",
+		"id": "13",
+		"unit": "11",
+		"word": "advertising"
+	},
+	{
+		"book": "2",
+		"desc": "Agriculture is the science of farming.",
+		"id": "14",
+		"unit": "12",
+		"word": "agriculture"
+	},
+	{
+		"book": "2",
+		"desc": "Analysis is the act of closely examining something.",
+		"id": "15",
+		"unit": "5",
+		"word": "analysis"
+	},
+	{
+		"book": "2",
+		"desc": "Application is the act of putting an idea into practice.",
+		"id": "16",
+		"unit": "5",
+		"word": "application"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ is how you deal with something.",
+		"id": "17",
+		"unit": "5",
+		"word": "approach"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ ___ is a line of workers or machines in a factory working on a product. A worker performs a job and then the product moves to the next worker.",
+		"id": "18",
+		"unit": "13",
+		"word": "assembly line"
+	},
+	{
+		"book": "2",
+		"desc": "To ___ something is to evaluate it.",
+		"id": "19",
+		"unit": "14",
+		"word": "assess"
+	},
+	{
+		"book": "2",
+		"desc": "To ___ something is to attempt to solve it.",
+		"id": "20",
+		"unit": "5",
+		"word": "attack"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ is the line on a graph that shows a point’s position.",
+		"id": "21",
+		"unit": "7",
+		"word": "axis"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is an undergraduate degree that is awarded upon completion of a course of study that typically lasts four years.",
+		"id": "22",
+		"unit": "3",
+		"word": "bachelor’s degree"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a chart that uses rectangles of different lengths to show amounts.",
+		"id": "23",
+		"unit": "7",
+		"word": "bar graph"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a plan for building something.",
+		"id": "24",
+		"unit": "8",
+		"word": "blueprint"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ refers to communication through body movements instead of speaking",
+		"id": "25",
+		"unit": "4",
+		"word": "body language"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ material will break easily under pressure.",
+		"id": "26",
+		"unit": "9",
+		"word": "brittle"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a function of mathematics wherein numbers are manipulated to achieve a result. Calculations can include addition, subtraction, multiplication, division, and other operations.",
+		"id": "27",
+		"unit": "10",
+		"word": "calculation"
+	},
+	{
+		"book": "2",
+		"desc": "Capacity refers to the maximum amount of work a company or organization can perform",
+		"id": "28",
+		"unit": "13",
+		"word": "capacity"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a device designed to throw objects long distances without the use of explosives such as gunpowder.",
+		"id": "29",
+		"unit": "1",
+		"word": "catapult"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a reference to a piece of writing.",
+		"id": "30",
+		"unit": "4",
+		"word": "citation"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a payment made to a sales agent in return for securing a sale or other business relationship.",
+		"id": "31",
+		"unit": "11",
+		"word": "commission"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is practical knowledge.",
+		"id": "32",
+		"unit": "2",
+		"word": "common sense"
+	},
+	{
+		"book": "2",
+		"desc": "Competence is a person’s ability to do something as it should be done.",
+		"id": "33",
+		"unit": "2",
+		"word": "competence"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a rival company that creates similar products and is competing for the same consumers.",
+		"id": "34",
+		"unit": "11",
+		"word": "competitor"
+	},
+	{
+		"book": "2",
+		"desc": "Comprehension is the step of a problem solving method in which data and theory combine to solve a problem.",
+		"id": "35",
+		"unit": "5",
+		"word": "comprehension"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is the study of how computerss can be used.",
+		"id": "36",
+		"unit": "14",
+		"word": "computer science"
+	},
+	{
+		"book": "2",
+		"desc": "Something that is ___ either currently exists in reality or could exist in reality. It is the opposite of “abstract.”",
+		"id": "37",
+		"unit": "6",
+		"word": "concrete"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a material that lets electricity or heat pass through it.",
+		"id": "38",
+		"unit": "9",
+		"word": "conductor"
+	},
+	{
+		"book": "2",
+		"desc": "To ___ with someone is to give them professional or expert advice.",
+		"id": "39",
+		"unit": "11",
+		"word": "consult"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a method or practice established through widespread or common use.",
+		"id": "40",
+		"unit": "10",
+		"word": "convention"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is something that is the subject of general agreement or consent.",
+		"id": "41",
+		"unit": "6",
+		"word": "convention"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a piece of equipment that moves materials in a line from one area to another.",
+		"id": "42",
+		"unit": "13",
+		"word": "conveyor"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a pair of numbers that show position on a graph.",
+		"id": "43",
+		"unit": "7",
+		"word": "coordinate"
+	},
+	{
+		"book": "2",
+		"desc": "Something that is ___ is worth the amount of money you spent on it.",
+		"id": "44",
+		"unit": "13",
+		"word": "cost-effective"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a heavy object that is used to balance some type of load. In trebuchets, it is the weight that causes the sling to rotate around the pivot and launch the projectile.",
+		"id": "45",
+		"unit": "1",
+		"word": "counterweight"
+	},
+	{
+		"book": "2",
+		"desc": "When you have ___ you are brave enough to do something.",
+		"id": "46",
+		"unit": "2",
+		"word": "courage"
+	},
+	{
+		"book": "2",
+		"desc": "Something that is ___ is the result of unique and different thought or expression.",
+		"id": "47",
+		"unit": "6",
+		"word": "creative"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a group of plants that you grow in order to eat or sell.",
+		"id": "48",
+		"unit": "12",
+		"word": "crop"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a drawing of something cut in half to reveal the inside of it.",
+		"id": "49",
+		"unit": "8",
+		"word": "cross-section"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a card with information that helps a person remember what to say.",
+		"id": "50",
+		"unit": "4",
+		"word": "cue card"
+	},
+	{
+		"book": "2",
+		"desc": "Curiosity is an interest in learning something.",
+		"id": "51",
+		"unit": "2",
+		"word": "curiosity"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a lack of a necessary nutrient or other desirable item.",
+		"id": "52",
+		"unit": "15",
+		"word": "deficiency"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is an academic qualification completed at a college.",
+		"id": "53",
+		"unit": "2",
+		"word": "degree"
+	},
+	{
+		"book": "2",
+		"desc": "To ___ something is to show another person how it works.",
+		"id": "54",
+		"unit": "11",
+		"word": "demonstrate"
+	},
+	{
+		"book": "2",
+		"desc": "Dependability is the ability for people to trust you to do things.",
+		"id": "55",
+		"unit": "2",
+		"word": "dependability"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a number that depends on the value of another part of a mathematical equation.",
+		"id": "56",
+		"unit": "7",
+		"word": "dependent variable"
+	},
+	{
+		"book": "2",
+		"desc": "Depth is how deep something is.",
+		"id": "57",
+		"unit": "8",
+		"word": "depth"
+	},
+	{
+		"book": "2",
+		"desc": "The ___ of software is its planning and structure.",
+		"id": "58",
+		"unit": "14",
+		"word": "design"
+	},
+	{
+		"book": "2",
+		"desc": "Development is the act of actually making software.",
+		"id": "59",
+		"unit": "14",
+		"word": "development"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a drawn plan for something.",
+		"id": "60",
+		"unit": "8",
+		"word": "diagram"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a number.",
+		"id": "61",
+		"unit": "10",
+		"word": "digit"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is the size of something.",
+		"id": "62",
+		"unit": "8",
+		"word": "dimension"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is a percentage of how equally water is being applied to an area.",
+		"id": "63",
+		"unit": "12",
+		"word": "distribution uniformity"
+	},
+	{
+		"book": "2",
+		"desc": "___ is a main component of chromosomes. It transfers genetic material in all living organisms.",
+		"id": "64",
+		"unit": "15",
+		"word": "DNA"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a fragment of DNA that is used to detect a manipulated gene.",
+		"id": "65",
+		"unit": "15",
+		"word": "DNA probe"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a postgraduate degree that typically represents the highest possible level of study in a particular field. It is achieved through several years of study beyond an initial undergraduate degree.",
+		"id": "66",
+		"unit": "3",
+		"word": "doctorate"
+	},
+	{
+		"book": "2",
+		"desc": "Drainage is the removal of excess water.",
+		"id": "67",
+		"unit": "12",
+		"word": "drainage"
+	},
+	{
+		"book": "2",
+		"desc": "Ductility refers to a material’s ability to not break under tensile force.",
+		"id": "68",
+		"unit": "9",
+		"word": "ductility"
+	},
+	{
+		"book": "2",
+		"desc": "The Engineering Accreditation Board (___) is the governing body that grants accreditation to university engineering degree programs in the United Kingdom.",
+		"id": "69",
+		"unit": "3",
+		"word": "EAB"
+	},
+	{
+		"book": "2",
+		"desc": "Something that is ___ is related to low-level job positions wherein new university graduates can gain experience and skills.",
+		"id": "70",
+		"unit": "3",
+		"word": "entry-level"
+	},
+	{
+		"book": "2",
+		"desc": "Ergonomics is the science of designing equipment and workspaces that benefit and aid the worker.",
+		"id": "71",
+		"unit": "13",
+		"word": "ergonomics"
+	},
+	{
+		"book": "2",
+		"desc": "Expertise is a high level of skill or knowledge on a certain topic or subject.",
+		"id": "72",
+		"unit": "11",
+		"word": "expertise"
+	},
+	{
+		"book": "2",
+		"desc": "A(n) ___ ___ is a drawing that shows how different parts of something fit together by drawing the parts separately.",
+		"id": "73",
+		"unit": "8",
+		"word": "exploded view"
+	},
+	{
+		"book": "2",
+		"desc": "Expression is the action of a gene that is showing a certain distinguishing characteristic,",
+		"id": "74",
+		"unit": "15",
+		"word": "expression"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ refers to the design and arrangement of a factory’s workspace,",
+		"id": "75",
+		"unit": "13",
+		"word": "facility layout"
+	},
+	{
+		"book": "2",
+		"desc": "Feedback is a reaction to an object or activity. It usually includes opinions on how the object or activity can be improved.",
+		"id": "76",
+		"unit": "6",
+		"word": "feedback"
+	},
+	{
+		"book": "2",
+		"desc": "Flood irrigation covers an entire area with water.",
+		"id": "77",
+		"unit": "12",
+		"word": "flood-irrigation"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a section of DNA which contains the information that determines physical characteristics.",
+		"id": "78",
+		"unit": "15",
+		"word": "gene"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a way of organizing information so that you discuss general ideas first and then specific details.",
+		"id": "79",
+		"unit": "4",
+		"word": "general-to-specific strategy"
+	},
+	{
+		"book": "2",
+		"desc": "Geometry is the mathematical shape and arrangement of an object.",
+		"id": "80",
+		"unit": "8",
+		"word": "geometry"
+	},
+	{
+		"book": "2",
+		"desc": "A genetically modified organism (___) is an organism whose genetic material has been changed. Both plants and animals can be ___s.",
+		"id": "81",
+		"unit": "15",
+		"word": "GMO"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a diagram showing a relationship between variables.",
+		"id": "82",
+		"unit": "7",
+		"word": "graph"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a document that you distribute to people during class or a presentation.",
+		"id": "83",
+		"unit": "4",
+		"word": "handout"
+	},
+	{
+		"book": "2",
+		"desc": "Hardness is a property that makes an object difficult to dent or break.",
+		"id": "84",
+		"unit": "9",
+		"word": "hardness"
+	},
+	{
+		"book": "2",
+		"desc": "Hydrology is the study of water.",
+		"id": "85",
+		"unit": "12",
+		"word": "hydrology"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ ___ is a number that does not depend on the value of another part of a mathematical equation.",
+		"id": "86",
+		"unit": "7",
+		"word": "independent variable"
+	},
+	{
+		"book": "2",
+		"desc": "Innovation is the act of coming up with new and different ideas.",
+		"id": "87",
+		"unit": "6",
+		"word": "innovation"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ is a material that prevents heat or electricity from passing through it.",
+		"id": "88",
+		"unit": "9",
+		"word": "insulator"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ is any positive or negative whole number, including zero.",
+		"id": "89",
+		"unit": "10",
+		"word": "integer"
+	},
+	{
+		"book": "2",
+		"desc": "When something is ___ it is between people.",
+		"id": "90",
+		"unit": "2",
+		"word": "interpersonal"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ is a list of the materials and goods in a factory.",
+		"id": "91",
+		"unit": "13",
+		"word": "inventory"
+	},
+	{
+		"book": "2",
+		"desc": "Irrigation is the supplying of water to crops.",
+		"id": "92",
+		"unit": "12",
+		"word": "irrigation"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ is an instance of doing something repeatedly.",
+		"id": "93",
+		"unit": "5",
+		"word": "iteration"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ ___ is the act of doing something over and over with slight changes until you perfect it.",
+		"id": "94",
+		"unit": "5",
+		"word": "iterative procedure"
+	},
+	{
+		"book": "2",
+		"desc": "___ (Keep It Short and Simple) is a principle that reminds a person to present or do something in the simplest way.",
+		"id": "95",
+		"unit": "4",
+		"word": "KISS"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a zero that leads a number string.",
+		"id": "96",
+		"unit": "10",
+		"word": "leading zero"
+	},
+	{
+		"book": "2",
+		"desc": "Length is how long something is.",
+		"id": "97",
+		"unit": "8",
+		"word": "length"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a person who creates and maintains contact between two groups in order to ensure collective action or cooperation.",
+		"id": "98",
+		"unit": "11",
+		"word": "liaison"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a chart showing points connected by straight lines.",
+		"id": "99",
+		"unit": "7",
+		"word": "line graph"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ applies small amounts of water directly to plants.",
+		"id": "100",
+		"unit": "12",
+		"word": "localized irrigation"
+	},
+	{
+		"book": "2",
+		"desc": "Logic is a reasonable way of thinking.",
+		"id": "101",
+		"unit": "5",
+		"word": "logic"
+	},
+	{
+		"book": "2",
+		"desc": "Logistics refer to the organizing of an operation or process so that it happens efficiently.",
+		"id": "102",
+		"unit": "9",
+		"word": "logistics"
+	},
+	{
+		"book": "2",
+		"desc": "When something is ___ it happens for a long time.",
+		"id": "103",
+		"unit": "12",
+		"word": "long-term"
+	},
+	{
+		"book": "2",
+		"desc": "Luster refers to the brightness or shine of a metal.",
+		"id": "104",
+		"unit": "9",
+		"word": "luster"
+	},
+	{
+		"book": "2",
+		"desc": "Maintenance is fixing a software’s flaws after it is released.",
+		"id": "105",
+		"unit": "14",
+		"word": "maintenance"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ material bends easily when you press it.",
+		"id": "106",
+		"unit": "9",
+		"word": "malleable"
+	},
+	{
+		"book": "2",
+		"desc": "To ___ something is to change or influence it.",
+		"id": "107",
+		"unit": "15",
+		"word": "manipulate"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is the process of surveying the public to gain information about consumer tastes or preferences.",
+		"id": "108",
+		"unit": "11",
+		"word": "market research"
+	},
+	{
+		"book": "2",
+		"desc": "Marketing includes all the activities that a company undertakes in order to advertise, sell, and deliver a product to consumers.",
+		"id": "109",
+		"unit": "11",
+		"word": "marketing"
+	},
+	{
+		"book": "2",
+		"desc": "Mass determines the degree to which a body creates or is affected by a gravitational field. In everyday usage, it is usually equated with the word “weight.” In scientific usage, however, it can be used to refer to several different properties.",
+		"id": "110",
+		"unit": "1",
+		"word": "mass"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a postgraduate degree that is awarded to people who have developed a level of mastery over a particular field. It is achieved through one or more additional years of study beyond an initial undergraduate degree.",
+		"id": "111",
+		"unit": "3",
+		"word": "master’s degree"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is the factor by which a machine or mechanism multiplies the force that is being applied to it.",
+		"id": "112",
+		"unit": "1",
+		"word": "mechanical advantage"
+	},
+	{
+		"book": "2",
+		"desc": "The Master’s of Engineering (___) is a master’s degree in the field of engineering.",
+		"id": "113",
+		"unit": "3",
+		"word": "MEng"
+	},
+	{
+		"book": "2",
+		"desc": "The ___ ___ is a period of history that extends from the 5th century through the 15th century.",
+		"id": "114",
+		"unit": "1",
+		"word": "Middle Ages"
+	},
+	{
+		"book": "2",
+		"desc": "To ___ something is to alter or change the qualities of it in order to make it better.",
+		"id": "115",
+		"unit": "11",
+		"word": "modify"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is the process of copying genes.",
+		"id": "116",
+		"unit": "15",
+		"word": "molecular cloning"
+	},
+	{
+		"book": "2",
+		"desc": "The Master’s of Science (___) is a master’s degree in a scientific field.",
+		"id": "117",
+		"unit": "3",
+		"word": "MSc"
+	},
+	{
+		"book": "2",
+		"desc": "The Master’s of Science by Research (MSc)",
+		"id": "118",
+		"unit": "3",
+		"word": "MSc(Res)"
+	},
+	{
+		"book": "2",
+		"desc": "Natural materials come from nature. Glass, stone, and wood are some examples.",
+		"id": "119",
+		"unit": "9",
+		"word": "natural"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a standard or commonly-held notion.",
+		"id": "120",
+		"unit": "6",
+		"word": "norm"
+	},
+	{
+		"book": "2",
+		"desc": "In mathematics, a ___ is a system of representing mathematical objects or ideas. Numbers and function symbols are examples of ___s.",
+		"id": "121",
+		"unit": "10",
+		"word": "notation"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ is the main goal that a person aims to achieve.",
+		"id": "122",
+		"unit": "4",
+		"word": "objective"
+	},
+	{
+		"book": "2",
+		"desc": "Operation is use of software.",
+		"id": "123",
+		"unit": "14",
+		"word": "operation"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ is the class of scale of any amount. It usually contains a value that is of a certain ratio to the class preceding it. For example, 0.1 is one ___ of magnitude greater than 0.01, and 1 is one ___ of magnitude greater than 0.1.",
+		"id": "124",
+		"unit": "10",
+		"word": "order of magnitude"
+	},
+	{
+		"book": "2",
+		"desc": "Organization is the ability to plan and put things together in an orderly fashion.",
+		"id": "125",
+		"unit": "2",
+		"word": "organization"
+	},
+	{
+		"book": "2",
+		"desc": "Originality is the quality of being independent, new, and unique.",
+		"id": "126",
+		"unit": "6",
+		"word": "originality"
+	},
+	{
+		"book": "2",
+		"desc": "Something that is ___ is outside the realm of conventional thought or practice. Could also be expressed as “___side the box.”",
+		"id": "127",
+		"unit": "6",
+		"word": "out of the box"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is an object or quantity to be sent or thrown.",
+		"id": "128",
+		"unit": "1",
+		"word": "payload"
+	},
+	{
+		"book": "2",
+		"desc": "Perimeter is the length of something’s outer edges.",
+		"id": "129",
+		"unit": "8",
+		"word": "perimeter"
+	},
+	{
+		"book": "2",
+		"desc": "The Doctor of Philosophy (___) is a doctorate that can be achieved in a variety of fields,",
+		"id": "130",
+		"unit": "3",
+		"word": "PhD"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is the object around which other objects rotate or turn.",
+		"id": "131",
+		"unit": "1",
+		"word": "pivot"
+	},
+	{
+		"book": "2",
+		"desc": "Pivot-irrigation involves a machine that rotates, applying water to a circular area around the machine.",
+		"id": "132",
+		"unit": "12",
+		"word": "pivot-irrigation"
+	},
+	{
+		"book": "2",
+		"desc": "Plastics are synthetic materials that one can shape into many different forms.",
+		"id": "133",
+		"unit": "9",
+		"word": "plastics"
+	},
+	{
+		"book": "2",
+		"desc": "Something that is ___ seems reasonable or achievable.",
+		"id": "134",
+		"unit": "6",
+		"word": "plausible"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is any degree that is awarded upon completion of additional years of study beyond the initial undergraduate degree. Master’s degrees and doctorates are examples of ___ degrees.",
+		"id": "135",
+		"unit": "3",
+		"word": "postgraduate degree"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a computer program that lets you display information in a slide show.",
+		"id": "136",
+		"unit": "4",
+		"word": "presentation program"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is the act of stating what issues one must address in a situation.",
+		"id": "137",
+		"unit": "5",
+		"word": "problem identification"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is the assessment of software for issues.",
+		"id": "138",
+		"unit": "14",
+		"word": "problem modeling"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is the act of resolving issues and finding solutions,",
+		"id": "139",
+		"unit": "2",
+		"word": "problem solving"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is an object that is being launched or thrown through the air.",
+		"id": "140",
+		"unit": "1",
+		"word": "projectile"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a machine that lets you show images on a screen or surface,",
+		"id": "141",
+		"unit": "4",
+		"word": "projector"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a feature that someone or something has.",
+		"id": "142",
+		"unit": "2",
+		"word": "quality"
+	},
+	{
+		"book": "2",
+		"desc": "Quality is how well software is designed.",
+		"id": "143",
+		"unit": "14",
+		"word": "quality"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ refers to the activities one performs to ensure a product’s ___ and safety.",
+		"id": "144",
+		"unit": "13",
+		"word": "quality control"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is the ability to think in terms of numbers.",
+		"id": "145",
+		"unit": "2",
+		"word": "quantitative thinking"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is an amount of something. It can be either precise or indefinite.",
+		"id": "146",
+		"unit": "10",
+		"word": "quantity"
+	},
+	{
+		"book": "2",
+		"desc": "To ___ something is to state it again in a different manner.",
+		"id": "147",
+		"unit": "5",
+		"word": "redefine"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a miscalculation that results from improperly ___ a number to a convenient number of decimals.",
+		"id": "148",
+		"unit": "10",
+		"word": "rounding error"
+	},
+	{
+		"book": "2",
+		"desc": "Salinity is the amount of salt in something.",
+		"id": "149",
+		"unit": "12",
+		"word": "salinity"
+	},
+	{
+		"book": "2",
+		"desc": "Scale is the relationship between the size of something drawn and its real size.",
+		"id": "150",
+		"unit": "8",
+		"word": "scale"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a chart with many points on it to show relationships between two variables",
+		"id": "151",
+		"unit": "7",
+		"word": "scatter plot"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ shows the form and features of something.",
+		"id": "152",
+		"unit": "8",
+		"word": "schematic"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is a way of easily expressing very large or very small quantities. It incorporates the use of superscript digits. 3x106, for example, is 3,000,000 written in ___ notation.",
+		"id": "153",
+		"unit": "10",
+		"word": "scientific notation"
+	},
+	{
+		"book": "2",
+		"desc": "To ___ something is to choose it.",
+		"id": "154",
+		"unit": "15",
+		"word": "select"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a device that was used in the Middle Ages to destroy castle walls, city walls, or other fortifications during a ___.",
+		"id": "155",
+		"unit": "1",
+		"word": "siege engine"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a digit that helps identify a number’s precision. All numbers are ___ except for leading and trailing zeros when they serve as placeholders, or digits that are introduced as a result of calculations that are carried out to more decimal places than the original numbers.",
+		"id": "156",
+		"unit": "10",
+		"word": "significant figure"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a phrase or word that helps signal the different parts of a presentation to the audience.",
+		"id": "157",
+		"unit": "4",
+		"word": "signpost"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a device that holds and, when subjected to the proper forces, launches or throws a projectile.",
+		"id": "158",
+		"unit": "1",
+		"word": "sling"
+	},
+	{
+		"book": "2",
+		"desc": "___ ___ is a profession that develops and improves computer programs.",
+		"id": "159",
+		"unit": "14",
+		"word": "software engineering"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is an answer to a problem.",
+		"id": "160",
+		"unit": "5",
+		"word": "solution"
+	},
+	{
+		"book": "2",
+		"desc": "To ___ an operation is to improve it and make it more efficient.",
+		"id": "161",
+		"unit": "13",
+		"word": "streamline"
+	},
+	{
+		"book": "2",
+		"desc": "To ___ something is to briefly repeat its main points.",
+		"id": "162",
+		"unit": "4",
+		"word": "summarize"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ consists of all the people and resources that help get a product from a supplier to a customer.",
+		"id": "163",
+		"unit": "13",
+		"word": "supply chain"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a mixture of ideas.",
+		"id": "164",
+		"unit": "5",
+		"word": "synthesis"
+	},
+	{
+		"book": "2",
+		"desc": "Synthetic materials are artificial, man-made substances.",
+		"id": "165",
+		"unit": "9",
+		"word": "synthetic"
+	},
+	{
+		"book": "2",
+		"desc": "If something is ___, it relates to a specific skill, art, or science.",
+		"id": "166",
+		"unit": "11",
+		"word": "technical"
+	},
+	{
+		"book": "2",
+		"desc": "If something is ___, it is related to science and technology.",
+		"id": "167",
+		"unit": "11",
+		"word": "technological"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ material is able to stretch easily.",
+		"id": "168",
+		"unit": "9",
+		"word": "tensile"
+	},
+	{
+		"book": "2",
+		"desc": "Testing is the act of making sure software works.",
+		"id": "169",
+		"unit": "14",
+		"word": "testing"
+	},
+	{
+		"book": "2",
+		"desc": "Tillage is the preparing of soil for crops.",
+		"id": "170",
+		"unit": "12",
+		"word": "tillage"
+	},
+	{
+		"book": "2",
+		"desc": "Torque is a measure of the turning force being placed upon an object.",
+		"id": "171",
+		"unit": "1",
+		"word": "torque"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is a zero that occurs in the decimal representation of a number. No other digits follow a ___ zero (or a series of ___ zeros), and they are always considered significant.",
+		"id": "172",
+		"unit": "10",
+		"word": "trailing zero"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a distinguishing characteristic.",
+		"id": "173",
+		"unit": "15",
+		"word": "trait"
+	},
+	{
+		"book": "2",
+		"desc": "Transformation is the process of changing in appearance, form, nature, or character,",
+		"id": "174",
+		"unit": "15",
+		"word": "transformation"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ material is clear and easy to see through.",
+		"id": "175",
+		"unit": "9",
+		"word": "transparent"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a weapon that was popular during the Middle Ages. It was often used to launch rocks and other items into to walls of the fort or castle that was being attacked.",
+		"id": "176",
+		"unit": "1",
+		"word": "trebuchet"
+	},
+	{
+		"book": "2",
+		"desc": "An ___ ___ is a degree that is awarded upon completion of a general course of study that typically last four years.",
+		"id": "177",
+		"unit": "3",
+		"word": "undergraduate degree"
+	},
+	{
+		"book": "2",
+		"desc": "Validation is making sure that software satisfies the user’s needs.",
+		"id": "178",
+		"unit": "14",
+		"word": "validation"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is a DNA molecule that is used to transfer genetic material from one cell to another,",
+		"id": "179",
+		"unit": "15",
+		"word": "vector"
+	},
+	{
+		"book": "2",
+		"desc": "Verification is making sure that software meets its design specifications.",
+		"id": "180",
+		"unit": "14",
+		"word": "verification"
+	},
+	{
+		"book": "2",
+		"desc": "Verification is the process of establishing the accuracy or truth of something,",
+		"id": "181",
+		"unit": "6",
+		"word": "verification"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ is an imaginative conception of something which has not happened yet.",
+		"id": "182",
+		"unit": "6",
+		"word": "vision"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is an image that people look at during a presentation.",
+		"id": "183",
+		"unit": "4",
+		"word": "visual aid"
+	},
+	{
+		"book": "2",
+		"desc": "A ___ ___ is the right of a person to use ___ from a source like a river or stream,",
+		"id": "184",
+		"unit": "12",
+		"word": "water rights"
+	},
+	{
+		"book": "2",
+		"desc": "Width is how wide something is.",
+		"id": "185",
+		"unit": "8",
+		"word": "width"
+	},
+	{
+		"book": "2",
+		"desc": "The ___ is the horizontal axis on a graph.",
+		"id": "186",
+		"unit": "7",
+		"word": "X axis"
+	},
+	{
+		"book": "2",
+		"desc": "The ___ is the vertical axis on a graph.",
+		"id": "187",
+		"unit": "7",
+		"word": "Y axis"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is a summary of an article, document, or o:~er text",
+		"id": "188",
+		"unit": "5",
+		"word": "abstract"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is something bad that was not meant to naope^",
+		"id": "189",
+		"unit": "10",
+		"word": "accident"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ ___ is a substance that is used for energy instead of fossil fuels.",
+		"id": "190",
+		"unit": "12",
+		"word": "alternative fuel"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is a semicircle shape over an entrance.",
+		"id": "191",
+		"unit": "2",
+		"word": "arch"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is a person whose job is to design and build structures.",
+		"id": "192",
+		"unit": "2",
+		"word": "architect"
+	},
+	{
+		"book": "1",
+		"desc": "If something is ___, it will break apart naturally.",
+		"id": "193",
+		"unit": "12",
+		"word": "biodegradable"
+	},
+	{
+		"book": "1",
+		"desc": "Biodiesel is fuel that is made from vegetable oils or animal fat.",
+		"id": "194",
+		"unit": "12",
+		"word": "biodiesel"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is damage caused by heat or fire.",
+		"id": "195",
+		"unit": "10",
+		"word": "burn"
+	},
+	{
+		"book": "1",
+		"desc": "___ (computer-aided design) refers to using computer technology to create computer models of objects.",
+		"id": "196",
+		"unit": "13",
+		"word": "CAD"
+	},
+	{
+		"book": "1",
+		"desc": "___ (computer-aided manufacturing) refers to the use of computer technology to help build the parts of a machine.",
+		"id": "197",
+		"unit": "13",
+		"word": "CAM"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a metric measurement of distance that is equal to one one-hundredth of a meter.",
+		"id": "198",
+		"unit": "8",
+		"word": "centimeter"
+	},
+	{
+		"book": "1",
+		"desc": "Ceramic is a solid material made from clay or similar materials.",
+		"id": "199",
+		"unit": "3",
+		"word": "ceramic"
+	},
+	{
+		"book": "1",
+		"desc": "___ (computational fluid dynamics) refers to the use of mathematical formulas to study problems related to the movement of fluids and gases.",
+		"id": "200",
+		"unit": "13",
+		"word": "CFD"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ is someone who works in the ___ industry.",
+		"id": "201",
+		"unit": "12",
+		"word": "chemical engineer"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ ___ is a card with all components installed that can be used to perform a variety of tasks in electrical equipment.",
+		"id": "202",
+		"unit": "14",
+		"word": "circuit card assembly"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ is a person who works with the design and construction of the physical environment. This includes buildings, roads, bridges, and other things.",
+		"id": "203",
+		"unit": "11",
+		"word": "civil engineer"
+	},
+	{
+		"book": "1",
+		"desc": "To ___ something is to cut off part of it.",
+		"id": "204",
+		"unit": "4",
+		"word": "clip"
+	},
+	{
+		"book": "1",
+		"desc": "If something is ___, it is covered by some type of material.",
+		"id": "205",
+		"unit": "3",
+		"word": "coated"
+	},
+	{
+		"book": "1",
+		"desc": "Something that is ___ is related to business or commerce.",
+		"id": "206",
+		"unit": "11",
+		"word": "commercial"
+	},
+	{
+		"book": "1",
+		"desc": "If something is ___, it has many details or is hard to understand.",
+		"id": "207",
+		"unit": "6",
+		"word": "complicated"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a part of something bigger.",
+		"id": "208",
+		"unit": "14",
+		"word": "component"
+	},
+	{
+		"book": "1",
+		"desc": "Concrete is a construction material made out of cement, crushed rocks, and other materials,",
+		"id": "209",
+		"unit": "3",
+		"word": "concrete"
+	},
+	{
+		"book": "1",
+		"desc": "Construction is the process of building structures such as buildings, roads, and bridges,",
+		"id": "210",
+		"unit": "11",
+		"word": "construction"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a situation or condition that you do not change during an experiment.",
+		"id": "211",
+		"unit": "9",
+		"word": "control"
+	},
+	{
+		"book": "1",
+		"desc": "To ___ something is to change it from one thing to another.",
+		"id": "212",
+		"unit": "12",
+		"word": "convert"
+	},
+	{
+		"book": "1",
+		"desc": "If a number is ___, it is to be multiplied by itself three times.",
+		"id": "213",
+		"unit": "7",
+		"word": "cubed"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a shape with long, straight sides and two circular ends.",
+		"id": "214",
+		"unit": "2",
+		"word": "cylinder"
+	},
+	{
+		"book": "1",
+		"desc": "Data are numbers or characteristics that you collect and study.",
+		"id": "215",
+		"unit": "9",
+		"word": "data"
+	},
+	{
+		"book": "1",
+		"desc": "To ___ is to slow down.",
+		"id": "216",
+		"unit": "5",
+		"word": "decelerate"
+	},
+	{
+		"book": "1",
+		"desc": "To ___ something is to plan how it will look and how it will function.",
+		"id": "217",
+		"unit": "1",
+		"word": "design"
+	},
+	{
+		"book": "1",
+		"desc": "To ___ something is to create it or to cause it to grow or expand.",
+		"id": "218",
+		"unit": "1",
+		"word": "develop"
+	},
+	{
+		"book": "1",
+		"desc": "Diesel is a fuel that is used in big engines like buses and trucks.",
+		"id": "219",
+		"unit": "12",
+		"word": "diesel"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a branch of instruction or learning.",
+		"id": "220",
+		"unit": "1",
+		"word": "discipline"
+	},
+	{
+		"book": "1",
+		"desc": "Drafting refers to the process of creating engineering drawings for machines. They illustrate how to manufacture and assemble the parts.",
+		"id": "221",
+		"unit": "13",
+		"word": "drafting"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a tool that makes holes in surfaces like wood or inserts and removes screws.",
+		"id": "222",
+		"unit": "4",
+		"word": "drill"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is a shape like a flat circle or oval.",
+		"id": "223",
+		"unit": "2",
+		"word": "ellipse"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is a person who uses the knowledge gained by science to design and create practical applications for it.",
+		"id": "224",
+		"unit": "1",
+		"word": "engineer"
+	},
+	{
+		"book": "1",
+		"desc": "Engineering is the art of designing and creating practical applications from the knowledge gained by science.",
+		"id": "225",
+		"unit": "1",
+		"word": "engineering"
+	},
+	{
+		"book": "1",
+		"desc": "To ___ something is to be the same as that thing.",
+		"id": "226",
+		"unit": "7",
+		"word": "equal"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is a scientific study that you conduct to solve a problem.",
+		"id": "227",
+		"unit": "9",
+		"word": "experiment"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is a small number written above another number and which signifies how many times the bottom number should be multiplied by itself.",
+		"id": "228",
+		"unit": "7",
+		"word": "exponent"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ is a device used to put out ___s.",
+		"id": "229",
+		"unit": "10",
+		"word": "fire extinguisher"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ is fast, basic medical treatment given right after an injury.",
+		"id": "230",
+		"unit": "10",
+		"word": "first aid"
+	},
+	{
+		"book": "1",
+		"desc": "The ___ ___ of a vehicle that flies through the air is the total cost involved in making it and having it fly.",
+		"id": "231",
+		"unit": "15",
+		"word": "flyaway value"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is an imperial measurement of distance that is equal to twelve inches.",
+		"id": "232",
+		"unit": "8",
+		"word": "foot"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is something that causes an object to move.",
+		"id": "233",
+		"unit": "5",
+		"word": "force"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ is an energy source that is made from organic remains. Coal, gas and oil are ___ fuels.",
+		"id": "234",
+		"unit": "12",
+		"word": "fossil fuel"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a substance that provides energy when burned.",
+		"id": "235",
+		"unit": "12",
+		"word": "fuel"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is the pointed support that a lever’s board or bar rests upon.",
+		"id": "236",
+		"unit": "6",
+		"word": "fulcrum"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a unit of force that is equal to the force of gravity. It is used to show the forces on an object when it accelerates.",
+		"id": "237",
+		"unit": "5",
+		"word": "G"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is an imperial measurement of volume that is equal to approximately five liters.",
+		"id": "238",
+		"unit": "8",
+		"word": "gallon"
+	},
+	{
+		"book": "1",
+		"desc": "Something that is ___ relates to the st_z. o*",
+		"id": "239",
+		"unit": "2",
+		"word": "geometric"
+	},
+	{
+		"book": "1",
+		"desc": "Glass is a solid, transparent material common . -sez",
+		"id": "240",
+		"unit": "3",
+		"word": "glass"
+	},
+	{
+		"book": "1",
+		"desc": "Gloves are protective clothes worn over me hands",
+		"id": "241",
+		"unit": "10",
+		"word": "gloves"
+	},
+	{
+		"book": "1",
+		"desc": "Goggles are eye glasses that provide protection",
+		"id": "242",
+		"unit": "10",
+		"word": "goggles"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is something known to be dangerous.",
+		"id": "243",
+		"unit": "10",
+		"word": "hazard"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is one of one hundred equal things.",
+		"id": "244",
+		"unit": "7",
+		"word": "hundredth"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is an idea that attempts to explain an observation.",
+		"id": "245",
+		"unit": "9",
+		"word": "hypothesis"
+	},
+	{
+		"book": "1",
+		"desc": "Something that is ___ is part of the system of measurements that is uncommon in most parts of the world. It includes measurements such as the gallon, foot, and pound.",
+		"id": "246",
+		"unit": "8",
+		"word": "imperial"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is an imperial measurement of distance that is equal to one twelfth of a foot.",
+		"id": "247",
+		"unit": "8",
+		"word": "inch"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ ___ is a smooth surface with one end that is higher than the other.",
+		"id": "248",
+		"unit": "6",
+		"word": "inclined plane"
+	},
+	{
+		"book": "1",
+		"desc": "Infrastructure is the physical structures needed to operate a society or an organization.",
+		"id": "249",
+		"unit": "11",
+		"word": "infrastructure"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is damage to the body.",
+		"id": "250",
+		"unit": "10",
+		"word": "injury"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ is the number of volts a device needs to operate.",
+		"id": "251",
+		"unit": "14",
+		"word": "input voltage"
+	},
+	{
+		"book": "1",
+		"desc": "To ___ something is to examine it carefully.",
+		"id": "252",
+		"unit": "1",
+		"word": "inspect"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ ___ is the maximum amount of fuel a vehicle can carry without externally attached fuel tanks.",
+		"id": "253",
+		"unit": "15",
+		"word": "internal fuel capacity"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a metric measurement of weight that is equal to one thousand grams. It is also equal to approximately two pounds.",
+		"id": "254",
+		"unit": "8",
+		"word": "kilogram"
+	},
+	{
+		"book": "1",
+		"desc": "The ___ ___ of an object is the energy it possesses due to motion. It is gained through acceleration and stays constant unless the object’s speed changes.",
+		"id": "255",
+		"unit": "5",
+		"word": "kinetic energy"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ is the process of making an area of ___ more useful by constructing buildings, roads, or bridges.",
+		"id": "256",
+		"unit": "11",
+		"word": "land development"
+	},
+	{
+		"book": "1",
+		"desc": "To ___ something is to push it into the air very quickly.",
+		"id": "257",
+		"unit": "15",
+		"word": "launch"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a bar that rests on a fulcrum.",
+		"id": "258",
+		"unit": "6",
+		"word": "lever"
+	},
+	{
+		"book": "1",
+		"desc": "Leverage is the power that comes from using a lever.",
+		"id": "259",
+		"unit": "6",
+		"word": "leverage"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ is the practice of paying a company for the right to produce something it has designed.",
+		"id": "260",
+		"unit": "15",
+		"word": "licensed production"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a metric measurement of volume that is equal to one thousand milli___s. It is also equal to approximately one fifth of a gallon.",
+		"id": "261",
+		"unit": "8",
+		"word": "liter"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a particular amount of weight a person or machine lifts or carries.",
+		"id": "262",
+		"unit": "6",
+		"word": "load"
+	},
+	{
+		"book": "1",
+		"desc": "Lumber is wood that is used as a construction material.",
+		"id": "263",
+		"unit": "3",
+		"word": "lumber"
+	},
+	{
+		"book": "1",
+		"desc": "___ is a unit for measuring the speed of something in comparison to the speed of sound,",
+		"id": "264",
+		"unit": "15",
+		"word": "Mach"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is an apparatus made from multiple parts. It is designed to perform some kind of work,",
+		"id": "265",
+		"unit": "1",
+		"word": "machine"
+	},
+	{
+		"book": "1",
+		"desc": "Mathematics is the study of numbers and change.",
+		"id": "266",
+		"unit": "1",
+		"word": "mathematics"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ is concerned with designing, making and using machines and tools.",
+		"id": "267",
+		"unit": "13",
+		"word": "mechanical engineering"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a number of parts in a machine that are linked together to perform a particular task.",
+		"id": "268",
+		"unit": "13",
+		"word": "mechanism"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a metric measurement of distance that is equal to one hundred centi___s,",
+		"id": "269",
+		"unit": "8",
+		"word": "meter"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a particular way of studying or doing something.",
+		"id": "270",
+		"unit": "9",
+		"word": "methodology"
+	},
+	{
+		"book": "1",
+		"desc": "Something that is ___ is part of the system of measurements used throughout most of the world. It includes measurements such as the liter, meter, and gram.",
+		"id": "271",
+		"unit": "8",
+		"word": "metric"
+	},
+	{
+		"book": "1",
+		"desc": "Something that is ___ is related to an entire city, town, or community.",
+		"id": "272",
+		"unit": "11",
+		"word": "municipal"
+	},
+	{
+		"book": "1",
+		"desc": "If something is ___, it is not poisonous.",
+		"id": "273",
+		"unit": "12",
+		"word": "nontoxic"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is a particular behavior or event that you witness.",
+		"id": "274",
+		"unit": "9",
+		"word": "observation"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ is the amount of watts a power source puts out.",
+		"id": "275",
+		"unit": "14",
+		"word": "output power"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ is the number of volts a power source puts out.",
+		"id": "276",
+		"unit": "14",
+		"word": "output voltage"
+	},
+	{
+		"book": "1",
+		"desc": "An ___ is a round shape that is longer than it is wide.",
+		"id": "277",
+		"unit": "2",
+		"word": "oval"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a number out of every 100.",
+		"id": "278",
+		"unit": "7",
+		"word": "percent"
+	},
+	{
+		"book": "1",
+		"desc": "Petroleum is a type of oil found in the ground.",
+		"id": "279",
+		"unit": "12",
+		"word": "petroleum"
+	},
+	{
+		"book": "1",
+		"desc": "Physics is a part of science that deals with the study of matter, movement, energy, and force,",
+		"id": "280",
+		"unit": "1",
+		"word": "physics"
+	},
+	{
+		"book": "1",
+		"desc": "Pliers are tools that are used to pull out nails or cut wires.",
+		"id": "281",
+		"unit": "4",
+		"word": "pliers"
+	},
+	{
+		"book": "1",
+		"desc": "Porcelain is a solid ceramic material that is of higher quality than normal ceramic.",
+		"id": "282",
+		"unit": "3",
+		"word": "porcelain"
+	},
+	{
+		"book": "1",
+		"desc": "The ___ ___ of an object is the ___ that it has due to its position. It becomes kinetic energy when the object begins moving.",
+		"id": "283",
+		"unit": "5",
+		"word": "potential energy"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is an imperial measurement of weight that is equal to approximately 454 grams,",
+		"id": "284",
+		"unit": "8",
+		"word": "pound"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ distributes electrical current to a device.",
+		"id": "285",
+		"unit": "14",
+		"word": "power supply"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is something you do to prevent something from happening.",
+		"id": "286",
+		"unit": "10",
+		"word": "precaution"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ is a container that holds liquid or gas at a specific ___,",
+		"id": "287",
+		"unit": "13",
+		"word": "pressure vessel"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a three-dimensional shape.",
+		"id": "288",
+		"unit": "2",
+		"word": "prism"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a question that you are trying to answer.",
+		"id": "289",
+		"unit": "9",
+		"word": "problem"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a series of steps that one takes during an experiment.",
+		"id": "290",
+		"unit": "9",
+		"word": "procedure"
+	},
+	{
+		"book": "1",
+		"desc": "If something is ___, it is not allowed.",
+		"id": "291",
+		"unit": "10",
+		"word": "prohibited"
+	},
+	{
+		"book": "1",
+		"desc": "Propellant is the fuel used in the engine of a vehicle that flies through the air.",
+		"id": "292",
+		"unit": "15",
+		"word": "propellant"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is an initial model of a machine or system. Engineers use this to help build the actual machine.",
+		"id": "293",
+		"unit": "13",
+		"word": "prototype"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a machine that consists of a wheel with a rope in its groove.",
+		"id": "294",
+		"unit": "6",
+		"word": "pulley"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is an engine, for a vehicle that flies through the air, that has no rotating parts.",
+		"id": "295",
+		"unit": "15",
+		"word": "ramjet"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a shape consisting of four straight lines and four right angles, and whose opposite sides are the same length.",
+		"id": "296",
+		"unit": "2",
+		"word": "rectangle"
+	},
+	{
+		"book": "1",
+		"desc": "If something is ___, it is made stronger by the addition of some type of material.",
+		"id": "297",
+		"unit": "3",
+		"word": "reinforced"
+	},
+	{
+		"book": "1",
+		"desc": "If a resource is ___, it can be replaced by the natural world.",
+		"id": "298",
+		"unit": "12",
+		"word": "renewable"
+	},
+	{
+		"book": "1",
+		"desc": "Something that is ___ is related to where people live.",
+		"id": "299",
+		"unit": "11",
+		"word": "residential"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a finding or conclusion of an experiment.",
+		"id": "300",
+		"unit": "9",
+		"word": "result"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ is the process of building a road.",
+		"id": "301",
+		"unit": "11",
+		"word": "road construction"
+	},
+	{
+		"book": "1",
+		"desc": "Scale is the size of something in comparison to another similar thing.",
+		"id": "302",
+		"unit": "11",
+		"word": "scale"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a piece of metal that you turn to fasten objects together.",
+		"id": "303",
+		"unit": "4",
+		"word": "screw"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a tool for putting screws into surfaces.",
+		"id": "304",
+		"unit": "4",
+		"word": "screwdriver"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a shape that is half of a circle.",
+		"id": "305",
+		"unit": "2",
+		"word": "semi-circle"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is an injury caused by electricity.",
+		"id": "306",
+		"unit": "10",
+		"word": "shock"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ is a basic machine with few moving parts.",
+		"id": "307",
+		"unit": "6",
+		"word": "simple machine"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is an imitation of a possible event or situation.",
+		"id": "308",
+		"unit": "13",
+		"word": "simulation"
+	},
+	{
+		"book": "1",
+		"desc": "Solder is a soft metal wire that is heated with a ___ing iron to join two metal surfaces.",
+		"id": "309",
+		"unit": "4",
+		"word": "solder"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ is used to join pieces of metal together with solder.",
+		"id": "310",
+		"unit": "4",
+		"word": "soldering iron"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a vehicle that flies outside the Earth’s atmosphere.",
+		"id": "311",
+		"unit": "15",
+		"word": "spacecraft"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a shape consisting of four right angles and four straight sides of equal length.",
+		"id": "312",
+		"unit": "2",
+		"word": "square"
+	},
+	{
+		"book": "1",
+		"desc": "If a number is ___, it is to be multiplied by itself.",
+		"id": "313",
+		"unit": "7",
+		"word": "squared"
+	},
+	{
+		"book": "1",
+		"desc": "___ ___ is a type of steel that does not rust.",
+		"id": "314",
+		"unit": "3",
+		"word": "stainless steel"
+	},
+	{
+		"book": "1",
+		"desc": "Steel is a very strong construction material that is made mostly from iron.",
+		"id": "315",
+		"unit": "3",
+		"word": "steel"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ is the distance an object in motion takes to come to a complete stop.",
+		"id": "316",
+		"unit": "5",
+		"word": "stopping distance"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a force that presses against an object. It can cause the object to change shape",
+		"id": "317",
+		"unit": "13",
+		"word": "stress"
+	},
+	{
+		"book": "1",
+		"desc": "To ___ something is to remove it from the surface of something else.",
+		"id": "318",
+		"unit": "4",
+		"word": "strip"
+	},
+	{
+		"book": "1",
+		"desc": "Technology is the group of new and sophisticated creations which make our lives easier. Examples include television, computers, and telephones.",
+		"id": "319",
+		"unit": "1",
+		"word": "technology"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is one of ten equal things.",
+		"id": "320",
+		"unit": "7",
+		"word": "tenth"
+	},
+	{
+		"book": "1",
+		"desc": "If something is ___, it has specific qualities added to its surface.",
+		"id": "321",
+		"unit": "3",
+		"word": "textured"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is one of one thousand equal things.",
+		"id": "322",
+		"unit": "7",
+		"word": "thousandth"
+	},
+	{
+		"book": "1",
+		"desc": "Thrust is the force exerted by an engine that causes a vehicle to fly through the air.",
+		"id": "323",
+		"unit": "15",
+		"word": "thrust"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a construction material that is made from ceramic, porcelain, stone, and other materials. It is often used as a wall or floor covering.",
+		"id": "324",
+		"unit": "3",
+		"word": "tile"
+	},
+	{
+		"book": "1",
+		"desc": "If something is ___ a number, it is multiplied by that number.",
+		"id": "325",
+		"unit": "7",
+		"word": "times"
+	},
+	{
+		"book": "1",
+		"desc": "If something is multiplied ___ , it is multiplied by itself that number of times.",
+		"id": "326",
+		"unit": "7",
+		"word": "to the (-th) power"
+	},
+	{
+		"book": "1",
+		"desc": "Something that is ___ is related to the detailed mapping of terrain.",
+		"id": "327",
+		"unit": "11",
+		"word": "topographic"
+	},
+	{
+		"book": "1",
+		"desc": "To ___ something is to move it from one object to another.",
+		"id": "328",
+		"unit": "5",
+		"word": "transfer"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a situation or condition that you change during an experiment.",
+		"id": "329",
+		"unit": "9",
+		"word": "variable"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a rounded or triangular space added to a ceiling to create space.",
+		"id": "330",
+		"unit": "2",
+		"word": "vault"
+	},
+	{
+		"book": "1",
+		"desc": "Velocity is a measurement of how far something travels in a set amount of time.",
+		"id": "331",
+		"unit": "15",
+		"word": "velocity"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ holds something tightly in place while someone works on it.",
+		"id": "332",
+		"unit": "4",
+		"word": "vise"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a measurement of electric potential.",
+		"id": "333",
+		"unit": "14",
+		"word": "volt"
+	},
+	{
+		"book": "1",
+		"desc": "The ___ ___ is the supply of fresh ___ for an area or community.",
+		"id": "334",
+		"unit": "11",
+		"word": "water supply"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a measurement of electrical power.",
+		"id": "335",
+		"unit": "14",
+		"word": "watt"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ is a tool with one wide end and one pointed end.",
+		"id": "336",
+		"unit": "6",
+		"word": "wedge"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ ___ is a machine consisting of a ___ with a rod through it.",
+		"id": "337",
+		"unit": "6",
+		"word": "wheel and axle"
+	},
+	{
+		"book": "1",
+		"desc": "A ___ ___ is a tool that is used to remove insulation from ___s.",
+		"id": "338",
+		"unit": "4",
+		"word": "wire stripper"
+	},
+	{
+		"book": "1",
+		"desc": "Work is the transfer of energy. It is measured by how far an object is moved by a force.",
+		"id": "339",
+		"unit": "5",
+		"word": "work"
+	},
+	{
+		"book": "1",
+		"desc": "The ___ ___ is the idea that the change in an object’s energy is equal to the total work done to the object.",
+		"id": "340",
+		"unit": "5",
+		"word": "work-energy principle"
+	}
+]
