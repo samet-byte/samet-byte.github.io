@@ -1,0 +1,3722 @@
+[
+   {
+      "id":"10",
+      "book":"1",
+      "unit":"3",
+      "word":"lumber",
+      "desc":"___ is wood that is used as a construction material.",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"11",
+      "book":"2",
+      "unit":"4",
+      "word":"cue card",
+      "desc":"A ___ ___ is a card with information that helps a person remember what to say.",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"12",
+      "book":"2",
+      "unit":"9",
+      "word":"hardness",
+      "desc":"___ is a property that makes an object difficult to dent or break.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"13",
+      "book":"2",
+      "unit":"8",
+      "word":"geometry",
+      "desc":"___  is the mathematical shape and arrangement of an object.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"14",
+      "book":"1",
+      "unit":"5",
+      "word":"G",
+      "desc":"A ___ is a unit of force that is equal to the force of gravity. It is used to show the forces on an object when it accelerates.",
+      "options":"abstract ,decelerate ,force ,G ,kinetic energy ,potential energy ,stopping distance ,transfer ,work"
+   },
+   {
+      "id":"15",
+      "book":"1",
+      "unit":"5",
+      "word":"abstract",
+      "desc":"An ___ is a summary of an article, document, or o:~er text",
+      "options":"abstract ,decelerate ,force ,G ,kinetic energy ,potential energy ,stopping distance ,transfer ,work"
+   },
+   {
+      "id":"16",
+      "book":"2",
+      "unit":"14",
+      "word":"computer science",
+      "desc":"___ ___ is the study of how computerss can be used.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"17",
+      "book":"2",
+      "unit":"1",
+      "word":"pivot",
+      "desc":"A ___ is the object around which other objects rotate or turn.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"18",
+      "book":"1",
+      "unit":"5",
+      "word":"potential energy",
+      "desc":"The ___ ___ of an object is the ___ that it has due to its position. It becomes kinetic energy when the object begins moving.",
+      "options":"abstract ,decelerate ,force ,G ,kinetic energy ,potential energy ,stopping distance ,transfer ,work"
+   },
+   {
+      "id":"19",
+      "book":"3",
+      "unit":"4",
+      "word":"load",
+      "desc":"A ___ is a force applied to a structure.",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"20",
+      "book":"2",
+      "unit":"2",
+      "word":"degree",
+      "desc":"A ___ is an academic qualification completed at a college.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"21",
+      "book":"2",
+      "unit":"9",
+      "word":"brittle",
+      "desc":"A ___ material will break easily under pressure.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"22",
+      "book":"3",
+      "unit":"15",
+      "word":"dialysis",
+      "desc":"___ is the purification of blood as a substitute for a kidney.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"23",
+      "book":"2",
+      "unit":"9",
+      "word":"malleable",
+      "desc":"A ___ material bends easily when you press it.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"24",
+      "book":"1",
+      "unit":"10",
+      "word":"fire extinguisher",
+      "desc":"A ___ ___ is a device used to put out ___s.",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"25",
+      "book":"3",
+      "unit":"3",
+      "word":"superfluid",
+      "desc":"A ___ is a description of heat capacity wherein unusual characteristics are observed in a fluid. These characteristics include the ability to creep up the walls of a container until the container is completely empty.",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"26",
+      "book":"1",
+      "unit":"8",
+      "word":"centimeter",
+      "desc":"A ___ is a metric measurement of distance that is equal to one one-hundredth of a meter.",
+      "options":"centimeter ,foot ,gallon ,imperial ,inch ,kilogram ,liter ,meter ,metric ,pound"
+   },
+   {
+      "id":"27",
+      "book":"3",
+      "unit":"6",
+      "word":"system",
+      "desc":"A ___ is a set of separate but interacting bodies that together form a whole.",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"28",
+      "book":"3",
+      "unit":"10",
+      "word":"sort",
+      "desc":"To ___ data is to arrange or group it in a certain way.",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"29",
+      "book":"3",
+      "unit":"1",
+      "word":"rest",
+      "desc":"___ refers to the state of an object when it is not moving.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"30",
+      "book":"3",
+      "unit":"15",
+      "word":"heart-lung machine",
+      "desc":"A ___ ___ is a pump that takes ever the functions of the heart and lungs during a cardiopulmonary bypass.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"31",
+      "book":"2",
+      "unit":"2",
+      "word":"courage",
+      "desc":"When you have ___ you are brave enough to do something.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"32",
+      "book":"3",
+      "unit":"8",
+      "word":"qualitative model",
+      "desc":"A ___ ___ is a model used to see how things interact with or react one another.",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"33",
+      "book":"1",
+      "unit":"15",
+      "word":"flyaway value",
+      "desc":"The ___ ___ of a vehicle that flies through the air is the total cost involved in making it and having it fly.",
+      "options":"flyaway value ,internal fuel capacity ,launch ,licensed production ,Mach ,propellant ,ramjet ,spacecraft ,thrust ,velocity"
+   },
+   {
+      "id":"34",
+      "book":"1",
+      "unit":"7",
+      "word":"exponent",
+      "desc":"An ___ is a small number written above another number and which signifies how many times the bottom number should be multiplied by itself.",
+      "options":"cubed ,equal ,exponent ,hundredth ,percent ,squared ,tenth ,thousandth ,times ,to the (-th) power"
+   },
+   {
+      "id":"35",
+      "book":"2",
+      "unit":"7",
+      "word":"Y axis",
+      "desc":"The ___ is the vertical axis on a graph.",
+      "options":"axis ,bar graph ,coordinate ,dependent variable ,graph ,independent variable ,line graph ,scatter plot ,X axis ,Y axis"
+   },
+   {
+      "id":"36",
+      "book":"2",
+      "unit":"7",
+      "word":"X axis",
+      "desc":"The ___ is the horizontal axis on a graph.",
+      "options":"axis ,bar graph ,coordinate ,dependent variable ,graph ,independent variable ,line graph ,scatter plot ,X axis ,Y axis"
+   },
+   {
+      "id":"37",
+      "book":"1",
+      "unit":"3",
+      "word":"steel",
+      "desc":"___ is a very strong construction material that is made mostly from iron.",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"38",
+      "book":"3",
+      "unit":"7",
+      "word":"narrow",
+      "desc":"To ___ something is to make it less wide.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"39",
+      "book":"3",
+      "unit":"5",
+      "word":"conductor",
+      "desc":"A ___ is a material that allows the flow of electric current.",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"40",
+      "book":"3",
+      "unit":"10",
+      "word":"bell curve",
+      "desc":"A ___ ___ is a graph in which most values lie around a middle value.",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"41",
+      "book":"2",
+      "unit":"14",
+      "word":"software engineering",
+      "desc":"___ ___ is a profession that develops and improves computer programs.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"42",
+      "book":"2",
+      "unit":"4",
+      "word":"projector",
+      "desc":"A ___ is a machine that lets you show images on a screen or surface,",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"43",
+      "book":"3",
+      "unit":"3",
+      "word":"viscosity",
+      "desc":"The ___ of a liquid is the measure of its resistance to being deformed through pouring or other movement. The higher the viscosity, the more it resists being deformed.",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"44",
+      "book":"1",
+      "unit":"8",
+      "word":"imperial",
+      "desc":"Something that is ___ is part of the system of measurements that is uncommon in most parts of the world. It includes measurements such as the gallon, foot, and pound.",
+      "options":"centimeter ,foot ,gallon ,imperial ,inch ,kilogram ,liter ,meter ,metric ,pound"
+   },
+   {
+      "id":"45",
+      "book":"3",
+      "unit":"10",
+      "word":"frequency",
+      "desc":"___ is the number of times an event occurs in a given period of time.",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"46",
+      "book":"1",
+      "unit":"6",
+      "word":"wedge",
+      "desc":"A ___ is a tool with one wide end and one pointed end.",
+      "options":"complicated ,fulcrum ,inclined plane ,lever ,leverage ,load ,pulley ,simple machine ,wedge ,wheel and axle"
+   },
+   {
+      "id":"47",
+      "book":"2",
+      "unit":"6",
+      "word":"out of the box",
+      "desc":"Something that is ___ is outside the realm of conventional thought or practice. Could also be expressed as \u201c___side the box.\u201d",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"48",
+      "book":"3",
+      "unit":"4",
+      "word":"vibration",
+      "desc":"___ is a series of rapid movements back and forth.",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"49",
+      "book":"1",
+      "unit":"13",
+      "word":"simulation",
+      "desc":"A ___ is an imitation of a possible event or situation.",
+      "options":"CAD ,CAM ,CFD ,drafting ,mechanical engineering ,mechanism ,pressure vessel ,prototype ,simulation ,stress"
+   },
+   {
+      "id":"50",
+      "book":"3",
+      "unit":"7",
+      "word":"evaluate",
+      "desc":"To ___ something is to test it and see if it meets expectations.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"51",
+      "book":"1",
+      "unit":"13",
+      "word":"CAD",
+      "desc":"___ (computer-aided design) refers to using computer technology to create computer models of objects.",
+      "options":"CAD ,CAM ,CFD ,drafting ,mechanical engineering ,mechanism ,pressure vessel ,prototype ,simulation ,stress"
+   },
+   {
+      "id":"52",
+      "book":"2",
+      "unit":"12",
+      "word":"agriculture",
+      "desc":"___ is the science of farming.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"53",
+      "book":"1",
+      "unit":"14",
+      "word":"output voltage",
+      "desc":"___ ___ is the number of volts a power source puts out.",
+      "options":"circuit card assembly ,component ,input voltage ,output power ,output voltage ,power supply ,volt ,watt"
+   },
+   {
+      "id":"54",
+      "book":"2",
+      "unit":"5",
+      "word":"analysis",
+      "desc":"___ is the act of closely examining something.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"55",
+      "book":"3",
+      "unit":"3",
+      "word":"pressure",
+      "desc":"___ is the force per unit area applied to an object.",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"56",
+      "book":"1",
+      "unit":"13",
+      "word":"CAM",
+      "desc":"___ (computer-aided manufacturing) refers to the use of computer technology to help build the parts of a machine.",
+      "options":"CAD ,CAM ,CFD ,drafting ,mechanical engineering ,mechanism ,pressure vessel ,prototype ,simulation ,stress"
+   },
+   {
+      "id":"57",
+      "book":"3",
+      "unit":"3",
+      "word":"driving force",
+      "desc":"A ___ ___ is the power that causes an object to start or continue moving,",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"58",
+      "book":"3",
+      "unit":"1",
+      "word":"vector",
+      "desc":"A ___ is a quantity that has both a size and a direction.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"59",
+      "book":"1",
+      "unit":"15",
+      "word":"licensed production",
+      "desc":"___ ___ is the practice of paying a company for the right to produce something it has designed.",
+      "options":"flyaway value ,internal fuel capacity ,launch ,licensed production ,Mach ,propellant ,ramjet ,spacecraft ,thrust ,velocity"
+   },
+   {
+      "id":"60",
+      "book":"2",
+      "unit":"6",
+      "word":"norm",
+      "desc":"A ___ is a standard or commonly-held notion.",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"61",
+      "book":"2",
+      "unit":"10",
+      "word":"order of magnitude",
+      "desc":"An ___ is the class of scale of any amount. It usually contains a value that is of a certain ratio to the class preceding it. For example, 0.1 is one ___ of magnitude greater than 0.01, and 1 is one ___ of magnitude greater than 0.1.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"62",
+      "book":"2",
+      "unit":"10",
+      "word":"trailing zero",
+      "desc":"A ___ ___ is a zero that occurs in the decimal representation of a number. No other digits follow a ___ zero (or a series of ___ zeros), and they are always considered significant.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"63",
+      "book":"3",
+      "unit":"11",
+      "word":"fault-tolerant computer system",
+      "desc":"A ___ ___ ___ is a computer system capable of continuing to function even if certain faults develop with it.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"64",
+      "book":"3",
+      "unit":"5",
+      "word":"anode",
+      "desc":"An ___ is an electrode that allows electric current to flow into an electrical device such as a battery.",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"65",
+      "book":"3",
+      "unit":"8",
+      "word":"3-D",
+      "desc":"If something is ___ (dimensional), it exhibits or appears to exhibit re tree dimensions of height, width, and depth.",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"66",
+      "book":"2",
+      "unit":"14",
+      "word":"problem modeling",
+      "desc":"___ ___ is the assessment of software for issues.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"67",
+      "book":"2",
+      "unit":"3",
+      "word":"MSc",
+      "desc":"The Master\u2019s of Science (___) is a master\u2019s degree in a scientific field.",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"68",
+      "book":"2",
+      "unit":"14",
+      "word":"maintenance",
+      "desc":"___ is fixing a software\u2019s flaws after it is released.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"69",
+      "book":"2",
+      "unit":"10",
+      "word":"calculation",
+      "desc":"A ___ is a function of mathematics wherein numbers are manipulated to achieve a result. Calculations can include addition, subtraction, multiplication, division, and other operations.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"70",
+      "book":"2",
+      "unit":"5",
+      "word":"approach",
+      "desc":"An ___ is how you deal with something.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"71",
+      "book":"3",
+      "unit":"8",
+      "word":"digital computer model",
+      "desc":"A ___ ___ ___ is a computer model created on a digital computer system. It is used to show a system in part or in entirety, and is capable of performing incredibly complex calculations at a very high speed.",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"72",
+      "book":"3",
+      "unit":"1",
+      "word":"acceleration",
+      "desc":"___ is an increase in an object's speed",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"73",
+      "book":"2",
+      "unit":"6",
+      "word":"concrete",
+      "desc":"Something that is ___ either currently exists in reality or could exist in reality. It is the opposite of \u201cabstract.\u201d",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"74",
+      "book":"3",
+      "unit":"11",
+      "word":"robotics",
+      "desc":"___ is the discipline concerned with the design, manufacture, and implementation of machines capable of performing tasks on their own.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"75",
+      "book":"2",
+      "unit":"3",
+      "word":"EAB",
+      "desc":"The Engineering Accreditation Board (___) is the governing body that grants accreditation to university engineering degree programs in the United Kingdom.",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"76",
+      "book":"1",
+      "unit":"13",
+      "word":"mechanical engineering",
+      "desc":"___ ___ is concerned with designing, making and using machines and tools.",
+      "options":"CAD ,CAM ,CFD ,drafting ,mechanical engineering ,mechanism ,pressure vessel ,prototype ,simulation ,stress"
+   },
+   {
+      "id":"77",
+      "book":"2",
+      "unit":"3",
+      "word":"ABET",
+      "desc":"The American Board for Engineering and Technology (___) is the governing body that grants accreditation to university engineering degree programs in the United States.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"78",
+      "book":"3",
+      "unit":"1",
+      "word":"friction",
+      "desc":"___ is a force that causes resistance when two objects come into contact, or when an object comes into contact with air.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"79",
+      "book":"2",
+      "unit":"3",
+      "word":"undergraduate degree",
+      "desc":"An ___ ___ is a degree that is awarded upon completion of a general course of study that typically last four years.",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"80",
+      "book":"1",
+      "unit":"12",
+      "word":"alternative fuel",
+      "desc":"An ___ ___ is a substance that is used for energy instead of fossil fuels.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"81",
+      "book":"3",
+      "unit":"7",
+      "word":"feasibility study",
+      "desc":"A ___ ___ is an evaluation of the difficulty of a proposed project.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"82",
+      "book":"1",
+      "unit":"12",
+      "word":"convert",
+      "desc":"To ___ something is to change it from one thing to another.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"83",
+      "book":"1",
+      "unit":"9",
+      "word":"experiment",
+      "desc":"An ___ is a scientific study that you conduct to solve a problem.",
+      "options":"control ,data ,experiment ,hypothesis ,methodology ,observation ,problem ,procedure ,result ,variable"
+   },
+   {
+      "id":"84",
+      "book":"3",
+      "unit":"7",
+      "word":"constraint",
+      "desc":"A ___ is a limit set on what can be done.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"85",
+      "book":"2",
+      "unit":"14",
+      "word":"design",
+      "desc":"The ___ of software is its planning and structure.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"86",
+      "book":"3",
+      "unit":"11",
+      "word":"circuit analysis",
+      "desc":"___ ___ is the discipline concerned with studying and identifying the voltage and currents that run across and through every component of a given network.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"87",
+      "book":"2",
+      "unit":"6",
+      "word":"plausible",
+      "desc":"Something that is ___ seems reasonable or achievable.",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"88",
+      "book":"3",
+      "unit":"3",
+      "word":"Poiseuille equation",
+      "desc":"The ___ ___ allows one to calculate the pressure drop of a quid as it flows through a long cylinder such as a pipe or a hose.",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"89",
+      "book":"1",
+      "unit":"6",
+      "word":"wheel and axle",
+      "desc":"A ___ ___ ___ is a machine consisting of a ___ with a rod through it.",
+      "options":"complicated ,fulcrum ,inclined plane ,lever ,leverage ,load ,pulley ,simple machine ,wedge ,wheel and axle"
+   },
+   {
+      "id":"90",
+      "book":"2",
+      "unit":"10",
+      "word":"quantity",
+      "desc":"A ___ is an amount of something. It can be either precise or indefinite.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"91",
+      "book":"2",
+      "unit":"8",
+      "word":"diagram",
+      "desc":"A ___ is a drawn plan for something.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"92",
+      "book":"2",
+      "unit":"1",
+      "word":"trebuchet",
+      "desc":"A ___ is a weapon that was popular during the Middle Ages. It was often used to launch rocks and other items into to walls of the fort or castle that was being attacked.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"93",
+      "book":"2",
+      "unit":"10",
+      "word":"leading zero",
+      "desc":"A ___ ___ is a zero that leads a number string.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"94",
+      "book":"3",
+      "unit":"8",
+      "word":"VRML",
+      "desc":"Virtual Reality Modeling Language is a modeling language used to create 3",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"95",
+      "book":"2",
+      "unit":"12",
+      "word":"localized irrigation",
+      "desc":"___ ___ applies small amounts of water directly to plants.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"96",
+      "book":"2",
+      "unit":"3",
+      "word":"master\u2019s degree",
+      "desc":"A ___ ___ is a postgraduate degree that is awarded to people who have developed a level of mastery over a particular field. It is achieved through one or more additional years of study beyond an initial undergraduate degree.",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"97",
+      "book":"3",
+      "unit":"15",
+      "word":"prosthetic",
+      "desc":"A ___ is an artificial limb or organ.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"98",
+      "book":"1",
+      "unit":"13",
+      "word":"CFD",
+      "desc":"___ (computational fluid dynamics) refers to the use of mathematical formulas to study problems related to the movement of fluids and gases.",
+      "options":"CAD ,CAM ,CFD ,drafting ,mechanical engineering ,mechanism ,pressure vessel ,prototype ,simulation ,stress"
+   },
+   {
+      "id":"99",
+      "book":"2",
+      "unit":"9",
+      "word":"tensile",
+      "desc":"A ___ material is able to stretch easily.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"100",
+      "book":"1",
+      "unit":"12",
+      "word":"chemical engineer",
+      "desc":"A ___ ___ is someone who works in the ___ industry.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"101",
+      "book":"1",
+      "unit":"12",
+      "word":"petroleum",
+      "desc":"___ is a type of oil found in the ground.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"102",
+      "book":"2",
+      "unit":"11",
+      "word":"consult",
+      "desc":"To ___ with someone is to give them professional or expert advice.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"103",
+      "book":"2",
+      "unit":"11",
+      "word":"expertise",
+      "desc":"___ is a high level of skill or knowledge on a certain topic or subject.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"104",
+      "book":"3",
+      "unit":"11",
+      "word":"algorithm",
+      "desc":"An ___ is a method for solving a problem by usrg a specified sequence of instructions.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"105",
+      "book":"3",
+      "unit":"4",
+      "word":"rigid body",
+      "desc":"A ___ ___ is a structure ignoring any changes to it from applied force.",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"106",
+      "book":"3",
+      "unit":"3",
+      "word":"resistance",
+      "desc":"___ is a force that opposes motion. Friction is a type of resistance.",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"107",
+      "book":"1",
+      "unit":"1",
+      "word":"machine",
+      "desc":"A ___ is an apparatus made from multiple parts. It is designed to perform some kind of work,",
+      "options":"design ,develop ,discipline ,engineer ,engineering ,inspect ,machine ,mathematics ,physics ,technology"
+   },
+   {
+      "id":"108",
+      "book":"2",
+      "unit":"1",
+      "word":"sling",
+      "desc":"A ___ is a device that holds and, when subjected to the proper forces, launches or throws a projectile.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"109",
+      "book":"3",
+      "unit":"5",
+      "word":"separator sheet",
+      "desc":"A ___ ___ is a sheet of plastic that keeps a battery\u2019s electrodes from touching while still allowing energy to pass through it in the form of ions.",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"110",
+      "book":"1",
+      "unit":"5",
+      "word":"work-energy principle",
+      "desc":"The ___ ___ is the idea that the change in an object\u2019s energy is equal to the total work done to the object.",
+      "options":"abstract ,decelerate ,force ,G ,kinetic energy ,potential energy ,stopping distance ,transfer ,work"
+   },
+   {
+      "id":"111",
+      "book":"3",
+      "unit":"15",
+      "word":"infusion pump",
+      "desc":"An ___ ___ is a device that administers fluids, medication and nutrients into the body,",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"112",
+      "book":"1",
+      "unit":"9",
+      "word":"control",
+      "desc":"A ___ is a situation or condition that you do not change during an experiment.",
+      "options":"control ,data ,experiment ,hypothesis ,methodology ,observation ,problem ,procedure ,result ,variable"
+   },
+   {
+      "id":"113",
+      "book":"2",
+      "unit":"15",
+      "word":"select",
+      "desc":"To ___ something is to choose it.",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"114",
+      "book":"2",
+      "unit":"5",
+      "word":"problem identification",
+      "desc":"___ ___ is the act of stating what issues one must address in a situation.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"115",
+      "book":"3",
+      "unit":"3",
+      "word":"flow rate",
+      "desc":"The ___ ___ of a liquid is the volume that passes through a given area in a certain amount of time.",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"116",
+      "book":"1",
+      "unit":"14",
+      "word":"watt",
+      "desc":"A ___ is a measurement of electrical power.",
+      "options":"circuit card assembly ,component ,input voltage ,output power ,output voltage ,power supply ,volt ,watt"
+   },
+   {
+      "id":"117",
+      "book":"2",
+      "unit":"5",
+      "word":"iterative procedure",
+      "desc":"An ___ ___ is the act of doing something over and over with slight changes until you perfect it.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"118",
+      "book":"3",
+      "unit":"15",
+      "word":"CT",
+      "desc":"___ (computed tomography) is use of a series of X",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"119",
+      "book":"3",
+      "unit":"7",
+      "word":"verify",
+      "desc":"To ___ something is to prove that it is correct.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"120",
+      "book":"1",
+      "unit":"3",
+      "word":"ceramic",
+      "desc":"___ is a solid material made from clay or similar materials.",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"121",
+      "book":"2",
+      "unit":"8",
+      "word":"depth",
+      "desc":"___ is how deep something is.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"122",
+      "book":"3",
+      "unit":"15",
+      "word":"pacemaker",
+      "desc":"A ___ is a device that controls a heart\u2019s contractions.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"123",
+      "book":"2",
+      "unit":"3",
+      "word":"bachelor\u2019s degree",
+      "desc":"A ___ ___ is an undergraduate degree that is awarded upon completion of a course of study that typically lasts four years.",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"124",
+      "book":"2",
+      "unit":"12",
+      "word":"distribution uniformity",
+      "desc":"___ ___ is a percentage of how equally water is being applied to an area.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"125",
+      "book":"3",
+      "unit":"3",
+      "word":"diameter",
+      "desc":"The ___ of a circle is the distance across its widest point.",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"126",
+      "book":"2",
+      "unit":"4",
+      "word":"presentation program",
+      "desc":"A ___ ___ is a computer program that lets you display information in a slide show.",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"127",
+      "book":"2",
+      "unit":"12",
+      "word":"crop",
+      "desc":"A ___ is a group of plants that you grow in order to eat or sell.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"128",
+      "book":"1",
+      "unit":"11",
+      "word":"road construction",
+      "desc":"___ ___ is the process of building a road.",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"129",
+      "book":"3",
+      "unit":"4",
+      "word":"magnitude",
+      "desc":"___ is the size of something.",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"130",
+      "book":"3",
+      "unit":"15",
+      "word":"X-ray",
+      "desc":"An ___ is a type of radiation that can pass through objects and show the structures inside them on special film.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"131",
+      "book":"1",
+      "unit":"3",
+      "word":"textured",
+      "desc":"If something is ___, it has specific qualities added to its surface.",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"132",
+      "book":"1",
+      "unit":"3",
+      "word":"tile",
+      "desc":"A ___ is a construction material that is made from ceramic, porcelain, stone, and other materials. It is often used as a wall or floor covering.",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"133",
+      "book":"3",
+      "unit":"6",
+      "word":"steradian",
+      "desc":"A ___ is a unit of measurement for solid angles.",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"134",
+      "book":"2",
+      "unit":"13",
+      "word":"supply chain",
+      "desc":"A ___ ___ consists of all the people and resources that help get a product from a supplier to a customer.",
+      "options":"assembly line ,capacity ,conveyor ,cost-effective ,ergonomics ,facility layout ,inventory ,quality control ,streamline ,supply chain"
+   },
+   {
+      "id":"135",
+      "book":"1",
+      "unit":"14",
+      "word":"circuit card assembly",
+      "desc":"A ___ ___ ___ is a card with all components installed that can be used to perform a variety of tasks in electrical equipment.",
+      "options":"circuit card assembly ,component ,input voltage ,output power ,output voltage ,power supply ,volt ,watt"
+   },
+   {
+      "id":"136",
+      "book":"2",
+      "unit":"6",
+      "word":"convention",
+      "desc":"A ___ is something that is the subject of general agreement or consent.",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"137",
+      "book":"3",
+      "unit":"5",
+      "word":"insulator",
+      "desc":"An ___ is a material that does not allow the flow of electric current.",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"138",
+      "book":"2",
+      "unit":"1",
+      "word":"counterweight",
+      "desc":"A ___ is a heavy object that is used to balance some type of load. In trebuchets, it is the weight that causes the sling to rotate around the pivot and launch the projectile.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"139",
+      "book":"1",
+      "unit":"12",
+      "word":"nontoxic",
+      "desc":"If something is ___, it is not poisonous.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"140",
+      "book":"2",
+      "unit":"1",
+      "word":"projectile",
+      "desc":"A ___ is an object that is being launched or thrown through the air.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"141",
+      "book":"2",
+      "unit":"2",
+      "word":"curiosity",
+      "desc":"___  is an interest in learning something.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"142",
+      "book":"2",
+      "unit":"11",
+      "word":"advertising",
+      "desc":"___ is the process of calling consumers' attention to a company\u2019s products or services.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"143",
+      "book":"2",
+      "unit":"6",
+      "word":"feedback",
+      "desc":"___ is a reaction to an object or activity. It usually includes opinions on how the object or activity can be improved.",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"144",
+      "book":"2",
+      "unit":"7",
+      "word":"graph",
+      "desc":"A ___ is a diagram showing a relationship between variables.",
+      "options":"axis ,bar graph ,coordinate ,dependent variable ,graph ,independent variable ,line graph ,scatter plot ,X axis ,Y axis"
+   },
+   {
+      "id":"145",
+      "book":"3",
+      "unit":"15",
+      "word":"treatment",
+      "desc":"___ is care for an illness or injury.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"146",
+      "book":"2",
+      "unit":"13",
+      "word":"inventory",
+      "desc":"An ___ is a list of the materials and goods in a factory.",
+      "options":"assembly line ,capacity ,conveyor ,cost-effective ,ergonomics ,facility layout ,inventory ,quality control ,streamline ,supply chain"
+   },
+   {
+      "id":"147",
+      "book":"3",
+      "unit":"11",
+      "word":"software engineering",
+      "desc":"___ ___ is the discipline of creating, modifying, and implementing software.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"148",
+      "book":"2",
+      "unit":"14",
+      "word":"validation",
+      "desc":"___ is making sure that software satisfies the user\u2019s needs.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"149",
+      "book":"1",
+      "unit":"2",
+      "word":"ellipse",
+      "desc":"An ___ is a shape like a flat circle or oval.",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"150",
+      "book":"2",
+      "unit":"5",
+      "word":"logic",
+      "desc":"___ is a reasonable way of thinking.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"151",
+      "book":"1",
+      "unit":"7",
+      "word":"percent",
+      "desc":"A ___ is a number out of every 100.",
+      "options":"cubed ,equal ,exponent ,hundredth ,percent ,squared ,tenth ,thousandth ,times ,to the (-th) power"
+   },
+   {
+      "id":"152",
+      "book":"1",
+      "unit":"15",
+      "word":"internal fuel capacity",
+      "desc":"___ ___ ___ is the maximum amount of fuel a vehicle can carry without externally attached fuel tanks.",
+      "options":"flyaway value ,internal fuel capacity ,launch ,licensed production ,Mach ,propellant ,ramjet ,spacecraft ,thrust ,velocity"
+   },
+   {
+      "id":"153",
+      "book":"3",
+      "unit":"6",
+      "word":"luminous intensity",
+      "desc":"___ ___ measures the power of light the human eye can perceive being emitted in a direction.",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"154",
+      "book":"2",
+      "unit":"15",
+      "word":"deficiency",
+      "desc":"A ___ is a lack of a necessary nutrient or other desirable item.",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"155",
+      "book":"1",
+      "unit":"15",
+      "word":"launch",
+      "desc":"To ___ something is to push it into the air very quickly.",
+      "options":"flyaway value ,internal fuel capacity ,launch ,licensed production ,Mach ,propellant ,ramjet ,spacecraft ,thrust ,velocity"
+   },
+   {
+      "id":"156",
+      "book":"1",
+      "unit":"1",
+      "word":"discipline",
+      "desc":"A ___ is a branch of instruction or learning.",
+      "options":"design ,develop ,discipline ,engineer ,engineering ,inspect ,machine ,mathematics ,physics ,technology"
+   },
+   {
+      "id":"157",
+      "book":"3",
+      "unit":"6",
+      "word":"luminance",
+      "desc":"___ measures the luminous intensity that the human eye can perceive across a certain amount of area.",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"158",
+      "book":"1",
+      "unit":"10",
+      "word":"shock",
+      "desc":"A ___ is an injury caused by electricity.",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"159",
+      "book":"3",
+      "unit":"8",
+      "word":"simulation",
+      "desc":"A ___ is an imitation or prediction of a real object or event. When created on a computer, a simulation is essentially the same thing as a computer model.",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"160",
+      "book":"1",
+      "unit":"2",
+      "word":"semi-circle",
+      "desc":"A ___ is a shape that is half of a circle.",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"161",
+      "book":"1",
+      "unit":"9",
+      "word":"methodology",
+      "desc":"A ___ is a particular way of studying or doing something.",
+      "options":"control ,data ,experiment ,hypothesis ,methodology ,observation ,problem ,procedure ,result ,variable"
+   },
+   {
+      "id":"162",
+      "book":"2",
+      "unit":"15",
+      "word":"trait",
+      "desc":"A ___ is a distinguishing characteristic.",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"163",
+      "book":"2",
+      "unit":"13",
+      "word":"cost-effective",
+      "desc":"Something that is ___ is worth the amount of money you spent on it.",
+      "options":"assembly line ,capacity ,conveyor ,cost-effective ,ergonomics ,facility layout ,inventory ,quality control ,streamline ,supply chain"
+   },
+   {
+      "id":"164",
+      "book":"2",
+      "unit":"5",
+      "word":"comprehension",
+      "desc":"___ is the step of a problem solving method in which data and theory combine to solve a problem.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"165",
+      "book":"1",
+      "unit":"11",
+      "word":"civil engineer",
+      "desc":"A ___ ___ is a person who works with the design and construction of the physical environment. This includes buildings, roads, bridges, and other things.",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"166",
+      "book":"1",
+      "unit":"6",
+      "word":"leverage",
+      "desc":"___ is the power that comes from using a lever.",
+      "options":"complicated ,fulcrum ,inclined plane ,lever ,leverage ,load ,pulley ,simple machine ,wedge ,wheel and axle"
+   },
+   {
+      "id":"167",
+      "book":"3",
+      "unit":"1",
+      "word":"Newton\u2019s first law",
+      "desc":"___ ___ ___ is a law that states that objects will remain at rest or moving in a straight line unless a net force acts upon them.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"168",
+      "book":"3",
+      "unit":"11",
+      "word":"VLSI",
+      "desc":"Very Large",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"169",
+      "book":"1",
+      "unit":"15",
+      "word":"spacecraft",
+      "desc":"A ___ is a vehicle that flies outside the Earth\u2019s atmosphere.",
+      "options":"flyaway value ,internal fuel capacity ,launch ,licensed production ,Mach ,propellant ,ramjet ,spacecraft ,thrust ,velocity"
+   },
+   {
+      "id":"170",
+      "book":"1",
+      "unit":"4",
+      "word":"soldering iron",
+      "desc":"A ___ ___ is used to join pieces of metal together with solder.",
+      "options":"clip ,drill ,pliers ,screw ,screwdriver ,solder ,soldering iron ,strip ,vise ,wire stripper"
+   },
+   {
+      "id":"171",
+      "book":"1",
+      "unit":"3",
+      "word":"porcelain",
+      "desc":"___ is a solid ceramic material that is of higher quality than normal ceramic.",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"172",
+      "book":"1",
+      "unit":"5",
+      "word":"transfer",
+      "desc":"To ___ something is to move it from one object to another.",
+      "options":"abstract ,decelerate ,force ,G ,kinetic energy ,potential energy ,stopping distance ,transfer ,work"
+   },
+   {
+      "id":"173",
+      "book":"2",
+      "unit":"9",
+      "word":"ductility",
+      "desc":"___ refers to a material\u2019s ability to not break under tensile force.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"174",
+      "book":"3",
+      "unit":"2",
+      "word":"The Third Law of Thermodynamics",
+      "desc":"___ ___ ___ ___ ___ deals with the limits of entropy. It states that a system cannot ever reach the minimum value of entropy, which is absolute zero.",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   },
+   {
+      "id":"175",
+      "book":"1",
+      "unit":"10",
+      "word":"prohibited",
+      "desc":"If something is ___, it is not allowed.",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"176",
+      "book":"2",
+      "unit":"13",
+      "word":"conveyor",
+      "desc":"A ___ is a piece of equipment that moves materials in a line from one area to another.",
+      "options":"assembly line ,capacity ,conveyor ,cost-effective ,ergonomics ,facility layout ,inventory ,quality control ,streamline ,supply chain"
+   },
+   {
+      "id":"177",
+      "book":"2",
+      "unit":"4",
+      "word":"KISS",
+      "desc":"___ (Keep It Short and Simple) is a principle that reminds a person to present or do something in the simplest way.",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"178",
+      "book":"1",
+      "unit":"2",
+      "word":"square",
+      "desc":"A ___ is a shape consisting of four right angles and four straight sides of equal length.",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"179",
+      "book":"2",
+      "unit":"3",
+      "word":"accredited",
+      "desc":"Something that is ___ has been officially recognized by a governing body as meeting certain basic requirements.",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"180",
+      "book":"1",
+      "unit":"10",
+      "word":"precaution",
+      "desc":"A ___ is something you do to prevent something from happening.",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"181",
+      "book":"2",
+      "unit":"8",
+      "word":"scale",
+      "desc":"___ is the relationship between the size of something drawn and its real size.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"182",
+      "book":"1",
+      "unit":"11",
+      "word":"construction",
+      "desc":"___ is the process of building structures such as buildings, roads, and bridges,",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"183",
+      "book":"1",
+      "unit":"5",
+      "word":"stopping distance",
+      "desc":"A ___ ___ is the distance an object in motion takes to come to a complete stop.",
+      "options":"abstract ,decelerate ,force ,G ,kinetic energy ,potential energy ,stopping distance ,transfer ,work"
+   },
+   {
+      "id":"184",
+      "book":"2",
+      "unit":"7",
+      "word":"scatter plot",
+      "desc":"A ___ is a chart with many points on it to show relationships between two variables",
+      "options":"axis ,bar graph ,coordinate ,dependent variable ,graph ,independent variable ,line graph ,scatter plot ,X axis ,Y axis"
+   },
+   {
+      "id":"185",
+      "book":"2",
+      "unit":"2",
+      "word":"dependability",
+      "desc":"___ is the ability for people to trust you to do things.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"186",
+      "book":"1",
+      "unit":"9",
+      "word":"hypothesis",
+      "desc":"A ___ is an idea that attempts to explain an observation.",
+      "options":"control ,data ,experiment ,hypothesis ,methodology ,observation ,problem ,procedure ,result ,variable"
+   },
+   {
+      "id":"187",
+      "book":"3",
+      "unit":"7",
+      "word":"criteria",
+      "desc":"___ are standards by which to judge something.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"188",
+      "book":"3",
+      "unit":"7",
+      "word":"sketch",
+      "desc":"A ___ is a drawing of something.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"189",
+      "book":"1",
+      "unit":"7",
+      "word":"squared",
+      "desc":"If a number is ___, it is to be multiplied by itself.",
+      "options":"cubed ,equal ,exponent ,hundredth ,percent ,squared ,tenth ,thousandth ,times ,to the (-th) power"
+   },
+   {
+      "id":"190",
+      "book":"3",
+      "unit":"1",
+      "word":"lithium",
+      "desc":"___ is a soft, silver metal that is used as an anode in lithium batteries.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"191",
+      "book":"2",
+      "unit":"8",
+      "word":"perimeter",
+      "desc":"___ is the length of something\u2019s outer edges.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"192",
+      "book":"2",
+      "unit":"11",
+      "word":"technological",
+      "desc":"If something is ___, it is related to science and technology.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"193",
+      "book":"1",
+      "unit":"6",
+      "word":"pulley",
+      "desc":"A ___ is a machine that consists of a wheel with a rope in its groove.",
+      "options":"complicated ,fulcrum ,inclined plane ,lever ,leverage ,load ,pulley ,simple machine ,wedge ,wheel and axle"
+   },
+   {
+      "id":"194",
+      "book":"1",
+      "unit":"1",
+      "word":"inspect",
+      "desc":"To ___ something is to examine it carefully.",
+      "options":"design ,develop ,discipline ,engineer ,engineering ,inspect ,machine ,mathematics ,physics ,technology"
+   },
+   {
+      "id":"195",
+      "book":"1",
+      "unit":"15",
+      "word":"ramjet",
+      "desc":"A ___ is an engine, for a vehicle that flies through the air, that has no rotating parts.",
+      "options":"flyaway value ,internal fuel capacity ,launch ,licensed production ,Mach ,propellant ,ramjet ,spacecraft ,thrust ,velocity"
+   },
+   {
+      "id":"196",
+      "book":"2",
+      "unit":"8",
+      "word":"cross-section",
+      "desc":"A ___ is a drawing of something cut in half to reveal the inside of it.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"197",
+      "book":"2",
+      "unit":"2",
+      "word":"competence",
+      "desc":"___ is a person\u2019s ability to do something as it should be done.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"198",
+      "book":"3",
+      "unit":"2",
+      "word":"Second Law of Thermodynamics",
+      "desc":"The ___ ___ ___ ___ is the expression of the concept of entropy as a scientific law. It states that a system that is not in equilibrium will tend to increase in entropy and become more disorganized over time.",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   },
+   {
+      "id":"199",
+      "book":"2",
+      "unit":"9",
+      "word":"natural",
+      "desc":"___ materials come from nature. Glass, stone, and wood are some examples.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"200",
+      "book":"3",
+      "unit":"15",
+      "word":"medical imaging",
+      "desc":"___ ___ is the creation of pictures of the body to examine or diagnose a disease.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"201",
+      "book":"3",
+      "unit":"2",
+      "word":"entropy",
+      "desc":"___ is a measure of how organized or disorganized a system is. A system experiencing increasing entropy is experiencing greater disorganization.",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   },
+   {
+      "id":"202",
+      "book":"1",
+      "unit":"9",
+      "word":"observation",
+      "desc":"An ___ is a particular behavior or event that you witness.",
+      "options":"control ,data ,experiment ,hypothesis ,methodology ,observation ,problem ,procedure ,result ,variable"
+   },
+   {
+      "id":"203",
+      "book":"3",
+      "unit":"7",
+      "word":"preliminary design",
+      "desc":"___ ___ is the initial look of a product.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"204",
+      "book":"2",
+      "unit":"2",
+      "word":"organization",
+      "desc":"___ is the ability to plan and put things together in an orderly fashion.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"205",
+      "book":"2",
+      "unit":"4",
+      "word":"general-to-specific strategy",
+      "desc":"A ___ ___ is a way of organizing information so that you discuss general ideas first and then specific details.",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"206",
+      "book":"2",
+      "unit":"10",
+      "word":"rounding error",
+      "desc":"A ___ ___ is a miscalculation that results from improperly ___ a number to a convenient number of decimals.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"207",
+      "book":"3",
+      "unit":"7",
+      "word":"detailed design",
+      "desc":"A ___ ___ is a version closely resembling what the final product looks like,",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"208",
+      "book":"1",
+      "unit":"13",
+      "word":"stress",
+      "desc":"A ___ is a force that presses against an object. It can cause the object to change shape",
+      "options":"CAD ,CAM ,CFD ,drafting ,mechanical engineering ,mechanism ,pressure vessel ,prototype ,simulation ,stress"
+   },
+   {
+      "id":"209",
+      "book":"1",
+      "unit":"5",
+      "word":"force",
+      "desc":"A ___ is something that causes an object to move.",
+      "options":"abstract ,decelerate ,force ,G ,kinetic energy ,potential energy ,stopping distance ,transfer ,work"
+   },
+   {
+      "id":"210",
+      "book":"2",
+      "unit":"14",
+      "word":"quality",
+      "desc":"___ is how well software is designed.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"211",
+      "book":"2",
+      "unit":"3",
+      "word":"doctorate",
+      "desc":"A ___ is a postgraduate degree that typically represents the highest possible level of study in a particular field. It is achieved through several years of study beyond an initial undergraduate degree.",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"212",
+      "book":"1",
+      "unit":"4",
+      "word":"strip",
+      "desc":"To ___ something is to remove it from the surface of something else.",
+      "options":"clip ,drill ,pliers ,screw ,screwdriver ,solder ,soldering iron ,strip ,vise ,wire stripper"
+   },
+   {
+      "id":"213",
+      "book":"3",
+      "unit":"1",
+      "word":"Newton\u2019s second law",
+      "desc":"___ ___ ___ is a law that states that force is equal to mass times acceleration.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"214",
+      "book":"3",
+      "unit":"15",
+      "word":"Ultrasound",
+      "desc":"___ is the use of sound to create an image.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"215",
+      "book":"3",
+      "unit":"10",
+      "word":"variation",
+      "desc":"___ refers to the measure of difference between values in a set of data.",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"216",
+      "book":"1",
+      "unit":"10",
+      "word":"injury",
+      "desc":"An ___ is damage to the body.",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"217",
+      "book":"3",
+      "unit":"10",
+      "word":"sample",
+      "desc":"A ___ is a group that someone studies to determine characteristics of a larger population",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"218",
+      "book":"1",
+      "unit":"9",
+      "word":"data",
+      "desc":"___ are numbers or characteristics that you collect and study.",
+      "options":"control ,data ,experiment ,hypothesis ,methodology ,observation ,problem ,procedure ,result ,variable"
+   },
+   {
+      "id":"219",
+      "book":"2",
+      "unit":"1",
+      "word":"torque",
+      "desc":"___ is a measure of the turning force being placed upon an object.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"220",
+      "book":"1",
+      "unit":"2",
+      "word":"rectangle",
+      "desc":"A ___ is a shape consisting of four straight lines and four right angles, and whose opposite sides are the same length.",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"221",
+      "book":"2",
+      "unit":"3",
+      "word":"MSc(Res)",
+      "desc":"The Master\u2019s of Science by Research (MSc)",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"222",
+      "book":"1",
+      "unit":"6",
+      "word":"inclined plane",
+      "desc":"An ___ ___ is a smooth surface with one end that is higher than the other.",
+      "options":"complicated ,fulcrum ,inclined plane ,lever ,leverage ,load ,pulley ,simple machine ,wedge ,wheel and axle"
+   },
+   {
+      "id":"223",
+      "book":"3",
+      "unit":"3",
+      "word":"rate",
+      "desc":"A ___ is a the amount a certain quantity changes in a given amount of time.",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"224",
+      "book":"3",
+      "unit":"15",
+      "word":"slice",
+      "desc":"A ___ is an image created by an MRI or CT scanner that shows a thin cross",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"225",
+      "book":"3",
+      "unit":"2",
+      "word":"temperature",
+      "desc":"___ is the measure of the kinetic energy of particles in matter. A material that contains particles that are moving faster or of greater mass will appear to be warmer than a material that contains particles that are moving more slowly or are of less mass.",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   },
+   {
+      "id":"226",
+      "book":"2",
+      "unit":"7",
+      "word":"coordinate",
+      "desc":"A ___ is a pair of numbers that show position on a graph.",
+      "options":"axis ,bar graph ,coordinate ,dependent variable ,graph ,independent variable ,line graph ,scatter plot ,X axis ,Y axis"
+   },
+   {
+      "id":"227",
+      "book":"1",
+      "unit":"6",
+      "word":"fulcrum",
+      "desc":"A ___ is the pointed support that a lever\u2019s board or bar rests upon.",
+      "options":"complicated ,fulcrum ,inclined plane ,lever ,leverage ,load ,pulley ,simple machine ,wedge ,wheel and axle"
+   },
+   {
+      "id":"228",
+      "book":"2",
+      "unit":"10",
+      "word":"digit",
+      "desc":"A ___ is a number.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"229",
+      "book":"2",
+      "unit":"2",
+      "word":"quantitative thinking",
+      "desc":"___ ___ is the ability to think in terms of numbers.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"230",
+      "book":"1",
+      "unit":"15",
+      "word":"velocity",
+      "desc":"___ is a measurement of how far something travels in a set amount of time.",
+      "options":"flyaway value ,internal fuel capacity ,launch ,licensed production ,Mach ,propellant ,ramjet ,spacecraft ,thrust ,velocity"
+   },
+   {
+      "id":"231",
+      "book":"3",
+      "unit":"11",
+      "word":"digital signal processing",
+      "desc":"___ ___ ___ is the discipline concerned with the representation and processing of digital signals.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"232",
+      "book":"3",
+      "unit":"8",
+      "word":"UML",
+      "desc":"Unified Modeling Language is a general",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"233",
+      "book":"1",
+      "unit":"4",
+      "word":"clip",
+      "desc":"To ___ something is to cut off part of it.",
+      "options":"clip ,drill ,pliers ,screw ,screwdriver ,solder ,soldering iron ,strip ,vise ,wire stripper"
+   },
+   {
+      "id":"234",
+      "book":"1",
+      "unit":"13",
+      "word":"drafting",
+      "desc":"___ refers to the process of creating engineering drawings for machines. They illustrate how to manufacture and assemble the parts.",
+      "options":"CAD ,CAM ,CFD ,drafting ,mechanical engineering ,mechanism ,pressure vessel ,prototype ,simulation ,stress"
+   },
+   {
+      "id":"235",
+      "book":"2",
+      "unit":"11",
+      "word":"modify",
+      "desc":"To ___ something is to alter or change the qualities of it in order to make it better.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"236",
+      "book":"2",
+      "unit":"2",
+      "word":"quality",
+      "desc":"A ___ is a feature that someone or something has.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"237",
+      "book":"2",
+      "unit":"1",
+      "word":"mechanical advantage",
+      "desc":"___ ___ is the factor by which a machine or mechanism multiplies the force that is being applied to it.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"238",
+      "book":"2",
+      "unit":"11",
+      "word":"technical",
+      "desc":"If something is ___, it relates to a specific skill, art, or science.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"239",
+      "book":"1",
+      "unit":"11",
+      "word":"commercial",
+      "desc":"Something that is ___ is related to business or commerce.",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"240",
+      "book":"2",
+      "unit":"1",
+      "word":"catapult",
+      "desc":"A ___ is a device designed to throw objects long distances without the use of explosives such as gunpowder.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"241",
+      "book":"1",
+      "unit":"4",
+      "word":"solder",
+      "desc":"___ is a soft metal wire that is heated with a ___ing iron to join two metal surfaces.",
+      "options":"clip ,drill ,pliers ,screw ,screwdriver ,solder ,soldering iron ,strip ,vise ,wire stripper"
+   },
+   {
+      "id":"242",
+      "book":"2",
+      "unit":"6",
+      "word":"verification",
+      "desc":"___ is the process of establishing the accuracy or truth of something,",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"243",
+      "book":"1",
+      "unit":"11",
+      "word":"land development",
+      "desc":"___ ___ is the process of making an area of ___ more useful by constructing buildings, roads, or bridges.",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"244",
+      "book":"3",
+      "unit":"5",
+      "word":"current",
+      "desc":"A ___ is a flow of electrons or ions.",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"245",
+      "book":"2",
+      "unit":"12",
+      "word":"irrigation",
+      "desc":"___ is the supplying of water to crops.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"246",
+      "book":"1",
+      "unit":"5",
+      "word":"decelerate",
+      "desc":"To ___ is to slow down.",
+      "options":"abstract ,decelerate ,force ,G ,kinetic energy ,potential energy ,stopping distance ,transfer ,work"
+   },
+   {
+      "id":"247",
+      "book":"3",
+      "unit":"4",
+      "word":"safety factor",
+      "desc":"___ ___ is a structure\u2019s ability to withstand a load.",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"248",
+      "book":"1",
+      "unit":"1",
+      "word":"develop",
+      "desc":"To ___ something is to create it or to cause it to grow or expand.",
+      "options":"design ,develop ,discipline ,engineer ,engineering ,inspect ,machine ,mathematics ,physics ,technology"
+   },
+   {
+      "id":"249",
+      "book":"2",
+      "unit":"3",
+      "word":"postgraduate degree",
+      "desc":"A ___ ___ is any degree that is awarded upon completion of additional years of study beyond the initial undergraduate degree. Master\u2019s degrees and doctorates are examples of ___ degrees.",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"250",
+      "book":"1",
+      "unit":"10",
+      "word":"gloves",
+      "desc":"___ are protective clothes worn over me hands",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"251",
+      "book":"2",
+      "unit":"7",
+      "word":"bar graph",
+      "desc":"A ___ ___ is a chart that uses rectangles of different lengths to show amounts.",
+      "options":"axis ,bar graph ,coordinate ,dependent variable ,graph ,independent variable ,line graph ,scatter plot ,X axis ,Y axis"
+   },
+   {
+      "id":"252",
+      "book":"1",
+      "unit":"7",
+      "word":"hundredth",
+      "desc":"A ___ is one of one hundred equal things.",
+      "options":"cubed ,equal ,exponent ,hundredth ,percent ,squared ,tenth ,thousandth ,times ,to the (-th) power"
+   },
+   {
+      "id":"253",
+      "book":"2",
+      "unit":"12",
+      "word":"drainage",
+      "desc":"___ is the removal of excess water.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"254",
+      "book":"2",
+      "unit":"10",
+      "word":"notation",
+      "desc":"In mathematics, a ___ is a system of representing mathematical objects or ideas. Numbers and function symbols are examples of ___s.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"255",
+      "book":"2",
+      "unit":"15",
+      "word":"GMO",
+      "desc":"A genetically modified organism (___) is an organism whose genetic material has been changed. Both plants and animals can be ___s.",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"256",
+      "book":"2",
+      "unit":"5",
+      "word":"attack",
+      "desc":"To ___ something is to attempt to solve it.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"257",
+      "book":"2",
+      "unit":"10",
+      "word":"integer",
+      "desc":"An ___ is any positive or negative whole number, including zero.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"258",
+      "book":"2",
+      "unit":"13",
+      "word":"facility layout",
+      "desc":"___ ___ refers to the design and arrangement of a factory\u2019s workspace,",
+      "options":"assembly line ,capacity ,conveyor ,cost-effective ,ergonomics ,facility layout ,inventory ,quality control ,streamline ,supply chain"
+   },
+   {
+      "id":"259",
+      "book":"2",
+      "unit":"9",
+      "word":"logistics",
+      "desc":"___ refer to the organizing of an operation or process so that it happens efficiently.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"260",
+      "book":"3",
+      "unit":"15",
+      "word":"diagnosis",
+      "desc":"___ is the act of identifying an illness.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"261",
+      "book":"1",
+      "unit":"4",
+      "word":"wire stripper",
+      "desc":"A ___ ___ is a tool that is used to remove insulation from ___s.",
+      "options":"clip ,drill ,pliers ,screw ,screwdriver ,solder ,soldering iron ,strip ,vise ,wire stripper"
+   },
+   {
+      "id":"262",
+      "book":"2",
+      "unit":"9",
+      "word":"transparent",
+      "desc":"A ___ material is clear and easy to see through.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"263",
+      "book":"1",
+      "unit":"14",
+      "word":"output power",
+      "desc":"___ ___ is the amount of watts a power source puts out.",
+      "options":"circuit card assembly ,component ,input voltage ,output power ,output voltage ,power supply ,volt ,watt"
+   },
+   {
+      "id":"264",
+      "book":"1",
+      "unit":"11",
+      "word":"municipal",
+      "desc":"Something that is ___ is related to an entire city, town, or community.",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"265",
+      "book":"1",
+      "unit":"15",
+      "word":"propellant",
+      "desc":"___ is the fuel used in the engine of a vehicle that flies through the air.",
+      "options":"flyaway value ,internal fuel capacity ,launch ,licensed production ,Mach ,propellant ,ramjet ,spacecraft ,thrust ,velocity"
+   },
+   {
+      "id":"266",
+      "book":"2",
+      "unit":"14",
+      "word":"assess",
+      "desc":"To ___ something is to evaluate it.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"267",
+      "book":"1",
+      "unit":"7",
+      "word":"times",
+      "desc":"If something is ___ a number, it is multiplied by that number.",
+      "options":"cubed ,equal ,exponent ,hundredth ,percent ,squared ,tenth ,thousandth ,times ,to the (-th) power"
+   },
+   {
+      "id":"268",
+      "book":"1",
+      "unit":"13",
+      "word":"pressure vessel",
+      "desc":"A ___ ___ is a container that holds liquid or gas at a specific ___,",
+      "options":"CAD ,CAM ,CFD ,drafting ,mechanical engineering ,mechanism ,pressure vessel ,prototype ,simulation ,stress"
+   },
+   {
+      "id":"269",
+      "book":"2",
+      "unit":"10",
+      "word":"convention",
+      "desc":"A ___ is a method or practice established through widespread or common use.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"270",
+      "book":"2",
+      "unit":"1",
+      "word":"mass",
+      "desc":"___ determines the degree to which a body creates or is affected by a gravitational field. In everyday usage, it is usually equated with the word \u201cweight.\u201d In scientific usage, however, it can be used to refer to several different properties.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"271",
+      "book":"2",
+      "unit":"7",
+      "word":"dependent variable",
+      "desc":"A ___ ___ is a number that depends on the value of another part of a mathematical equation.",
+      "options":"axis ,bar graph ,coordinate ,dependent variable ,graph ,independent variable ,line graph ,scatter plot ,X axis ,Y axis"
+   },
+   {
+      "id":"272",
+      "book":"2",
+      "unit":"5",
+      "word":"solution",
+      "desc":"A ___ is an answer to a problem.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"273",
+      "book":"2",
+      "unit":"10",
+      "word":"scientific notation",
+      "desc":"___ ___ is a way of easily expressing very large or very small quantities. It incorporates the use of superscript digits. 3x106, for example, is 3,000,000 written in ___ notation.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"274",
+      "book":"2",
+      "unit":"6",
+      "word":"abstract",
+      "desc":"Something that is ___ can generally exist only as an idea. It is the opposite of \u201cconcrete.\u201d",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"275",
+      "book":"3",
+      "unit":"1",
+      "word":"mass",
+      "desc":"___ is the amount of matter an object has.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"276",
+      "book":"1",
+      "unit":"2",
+      "word":"prism",
+      "desc":"A ___ is a three-dimensional shape.",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"277",
+      "book":"1",
+      "unit":"2",
+      "word":"cylinder",
+      "desc":"A ___ is a shape with long, straight sides and two circular ends.",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"278",
+      "book":"3",
+      "unit":"8",
+      "word":"empirical",
+      "desc":"If something is empirical, it has been gained by observation or experience.",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"279",
+      "book":"1",
+      "unit":"9",
+      "word":"problem",
+      "desc":"A ___ is a question that you are trying to answer.",
+      "options":"control ,data ,experiment ,hypothesis ,methodology ,observation ,problem ,procedure ,result ,variable"
+   },
+   {
+      "id":"280",
+      "book":"3",
+      "unit":"3",
+      "word":"inlet",
+      "desc":"An ___ is something that allows the entrance of something else. The part of a hose that allows water to enter the hose is an inlet, for example.",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"281",
+      "book":"3",
+      "unit":"4",
+      "word":"free body diagram",
+      "desc":"A ___ ___ ___ is a visual representation of forces acting upon a body,",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"282",
+      "book":"3",
+      "unit":"8",
+      "word":"modeling language",
+      "desc":"A ___ ___ is a language that is used to express information about a system or structure within the constraints of specific rules. The rules are used to help interpret the meaning of different components of the system or structure being analyzed.",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"283",
+      "book":"2",
+      "unit":"9",
+      "word":"insulator",
+      "desc":"An ___ is a material that prevents heat or electricity from passing through it.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"284",
+      "book":"1",
+      "unit":"7",
+      "word":"to the (-th) power",
+      "desc":"If something is multiplied ___ , it is multiplied by itself that number of times.",
+      "options":"cubed ,equal ,exponent ,hundredth ,percent ,squared ,tenth ,thousandth ,times ,to the (-th) power"
+   },
+   {
+      "id":"285",
+      "book":"2",
+      "unit":"13",
+      "word":"streamline",
+      "desc":"To ___ an operation is to improve it and make it more efficient.",
+      "options":"assembly line ,capacity ,conveyor ,cost-effective ,ergonomics ,facility layout ,inventory ,quality control ,streamline ,supply chain"
+   },
+   {
+      "id":"286",
+      "book":"2",
+      "unit":"4",
+      "word":"visual aid",
+      "desc":"A ___ ___ is an image that people look at during a presentation.",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"287",
+      "book":"2",
+      "unit":"3",
+      "word":"MEng",
+      "desc":"The Master\u2019s of Engineering (___) is a master\u2019s degree in the field of engineering.",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"288",
+      "book":"2",
+      "unit":"4",
+      "word":"objective",
+      "desc":"An ___ is the main goal that a person aims to achieve.",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"289",
+      "book":"2",
+      "unit":"12",
+      "word":"long-term",
+      "desc":"When something is ___ it happens for a long time.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"290",
+      "book":"3",
+      "unit":"1",
+      "word":"velocity",
+      "desc":"___ refers to the speed that something travels at.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"291",
+      "book":"1",
+      "unit":"4",
+      "word":"screwdriver",
+      "desc":"A ___ is a tool for putting screws into surfaces.",
+      "options":"clip ,drill ,pliers ,screw ,screwdriver ,solder ,soldering iron ,strip ,vise ,wire stripper"
+   },
+   {
+      "id":"292",
+      "book":"2",
+      "unit":"7",
+      "word":"line graph",
+      "desc":"A ___ ___ is a chart showing points connected by straight lines.",
+      "options":"axis ,bar graph ,coordinate ,dependent variable ,graph ,independent variable ,line graph ,scatter plot ,X axis ,Y axis"
+   },
+   {
+      "id":"293",
+      "book":"3",
+      "unit":"15",
+      "word":"respirator",
+      "desc":"A ___ is a device that controls a person's breathing when that person cannot breathe alone.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"294",
+      "book":"1",
+      "unit":"15",
+      "word":"Mach",
+      "desc":"___ is a unit for measuring the speed of something in comparison to the speed of sound,",
+      "options":"flyaway value ,internal fuel capacity ,launch ,licensed production ,Mach ,propellant ,ramjet ,spacecraft ,thrust ,velocity"
+   },
+   {
+      "id":"295",
+      "book":"2",
+      "unit":"4",
+      "word":"signpost",
+      "desc":"A ___ is a phrase or word that helps signal the different parts of a presentation to the audience.",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"296",
+      "book":"2",
+      "unit":"15",
+      "word":"DNA",
+      "desc":"___ is a main component of chromosomes. It transfers genetic material in all living organisms.",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"297",
+      "book":"2",
+      "unit":"15",
+      "word":"gene",
+      "desc":"A ___ is a section of DNA which contains the information that determines physical characteristics.",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"298",
+      "book":"1",
+      "unit":"8",
+      "word":"pound",
+      "desc":"A ___ is an imperial measurement of weight that is equal to approximately 454 grams,",
+      "options":"centimeter ,foot ,gallon ,imperial ,inch ,kilogram ,liter ,meter ,metric ,pound"
+   },
+   {
+      "id":"299",
+      "book":"3",
+      "unit":"11",
+      "word":"interactive systems engineering",
+      "desc":"___ ___ ___ is an interdisciplinary field that combines the disciplines of software engineering, psychology, ethnography, and many others. It analyzes communication between humans and machines, between machines, and between humans through machines.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"300",
+      "book":"2",
+      "unit":"12",
+      "word":"salinity",
+      "desc":"___ is the amount of salt in something.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"301",
+      "book":"3",
+      "unit":"5",
+      "word":"charge",
+      "desc":"To ___ something is to supply it with electric current for the purpose of storing energy.",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"302",
+      "book":"1",
+      "unit":"8",
+      "word":"inch",
+      "desc":"An ___ is an imperial measurement of distance that is equal to one twelfth of a foot.",
+      "options":"centimeter ,foot ,gallon ,imperial ,inch ,kilogram ,liter ,meter ,metric ,pound"
+   },
+   {
+      "id":"303",
+      "book":"2",
+      "unit":"9",
+      "word":"luster",
+      "desc":"___ refers to the brightness or shine of a metal.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"304",
+      "book":"2",
+      "unit":"12",
+      "word":"tillage",
+      "desc":"___ is the preparing of soil for crops.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"305",
+      "book":"3",
+      "unit":"2",
+      "word":"equilibrium",
+      "desc":"___ is the condition wherein competing influences are balanced.",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   },
+   {
+      "id":"306",
+      "book":"3",
+      "unit":"7",
+      "word":"construct",
+      "desc":"To ___ something is to build it.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"307",
+      "book":"1",
+      "unit":"8",
+      "word":"meter",
+      "desc":"A ___ is a metric measurement of distance that is equal to one hundred centi___s,",
+      "options":"centimeter ,foot ,gallon ,imperial ,inch ,kilogram ,liter ,meter ,metric ,pound"
+   },
+   {
+      "id":"308",
+      "book":"3",
+      "unit":"15",
+      "word":"MRI",
+      "desc":"___ (magnetic resonance imaging) uses radio waves and magnetic fields to produce images,",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"309",
+      "book":"3",
+      "unit":"4",
+      "word":"statics",
+      "desc":"___ is the study of bodies at rest and forces in equilibrium.",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"310",
+      "book":"3",
+      "unit":"10",
+      "word":"statistical quality control",
+      "desc":"___ ___ ___ refers to the use of statistical methods to examine and improve the quality of a product.",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"311",
+      "book":"1",
+      "unit":"6",
+      "word":"lever",
+      "desc":"A ___ is a bar that rests on a fulcrum.",
+      "options":"complicated ,fulcrum ,inclined plane ,lever ,leverage ,load ,pulley ,simple machine ,wedge ,wheel and axle"
+   },
+   {
+      "id":"312",
+      "book":"2",
+      "unit":"14",
+      "word":"verification",
+      "desc":"___ is making sure that software meets its design specifications.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"313",
+      "book":"1",
+      "unit":"11",
+      "word":"infrastructure",
+      "desc":"___ is the physical structures needed to operate a society or an organization.",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"314",
+      "book":"2",
+      "unit":"9",
+      "word":"plastics",
+      "desc":"___ are synthetic materials that one can shape into many different forms.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"315",
+      "book":"1",
+      "unit":"7",
+      "word":"thousandth",
+      "desc":"A ___ is one of one thousand equal things.",
+      "options":"cubed ,equal ,exponent ,hundredth ,percent ,squared ,tenth ,thousandth ,times ,to the (-th) power"
+   },
+   {
+      "id":"316",
+      "book":"1",
+      "unit":"13",
+      "word":"prototype",
+      "desc":"A ___ is an initial model of a machine or system. Engineers use this to help build the actual machine.",
+      "options":"CAD ,CAM ,CFD ,drafting ,mechanical engineering ,mechanism ,pressure vessel ,prototype ,simulation ,stress"
+   },
+   {
+      "id":"317",
+      "book":"2",
+      "unit":"4",
+      "word":"body language",
+      "desc":"___ ___ refers to communication through body movements instead of speaking",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"318",
+      "book":"1",
+      "unit":"2",
+      "word":"oval",
+      "desc":"An ___ is a round shape that is longer than it is wide.",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"319",
+      "book":"2",
+      "unit":"3",
+      "word":"entry-level",
+      "desc":"Something that is ___ is related to low-level job positions wherein new university graduates can gain experience and skills.",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"320",
+      "book":"2",
+      "unit":"1",
+      "word":"siege engine",
+      "desc":"A ___ ___ is a device that was used in the Middle Ages to destroy castle walls, city walls, or other fortifications during a ___.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"321",
+      "book":"3",
+      "unit":"10",
+      "word":"range",
+      "desc":"A ___ is the amount between the lower and upper limits of a set of values.",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"322",
+      "book":"2",
+      "unit":"6",
+      "word":"vision",
+      "desc":"A ___ is an imaginative conception of something which has not happened yet.",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"323",
+      "book":"2",
+      "unit":"8",
+      "word":"width",
+      "desc":"___ is how wide something is.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"324",
+      "book":"1",
+      "unit":"4",
+      "word":"drill",
+      "desc":"A ___ is a tool that makes holes in surfaces like wood or inserts and removes screws.",
+      "options":"clip ,drill ,pliers ,screw ,screwdriver ,solder ,soldering iron ,strip ,vise ,wire stripper"
+   },
+   {
+      "id":"325",
+      "book":"1",
+      "unit":"15",
+      "word":"thrust",
+      "desc":"___  is the force exerted by an engine that causes a vehicle to fly through the air.",
+      "options":"flyaway value ,internal fuel capacity ,launch ,licensed production ,Mach ,propellant ,ramjet ,spacecraft ,thrust ,velocity"
+   },
+   {
+      "id":"326",
+      "book":"3",
+      "unit":"8",
+      "word":"IDEF",
+      "desc":"___ (Integrated Definition) is a family of modeling languages used to model data.",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"327",
+      "book":"2",
+      "unit":"11",
+      "word":"demonstrate",
+      "desc":"To ___ something is to show another person how it works.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"328",
+      "book":"1",
+      "unit":"4",
+      "word":"screw",
+      "desc":"A ___ is a piece of metal that you turn to fasten objects together.",
+      "options":"clip ,drill ,pliers ,screw ,screwdriver ,solder ,soldering iron ,strip ,vise ,wire stripper"
+   },
+   {
+      "id":"329",
+      "book":"2",
+      "unit":"8",
+      "word":"length",
+      "desc":"___ is how long something is.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"330",
+      "book":"1",
+      "unit":"11",
+      "word":"topographic",
+      "desc":"Something that is ___ is related to the detailed mapping of terrain.",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"331",
+      "book":"1",
+      "unit":"1",
+      "word":"mathematics",
+      "desc":"___ is the study of numbers and change.",
+      "options":"design ,develop ,discipline ,engineer ,engineering ,inspect ,machine ,mathematics ,physics ,technology"
+   },
+   {
+      "id":"332",
+      "book":"3",
+      "unit":"6",
+      "word":"candela",
+      "desc":"A ___ is a unit of measurement for luminous intensity.",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"333",
+      "book":"1",
+      "unit":"9",
+      "word":"procedure",
+      "desc":"A ___ is a series of steps that one takes during an experiment.",
+      "options":"control ,data ,experiment ,hypothesis ,methodology ,observation ,problem ,procedure ,result ,variable"
+   },
+   {
+      "id":"334",
+      "book":"3",
+      "unit":"7",
+      "word":"assemble",
+      "desc":"To ___ something is to put it together.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"335",
+      "book":"2",
+      "unit":"6",
+      "word":"originality",
+      "desc":"___ is the quality of being independent, new, and unique.",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"336",
+      "book":"1",
+      "unit":"3",
+      "word":"glass",
+      "desc":"___ is a solid, transparent material common . -sez",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"337",
+      "book":"2",
+      "unit":"6",
+      "word":"creative",
+      "desc":"Something that is ___ is the result of unique and different thought or expression.",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"338",
+      "book":"3",
+      "unit":"11",
+      "word":"computer networking",
+      "desc":"___ ___ is the discipline concerned with the communication between computer systems or devices.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"339",
+      "book":"1",
+      "unit":"12",
+      "word":"renewable",
+      "desc":"If a resource is ___, it can be replaced by the natural world.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"340",
+      "book":"2",
+      "unit":"8",
+      "word":"dimension",
+      "desc":"A ___ is the size of something.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"341",
+      "book":"3",
+      "unit":"1",
+      "word":"net force",
+      "desc":"A ___ ___ is the sum of all the forces acting on an object.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"342",
+      "book":"2",
+      "unit":"8",
+      "word":"exploded view",
+      "desc":"A(n) ___ ___ is a drawing that shows how different parts of something fit together by drawing the parts separately.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"343",
+      "book":"1",
+      "unit":"10",
+      "word":"hazard",
+      "desc":"A ___ is something known to be dangerous.",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"344",
+      "book":"3",
+      "unit":"6",
+      "word":"base unit",
+      "desc":"A ___ ___ is one of the seven basic units of measurement that make up the SI system of units.",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"345",
+      "book":"3",
+      "unit":"6",
+      "word":"solid angle",
+      "desc":"A ___ ___ is a two",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"346",
+      "book":"1",
+      "unit":"6",
+      "word":"complicated",
+      "desc":"If something is ___, it has many details or is hard to understand.",
+      "options":"complicated ,fulcrum ,inclined plane ,lever ,leverage ,load ,pulley ,simple machine ,wedge ,wheel and axle"
+   },
+   {
+      "id":"347",
+      "book":"1",
+      "unit":"2",
+      "word":"architect",
+      "desc":"An ___ is a person whose job is to design and build structures.",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"348",
+      "book":"1",
+      "unit":"7",
+      "word":"equal",
+      "desc":"To ___ something is to be the same as that thing.",
+      "options":"cubed ,equal ,exponent ,hundredth ,percent ,squared ,tenth ,thousandth ,times ,to the (-th) power"
+   },
+   {
+      "id":"349",
+      "book":"3",
+      "unit":"1",
+      "word":"inertia",
+      "desc":"___ is a force that keeps an object in the same position.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"350",
+      "book":"1",
+      "unit":"4",
+      "word":"pliers",
+      "desc":"___ are tools that are used to pull out nails or cut wires.",
+      "options":"clip ,drill ,pliers ,screw ,screwdriver ,solder ,soldering iron ,strip ,vise ,wire stripper"
+   },
+   {
+      "id":"351",
+      "book":"2",
+      "unit":"2",
+      "word":"common sense",
+      "desc":"___ ___ is practical knowledge.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"352",
+      "book":"1",
+      "unit":"1",
+      "word":"engineering",
+      "desc":"___ is the art of designing and creating practical applications from the knowledge gained by science.",
+      "options":"design ,develop ,discipline ,engineer ,engineering ,inspect ,machine ,mathematics ,physics ,technology"
+   },
+   {
+      "id":"353",
+      "book":"1",
+      "unit":"2",
+      "word":"geometric",
+      "desc":"Something that is ___ relates to the st_z. o*",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"354",
+      "book":"2",
+      "unit":"10",
+      "word":"significant figure",
+      "desc":"A ___ ___ is a digit that helps identify a number\u2019s precision. All numbers are ___ except for leading and trailing zeros when they serve as placeholders, or digits that are introduced as a result of calculations that are carried out to more decimal places than the original numbers.",
+      "options":"calculation ,convention ,digit ,integer ,leading zero ,notation ,order of magnitude ,quantity ,rounding error ,scientific notation ,significant figure ,trailing zero"
+   },
+   {
+      "id":"355",
+      "book":"1",
+      "unit":"3",
+      "word":"reinforced",
+      "desc":"If something is ___, it is made stronger by the addition of some type of material.",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"356",
+      "book":"3",
+      "unit":"6",
+      "word":"derived unit",
+      "desc":"A ___ ___ is a unit of measurement formed by combining various base units,",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"357",
+      "book":"2",
+      "unit":"9",
+      "word":"conductor",
+      "desc":"A ___ is a material that lets electricity or heat pass through it.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"358",
+      "book":"2",
+      "unit":"14",
+      "word":"operation",
+      "desc":"___ is use of software.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"359",
+      "book":"3",
+      "unit":"11",
+      "word":"human-computer interaction",
+      "desc":"___ ___ s the discipline concerned with the study of relations between humans and computers.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"360",
+      "book":"3",
+      "unit":"2",
+      "word":"Kelvin",
+      "desc":"___ is a system of measuring temperature wherein zero degrees Kelvin is equal to absolute zero.",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   },
+   {
+      "id":"361",
+      "book":"2",
+      "unit":"2",
+      "word":"interpersonal",
+      "desc":"When something is ___ it is between people.",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"362",
+      "book":"1",
+      "unit":"14",
+      "word":"component",
+      "desc":"A ___ is a part of something bigger.",
+      "options":"circuit card assembly ,component ,input voltage ,output power ,output voltage ,power supply ,volt ,watt"
+   },
+   {
+      "id":"363",
+      "book":"1",
+      "unit":"13",
+      "word":"mechanism",
+      "desc":"A ___ is a number of parts in a machine that are linked together to perform a particular task.",
+      "options":"CAD ,CAM ,CFD ,drafting ,mechanical engineering ,mechanism ,pressure vessel ,prototype ,simulation ,stress"
+   },
+   {
+      "id":"364",
+      "book":"3",
+      "unit":"8",
+      "word":"physical model",
+      "desc":"A ___ ___ is a lifelike recreation of a planned or existing physical object, usually made to a smaller scale.",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"365",
+      "book":"3",
+      "unit":"2",
+      "word":"internal energy",
+      "desc":"___ ___ is the ___ possessed by a substance due to the movement of its molecules and its potential energy.",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   },
+   {
+      "id":"366",
+      "book":"2",
+      "unit":"7",
+      "word":"independent variable",
+      "desc":"An ___ ___ is a number that does not depend on the value of another part of a mathematical equation.",
+      "options":"axis ,bar graph ,coordinate ,dependent variable ,graph ,independent variable ,line graph ,scatter plot ,X axis ,Y axis"
+   },
+   {
+      "id":"367",
+      "book":"3",
+      "unit":"5",
+      "word":"live temperature coefficient",
+      "desc":"The positive ___ ___ of an object is a measure the object\u2019s increase in electrical resistance when its temperature is increased.",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"368",
+      "book":"3",
+      "unit":"2",
+      "word":"heat",
+      "desc":"___ is the process of energy transfer from one body or system to another.",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   },
+   {
+      "id":"369",
+      "book":"2",
+      "unit":"8",
+      "word":"schematic",
+      "desc":"A ___ shows the form and features of something.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"370",
+      "book":"3",
+      "unit":"11",
+      "word":"control engineering",
+      "desc":"___ ___ is the discipline concerned with using sensors and actuators to control systems with predictable behaviors.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"371",
+      "book":"1",
+      "unit":"2",
+      "word":"vault",
+      "desc":"A ___ is a rounded or triangular space added to a ceiling to create space.",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"372",
+      "book":"2",
+      "unit":"5",
+      "word":"synthesis",
+      "desc":"A ___ is a mixture of ideas.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"373",
+      "book":"3",
+      "unit":"4",
+      "word":"portable",
+      "desc":"When something is ___ it can be carried around.",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"374",
+      "book":"3",
+      "unit":"6",
+      "word":"square meter",
+      "desc":"A ___ ___ is a unit of measurement of area.",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"375",
+      "book":"3",
+      "unit":"4",
+      "word":"stability",
+      "desc":"___ is the ability not to change or fail.",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"376",
+      "book":"3",
+      "unit":"10",
+      "word":"outlier",
+      "desc":"An ___ is a value in a set of data that varies significantly from the rest of the data.",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"377",
+      "book":"3",
+      "unit":"5",
+      "word":"vent hole",
+      "desc":"A ___ ___ is a hole that exists in a battery, to release pressure from inside the battery if it is building up to an unsafe degree.",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"378",
+      "book":"2",
+      "unit":"12",
+      "word":"pivot-irrigation",
+      "desc":"___ involves a machine that rotates, applying water to a circular area around the machine.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"379",
+      "book":"1",
+      "unit":"4",
+      "word":"vise",
+      "desc":"A ___ holds something tightly in place while someone works on it.",
+      "options":"clip ,drill ,pliers ,screw ,screwdriver ,solder ,soldering iron ,strip ,vise ,wire stripper"
+   },
+   {
+      "id":"380",
+      "book":"1",
+      "unit":"9",
+      "word":"result",
+      "desc":"A ___ is a finding or conclusion of an experiment.",
+      "options":"control ,data ,experiment ,hypothesis ,methodology ,observation ,problem ,procedure ,result ,variable"
+   },
+   {
+      "id":"381",
+      "book":"3",
+      "unit":"1",
+      "word":"Newton\u2019s third law",
+      "desc":"___ ___ ___ is a law that states that each action has an equal and opposite reaction.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"382",
+      "book":"1",
+      "unit":"11",
+      "word":"water supply",
+      "desc":"The ___ ___ is the supply of fresh ___ for an area or community.",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"383",
+      "book":"2",
+      "unit":"13",
+      "word":"assembly line",
+      "desc":"An ___ ___ is a line of workers or machines in a factory working on a product. A worker performs a job and then the product moves to the next worker.",
+      "options":"assembly line ,capacity ,conveyor ,cost-effective ,ergonomics ,facility layout ,inventory ,quality control ,streamline ,supply chain"
+   },
+   {
+      "id":"384",
+      "book":"2",
+      "unit":"14",
+      "word":"development",
+      "desc":"___ is the act of actually making software.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"385",
+      "book":"3",
+      "unit":"10",
+      "word":"raw data",
+      "desc":"___ ___ refers to ___ that one has not analyzed or manipulated in any way.",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"386",
+      "book":"2",
+      "unit":"11",
+      "word":"market research",
+      "desc":"___ ___ is the process of surveying the public to gain information about consumer tastes or preferences.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"387",
+      "book":"3",
+      "unit":"8",
+      "word":"mathematical model",
+      "desc":"A ___ ___ is something that uses mathematics to describe a system such as population growth or traffic patterns.",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"388",
+      "book":"1",
+      "unit":"7",
+      "word":"cubed",
+      "desc":"If a number is ___, it is to be multiplied by itself three times.",
+      "options":"cubed ,equal ,exponent ,hundredth ,percent ,squared ,tenth ,thousandth ,times ,to the (-th) power"
+   },
+   {
+      "id":"389",
+      "book":"3",
+      "unit":"3",
+      "word":"flux",
+      "desc":"___ is the amount of something that passes through a cross",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"390",
+      "book":"2",
+      "unit":"15",
+      "word":"expression",
+      "desc":"___ is the action of a gene that is showing a certain distinguishing characteristic,",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"391",
+      "book":"1",
+      "unit":"5",
+      "word":"work",
+      "desc":"___ is the transfer of energy. It is measured by how far an object is moved by a force.",
+      "options":"abstract ,decelerate ,force ,G ,kinetic energy ,potential energy ,stopping distance ,transfer ,work"
+   },
+   {
+      "id":"392",
+      "book":"1",
+      "unit":"10",
+      "word":"first aid",
+      "desc":"___ ___ is fast, basic medical treatment given right after an injury.",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"393",
+      "book":"2",
+      "unit":"5",
+      "word":"application",
+      "desc":"___ is the act of putting an idea into practice.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"394",
+      "book":"1",
+      "unit":"12",
+      "word":"biodegradable",
+      "desc":"If something is ___, it will break apart naturally.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"395",
+      "book":"3",
+      "unit":"15",
+      "word":"incubator",
+      "desc":"An ___ is an enclosed device that protects and helps a premature baby develop.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"396",
+      "book":"2",
+      "unit":"13",
+      "word":"quality control",
+      "desc":"___ ___ refers to the activities one performs to ensure a product\u2019s ___ and safety.",
+      "options":"assembly line ,capacity ,conveyor ,cost-effective ,ergonomics ,facility layout ,inventory ,quality control ,streamline ,supply chain"
+   },
+   {
+      "id":"397",
+      "book":"3",
+      "unit":"6",
+      "word":"supplementary unit",
+      "desc":"A ___ ___ is an additional measurement unit included in the SI system of units.",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"398",
+      "book":"1",
+      "unit":"6",
+      "word":"simple machine",
+      "desc":"A ___ ___ is a basic machine with few moving parts.",
+      "options":"complicated ,fulcrum ,inclined plane ,lever ,leverage ,load ,pulley ,simple machine ,wedge ,wheel and axle"
+   },
+   {
+      "id":"399",
+      "book":"1",
+      "unit":"2",
+      "word":"arch",
+      "desc":"An ___ is a semicircle shape over an entrance.",
+      "options":"arch ,architect ,cylinder ,ellipse ,geometric ,oval ,prism ,rectangle ,semi-circle ,square ,vault"
+   },
+   {
+      "id":"400",
+      "book":"2",
+      "unit":"7",
+      "word":"axis",
+      "desc":"An ___ is the line on a graph that shows a point\u2019s position.",
+      "options":"axis ,bar graph ,coordinate ,dependent variable ,graph ,independent variable ,line graph ,scatter plot ,X axis ,Y axis"
+   },
+   {
+      "id":"401",
+      "book":"2",
+      "unit":"11",
+      "word":"liaison",
+      "desc":"A ___ is a person who creates and maintains contact between two groups in order to ensure collective action or cooperation.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"402",
+      "book":"2",
+      "unit":"11",
+      "word":"commission",
+      "desc":"A ___ is a payment made to a sales agent in return for securing a sale or other business relationship.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"403",
+      "book":"1",
+      "unit":"3",
+      "word":"coated",
+      "desc":"If something is ___, it is covered by some type of material.",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"404",
+      "book":"3",
+      "unit":"4",
+      "word":"dynamics",
+      "desc":"___ is the study of the causes of motion.",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"405",
+      "book":"1",
+      "unit":"8",
+      "word":"metric",
+      "desc":"Something that is ___ is part of the system of measurements used throughout most of the world. It includes measurements such as the liter, meter, and gram.",
+      "options":"centimeter ,foot ,gallon ,imperial ,inch ,kilogram ,liter ,meter ,metric ,pound"
+   },
+   {
+      "id":"406",
+      "book":"1",
+      "unit":"14",
+      "word":"input voltage",
+      "desc":"___ ___ is the number of volts a device needs to operate.",
+      "options":"circuit card assembly ,component ,input voltage ,output power ,output voltage ,power supply ,volt ,watt"
+   },
+   {
+      "id":"407",
+      "book":"2",
+      "unit":"15",
+      "word":"manipulate",
+      "desc":"To ___ something is to change or influence it.",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"408",
+      "book":"2",
+      "unit":"13",
+      "word":"ergonomics",
+      "desc":"___ is the science of designing equipment and workspaces that benefit and aid the worker.",
+      "options":"assembly line ,capacity ,conveyor ,cost-effective ,ergonomics ,facility layout ,inventory ,quality control ,streamline ,supply chain"
+   },
+   {
+      "id":"409",
+      "book":"2",
+      "unit":"6",
+      "word":"innovation",
+      "desc":"___ is the act of coming up with new and different ideas.",
+      "options":"abstract ,concrete ,convention ,creative ,feedback ,innovation ,norm ,originality ,out of the box ,plausible ,verification ,vision"
+   },
+   {
+      "id":"410",
+      "book":"1",
+      "unit":"1",
+      "word":"engineer",
+      "desc":"An ___ is a person who uses the knowledge gained by science to design and create practical applications for it.",
+      "options":"design ,develop ,discipline ,engineer ,engineering ,inspect ,machine ,mathematics ,physics ,technology"
+   },
+   {
+      "id":"411",
+      "book":"3",
+      "unit":"11",
+      "word":"artificial intelligence",
+      "desc":"___ ___ is the discipline concerned with the creation of machines capable of perceiving their surroundings and reacting accordingly.",
+      "options":"algorithm ,artificial intelligence ,circuit analysis ,computer networking ,control engineering ,digital signal processing ,fault-tolerant computer system ,human-computer interaction ,interactive systems engineering ,robotics ,software engineering ,VLSI"
+   },
+   {
+      "id":"412",
+      "book":"1",
+      "unit":"8",
+      "word":"liter",
+      "desc":"A ___ is a metric measurement of volume that is equal to one thousand milli___s. It is also equal to approximately one fifth of a gallon.",
+      "options":"centimeter ,foot ,gallon ,imperial ,inch ,kilogram ,liter ,meter ,metric ,pound"
+   },
+   {
+      "id":"413",
+      "book":"1",
+      "unit":"14",
+      "word":"volt",
+      "desc":"A ___ is a measurement of electric potential.",
+      "options":"circuit card assembly ,component ,input voltage ,output power ,output voltage ,power supply ,volt ,watt"
+   },
+   {
+      "id":"414",
+      "book":"1",
+      "unit":"3",
+      "word":"concrete",
+      "desc":"___ is a construction material made out of cement, crushed rocks, and other materials,",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"415",
+      "book":"2",
+      "unit":"2",
+      "word":"problem solving",
+      "desc":"___ ___ is the act of resolving issues and finding solutions,",
+      "options":"common sense ,competence ,courage ,curiosity ,degree ,dependability ,interpersonal ,organization ,problem solving ,quality ,quantitative thinking"
+   },
+   {
+      "id":"416",
+      "book":"2",
+      "unit":"15",
+      "word":"transformation",
+      "desc":"___ is the process of changing in appearance, form, nature, or character,",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"417",
+      "book":"3",
+      "unit":"1",
+      "word":"motion",
+      "desc":"___ refers to the state of an object when it is moving.",
+      "options":"acceleration ,friction ,inertia ,lithium ,mass ,motion ,net force ,Newton\u2019s first law ,Newton\u2019s second law ,Newton\u2019s third law ,rest ,vector ,velocity"
+   },
+   {
+      "id":"418",
+      "book":"2",
+      "unit":"12",
+      "word":"water rights",
+      "desc":"A ___ ___ is the right of a person to use ___ from a source like a river or stream,",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"419",
+      "book":"1",
+      "unit":"12",
+      "word":"biodiesel",
+      "desc":"___ is fuel that is made from vegetable oils or animal fat.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"420",
+      "book":"1",
+      "unit":"5",
+      "word":"kinetic energy",
+      "desc":"The ___ ___ of an object is the energy it possesses due to motion. It is gained through acceleration and stays constant unless the object\u2019s speed changes.",
+      "options":"abstract ,decelerate ,force ,G ,kinetic energy ,potential energy ,stopping distance ,transfer ,work"
+   },
+   {
+      "id":"421",
+      "book":"3",
+      "unit":"3",
+      "word":"outlet",
+      "desc":"An ___ is something that allows the exit of something else. The part of a hose that allows water to exit the hose is an outlet, for example.",
+      "options":"diameter ,driving force ,flow rate ,flux ,inlet ,outlet ,Poiseuille equation ,pressure ,rate ,resistance ,superfluid ,viscosity"
+   },
+   {
+      "id":"422",
+      "book":"3",
+      "unit":"15",
+      "word":"implant",
+      "desc":"An ___ is a tissue or artificial object put inside a person\u2019s body.",
+      "options":"CT ,diagnosis ,dialysis ,heart-lung machine ,implant ,incubator ,infusion pump ,medical imaging ,MRI ,pacemaker ,prosthetic ,respirator ,slice ,treatment ,Ultrasound ,X-ray"
+   },
+   {
+      "id":"423",
+      "book":"1",
+      "unit":"12",
+      "word":"fuel",
+      "desc":"A ___ is a substance that provides energy when burned.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"424",
+      "book":"2",
+      "unit":"12",
+      "word":"flood-irrigation",
+      "desc":"___ ___ covers an entire area with water.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"425",
+      "book":"2",
+      "unit":"1",
+      "word":"payload",
+      "desc":"A ___ is an object or quantity to be sent or thrown.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"426",
+      "book":"1",
+      "unit":"8",
+      "word":"foot",
+      "desc":"A ___ is an imperial measurement of distance that is equal to twelve inches.",
+      "options":"centimeter ,foot ,gallon ,imperial ,inch ,kilogram ,liter ,meter ,metric ,pound"
+   },
+   {
+      "id":"427",
+      "book":"1",
+      "unit":"8",
+      "word":"kilogram",
+      "desc":"A ___ is a metric measurement of weight that is equal to one thousand grams. It is also equal to approximately two pounds.",
+      "options":"centimeter ,foot ,gallon ,imperial ,inch ,kilogram ,liter ,meter ,metric ,pound"
+   },
+   {
+      "id":"428",
+      "book":"3",
+      "unit":"2",
+      "word":"absolute zero",
+      "desc":"___ ___ is 0 degrees Kelvin i.or",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   },
+   {
+      "id":"429",
+      "book":"1",
+      "unit":"12",
+      "word":"diesel",
+      "desc":"___ is a fuel that is used in big engines like buses and trucks.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"430",
+      "book":"1",
+      "unit":"1",
+      "word":"design",
+      "desc":"To ___ something is to plan how it will look and how it will function.",
+      "options":"design ,develop ,discipline ,engineer ,engineering ,inspect ,machine ,mathematics ,physics ,technology"
+   },
+   {
+      "id":"431",
+      "book":"1",
+      "unit":"11",
+      "word":"scale",
+      "desc":"___ is the size of something in comparison to another similar thing.",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"432",
+      "book":"1",
+      "unit":"1",
+      "word":"physics",
+      "desc":"___ is a part of science that deals with the study of matter, movement, energy, and force,",
+      "options":"design ,develop ,discipline ,engineer ,engineering ,inspect ,machine ,mathematics ,physics ,technology"
+   },
+   {
+      "id":"433",
+      "book":"2",
+      "unit":"4",
+      "word":"summarize",
+      "desc":"To ___ something is to briefly repeat its main points.",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"434",
+      "book":"1",
+      "unit":"12",
+      "word":"fossil fuel",
+      "desc":"___ ___ is an energy source that is made from organic remains. Coal, gas and oil are ___ fuels.",
+      "options":"alternative fuel ,biodegradable ,biodiesel ,chemical engineer ,convert ,diesel ,fossil fuel ,fuel ,nontoxic ,petroleum ,renewable"
+   },
+   {
+      "id":"435",
+      "book":"1",
+      "unit":"14",
+      "word":"power supply",
+      "desc":"A ___ ___ distributes electrical current to a device.",
+      "options":"circuit card assembly ,component ,input voltage ,output power ,output voltage ,power supply ,volt ,watt"
+   },
+   {
+      "id":"436",
+      "book":"3",
+      "unit":"6",
+      "word":"SI system of units",
+      "desc":"The ___ ___ ___ ___ is a particular system of units of measurement. It gives values for seven base units.",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"437",
+      "book":"3",
+      "unit":"2",
+      "word":"First Law of Thermodynamics",
+      "desc":"The ___ ___ ___ ___ is the expression of the concept of conservation of energy as a scientific law.",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   },
+   {
+      "id":"438",
+      "book":"1",
+      "unit":"6",
+      "word":"load",
+      "desc":"A ___ is a particular amount of weight a person or machine lifts or carries.",
+      "options":"complicated ,fulcrum ,inclined plane ,lever ,leverage ,load ,pulley ,simple machine ,wedge ,wheel and axle"
+   },
+   {
+      "id":"439",
+      "book":"1",
+      "unit":"1",
+      "word":"technology",
+      "desc":"___ is the group of new and sophisticated creations which make our lives easier. Examples include television, computers, and telephones.",
+      "options":"design ,develop ,discipline ,engineer ,engineering ,inspect ,machine ,mathematics ,physics ,technology"
+   },
+   {
+      "id":"440",
+      "book":"1",
+      "unit":"8",
+      "word":"gallon",
+      "desc":"A ___ is an imperial measurement of volume that is equal to approximately five liters.",
+      "options":"centimeter ,foot ,gallon ,imperial ,inch ,kilogram ,liter ,meter ,metric ,pound"
+   },
+   {
+      "id":"441",
+      "book":"2",
+      "unit":"11",
+      "word":"marketing",
+      "desc":"___ includes all the activities that a company undertakes in order to advertise, sell, and deliver a product to consumers.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"442",
+      "book":"2",
+      "unit":"15",
+      "word":"DNA probe",
+      "desc":"A ___ ___ is a fragment of DNA that is used to detect a manipulated gene.",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"443",
+      "book":"2",
+      "unit":"8",
+      "word":"blueprint",
+      "desc":"A ___ is a plan for building something.",
+      "options":"blueprint ,cross-section ,depth ,diagram ,dimension ,exploded view ,geometry ,length ,perimeter ,scale ,schematic ,width"
+   },
+   {
+      "id":"444",
+      "book":"2",
+      "unit":"13",
+      "word":"capacity",
+      "desc":"___ refers to the maximum amount of work a company or organization can perform",
+      "options":"assembly line ,capacity ,conveyor ,cost-effective ,ergonomics ,facility layout ,inventory ,quality control ,streamline ,supply chain"
+   },
+   {
+      "id":"445",
+      "book":"3",
+      "unit":"10",
+      "word":"population",
+      "desc":"A ___ is the total group of people or things that a person draws inferences about,",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"446",
+      "book":"1",
+      "unit":"10",
+      "word":"goggles",
+      "desc":"___ are eye glasses that provide protection",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"447",
+      "book":"1",
+      "unit":"10",
+      "word":"accident",
+      "desc":"An ___ is something bad that was not meant to naope^",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"448",
+      "book":"3",
+      "unit":"5",
+      "word":"battery",
+      "desc":"A ___ is a combination of one or more electrochemical cells used to store chemical energy that it converts to electrical energy when it is needed.",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"449",
+      "book":"2",
+      "unit":"5",
+      "word":"iteration",
+      "desc":"An ___ is an instance of doing something repeatedly.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"450",
+      "book":"1",
+      "unit":"3",
+      "word":"stainless steel",
+      "desc":"___ ___ is a type of steel that does not rust.",
+      "options":"ceramic ,coated ,concrete ,glass ,lumber ,porcelain ,reinforced ,stainless steel ,steel ,textured ,tile"
+   },
+   {
+      "id":"451",
+      "book":"2",
+      "unit":"14",
+      "word":"testing",
+      "desc":"___ is the act of making sure software works.",
+      "options":"assess ,computer science ,design ,development ,maintenance ,operation ,problem modeling ,quality ,software engineering ,testing ,validation ,verification"
+   },
+   {
+      "id":"452",
+      "book":"3",
+      "unit":"6",
+      "word":"measurement",
+      "desc":"A ___ is a specification of a particular property, such as size, weight, or time.",
+      "options":"base unit ,candela ,derived unit ,luminance ,luminous intensity ,measurement ,SI system of units ,solid angle ,square meter ,steradian ,supplementary unit ,system"
+   },
+   {
+      "id":"453",
+      "book":"2",
+      "unit":"9",
+      "word":"synthetic",
+      "desc":"___ materials are artificial, man-made substances.",
+      "options":"brittle ,conductor ,ductility ,hardness ,insulator ,logistics ,luster ,malleable ,natural ,plastics ,synthetic ,tensile ,transparent"
+   },
+   {
+      "id":"454",
+      "book":"2",
+      "unit":"11",
+      "word":"competitor",
+      "desc":"A ___ is a rival company that creates similar products and is competing for the same consumers.",
+      "options":"advertising ,commission ,competitor ,consult ,demonstrate ,expertise ,liaison ,market research ,marketing ,modify ,technical ,technological"
+   },
+   {
+      "id":"455",
+      "book":"2",
+      "unit":"3",
+      "word":"PhD",
+      "desc":"The Doctor of Philosophy (___) is a doctorate that can be achieved in a variety of fields,",
+      "options":"ABET ,accredited ,bachelor\u2019s degree ,doctorate ,EAB ,entry-level ,master\u2019s degree ,MEng ,MSc ,MSc(Res) ,PhD ,postgraduate degree ,undergraduate degree"
+   },
+   {
+      "id":"456",
+      "book":"1",
+      "unit":"10",
+      "word":"burn",
+      "desc":"A ___ is damage caused by heat or fire.",
+      "options":"accident ,burn ,fire extinguisher ,first aid ,gloves ,goggles ,hazard ,injury ,precaution ,prohibited ,shock"
+   },
+   {
+      "id":"457",
+      "book":"2",
+      "unit":"1",
+      "word":"Middle Ages",
+      "desc":"The ___ ___ is a period of history that extends from the 5th century through the 15th century.",
+      "options":"catapult,counterweight,mass,mechanical advantage,Middle Ages,payload,pivot,projectile,siege engine,sling,torque,trebuchet"
+   },
+   {
+      "id":"458",
+      "book":"2",
+      "unit":"12",
+      "word":"hydrology",
+      "desc":"___ is the study of water.",
+      "options":"crop ,distribution uniformity ,drainage ,flood-irrigation ,hydrology ,irrigation ,localized irrigation ,long-term ,pivot-irrigation ,salinity ,tillage ,water rights"
+   },
+   {
+      "id":"459",
+      "book":"2",
+      "unit":"5",
+      "word":"redefine",
+      "desc":"To ___ something is to state it again in a different manner.",
+      "options":"analysis ,application ,approach ,attack ,comprehension ,iteration ,iterative procedure ,logic ,problem identification ,redefine ,solution ,synthesis"
+   },
+   {
+      "id":"460",
+      "book":"1",
+      "unit":"9",
+      "word":"variable",
+      "desc":"A ___ is a situation or condition that you change during an experiment.",
+      "options":"control ,data ,experiment ,hypothesis ,methodology ,observation ,problem ,procedure ,result ,variable"
+   },
+   {
+      "id":"461",
+      "book":"3",
+      "unit":"7",
+      "word":"identify",
+      "desc":"To ___ something is to recognize it.",
+      "options":"assemble ,constraint ,construct ,criteria ,detailed design ,evaluate ,feasibility study ,identify ,narrow ,preliminary design ,sketch ,verify"
+   },
+   {
+      "id":"462",
+      "book":"3",
+      "unit":"5",
+      "word":"electrode",
+      "desc":"An ___ is an electrical conductor used to make contact with a nonmetallic part of a circuit,",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"463",
+      "book":"3",
+      "unit":"10",
+      "word":"central tendency",
+      "desc":"The ___ ___ of a group of data is the value that lies in the middle of the group.",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"464",
+      "book":"2",
+      "unit":"15",
+      "word":"vector",
+      "desc":"A ___ is a DNA molecule that is used to transfer genetic material from one cell to another,",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"465",
+      "book":"3",
+      "unit":"4",
+      "word":"moment",
+      "desc":"___ is the ability of a force to cause an object to turn on an axis.",
+      "options":"dynamics ,free body diagram ,load ,magnitude ,moment ,portable ,rigid body ,safety factor ,stability ,statics ,vibration"
+   },
+   {
+      "id":"466",
+      "book":"2",
+      "unit":"15",
+      "word":"molecular cloning",
+      "desc":"___ ___ is the process of copying genes.",
+      "options":"deficiency ,DNA ,DNA probe ,expression ,gene ,GMO ,manipulate ,molecular cloning ,select ,trait ,transformation ,vector"
+   },
+   {
+      "id":"467",
+      "book":"1",
+      "unit":"11",
+      "word":"residential",
+      "desc":"Something that is ___ is related to where people live.",
+      "options":"civil engineer ,commercial ,construction ,infrastructure ,land development ,municipal ,residential ,road construction ,scale ,topographic ,water supply"
+   },
+   {
+      "id":"468",
+      "book":"3",
+      "unit":"8",
+      "word":"analog computer model",
+      "desc":"An ___ ___ ___ is a ccrrprer model created on an analog computer system. While much more limited than digital computers, analog computers are still capable of running long and complex computer models and simulations.",
+      "options":"3-D ,analog computer model ,digital computer model ,empirical ,IDEF ,mathematical model ,modeling language ,physical model ,qualitative model ,simulation ,UML ,VRML"
+   },
+   {
+      "id":"469",
+      "book":"2",
+      "unit":"4",
+      "word":"handout",
+      "desc":"A ___ is a document that you distribute to people during class or a presentation.",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"470",
+      "book":"2",
+      "unit":"4",
+      "word":"citation",
+      "desc":"A ___ is a reference to a piece of writing.",
+      "options":"body language ,citation ,cue card ,general-to-specific strategy ,handout ,KISS ,objective ,presentation program ,projector ,signpost ,summarize ,visual aid"
+   },
+   {
+      "id":"471",
+      "book":"3",
+      "unit":"10",
+      "word":"histogram",
+      "desc":"A ___ is a graph that displays the frequency of different events.",
+      "options":"bell curve ,central tendency ,frequency ,histogram ,outlier ,population ,range ,raw data ,sample ,sort ,statistical quality control ,variation"
+   },
+   {
+      "id":"472",
+      "book":"1",
+      "unit":"7",
+      "word":"tenth",
+      "desc":"A ___ is one of ten equal things.",
+      "options":"cubed ,equal ,exponent ,hundredth ,percent ,squared ,tenth ,thousandth ,times ,to the (-th) power"
+   },
+   {
+      "id":"473",
+      "book":"3",
+      "unit":"5",
+      "word":"cathode",
+      "desc":"A ___ is an electrode that allows electric current to flow out of an electrical device such as a battery.",
+      "options":"anode ,battery ,cathode ,charge ,conductor ,current ,electrode ,insulator ,live temperature coefficient ,separator sheet ,vent hole"
+   },
+   {
+      "id":"474",
+      "book":"3",
+      "unit":"2",
+      "word":"conservation of energy",
+      "desc":"___ ___ ___ is the concept that the energy in a system cannot be created or destroyed, it can only be changed. The system will always have the same amount of energy, even if it changes form.",
+      "options":"absolute zero ,conservation of energy ,entropy ,equilibrium ,First Law of Thermodynamics ,heat ,internal energy ,Kelvin ,Second Law of Thermodynamics ,temperature ,The Third Law of Thermodynamics"
+   }
+]
