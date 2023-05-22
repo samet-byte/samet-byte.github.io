@@ -1,3 +1,4 @@
+```c
 // Here the related libraries added to the code.
 #include "esp_camera.h"
 #include <WiFi.h>
@@ -553,3 +554,4 @@ void loop() {
   wsCarInput.cleanupClients(); 
   sendCameraPicture();  
 }
+```
