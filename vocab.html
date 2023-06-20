@@ -1,30 +1,54 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>JSON to HTML Table</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-
-    th, td {
-      padding: 8px;
-      text-align: left;
-      border-bottom: 1px solid #ddd;
-    }
-
-    th {
-      background-color: #f2f2f2;
-    }
-  </style>
+    <meta http-equiv='cache-control' content='no-cache'> 
+    <meta http-equiv='expires' content='0'> 
+    <meta http-equiv='pragma' content='no-cache'>
+    <meta charset="UTF-8">
+    <title>Sam's Vocab</title>
+    <link rel="icon" href="
+    https://sdk.bitmoji.com/me/sticker/1V4oJlZKBZVEMUZIqrkpkyATyVeig0bGqzyNqTVZDdeV~zJVLPvWzA/20053964.png?p=dD1wO3Y9cG9wdWxhcjtsPXRyX1RS.v1&size=thumbnail
+    " type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+    <style>
+        body {
+          font-family: Arial, Helvetica, sans-serif;
+          font-family: 'Courier New', Courier, monospace;
+        }
+      
+        table {
+          border-collapse: collapse;
+          width: 100%;
+        }
+      
+        th, td {
+          padding: 8px;
+          text-align: left;
+          border-bottom: 1px solid #ddd;
+        }
+      
+        th {
+          background-color: #f2f2f2;
+          position: sticky;
+          top: 0;
+          z-index: 1;
+        }
+      
+        #table-container {
+          overflow-y: auto;
+          max-height: 100vh; /* Adjust the max height to occupy the full viewport height */
+        }
+      </style>
+      
 </head>
 <body>
   <div id="table-container"></div>
 
   <script>
     // Fetch the JSON data from the API
-    fetch('https://script.google.com/macros/s/AKfycbxfD5z9Vg6X7f0mkc4NJO0fh2XpaVO2DECrmSdjtErhPwCNbGDk98sorNCWqre6Cjn1/exec')
+    var apiurl = 
+    'https://script.google.com/macros/s/AKfycbxfD5z9Vg6X7f0mkc4NJO0fh2XpaVO2DECrmSdjtErhPwCNbGDk98sorNCWqre6Cjn1/exec';
+    fetch(apiurl)
       .then(response => response.json())
       .then(data => {
         // Extract the data array from the JSON
