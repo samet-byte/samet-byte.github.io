@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JSON to HTML Table</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <div id="table-container"></div>
+
+  <script>
+    // Fetch the JSON data from the API
+    fetch('https://script.google.com/macros/s/AKfycbxfD5z9Vg6X7f0mkc4NJO0fh2XpaVO2DECrmSdjtErhPwCNbGDk98sorNCWqre6Cjn1/exec')
+      .then(response => response.json())
+      .then(data => {
+        // Extract the data array from the JSON
+        const dataArray = data.data;
+
+        // Create the table HTML
+        let tableHTML = '<table>';
+        tableHTML += '<tr>';
+        for (const key in dataArray[0]) {
+          tableHTML += '<th>' + key + '</th>';
+        }
+        tableHTML += '</tr>';
+
+        // Populate the table body
+        dataArray.forEach((item) => {
+          tableHTML += '<tr>';
+          for (const key in item) {
+            tableHTML += '<td>' + item[key] + '</td>';
+          }
+          tableHTML += '</tr>';
+        });
+
+        tableHTML += '</table>';
+
+        // Add the table HTML to the container element
+        const container = document.getElementById('table-container');
+        container.innerHTML = tableHTML;
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
+  </script>
+</body>
+</html>
