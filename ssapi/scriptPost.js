@@ -35,6 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Handle any errors
             console.error('Error:', error);
         });
+        alert(inputWord + " : added to the list")
     });
 
     
