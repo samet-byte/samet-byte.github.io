@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const API_URL = 'https://script.google.com/macros/s/AKfycbx8HldRYNkvjCzV_Pay7iAsqbD0hK3GNow_gwF5aStJoel_ew4_fPxPXkyXfeL0IIDW/exec';
+    const API_URL = 'https://script.google.com/macros/s/AKfycbzmXLpHp6ourCiICCiwzQnrekc2_SEqHipSk1vJyCc/dev';
 
     const submitButton = document.getElementById('submit');
 
