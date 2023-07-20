@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<title>スマホペン</title>
+<script type="text/javascript" src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+<script type="text/javascript">
+var isTouch = false;
+var touchData = [];
+$(function(){
+  if( window.DeviceOrientationEvent ){
+    window.addEventListener( "deviceorientation", deviceOrientation );
+  }
+
+  if( window.TouchEvent ){
+    window.addEventListener( "touchstart", touchStart );
+    window.addEventListener( "touchend", touchEnd );
+  }
+});
+
+function touchStart( e ){
+  var obj = e.changedTouches[0];
+  var touchY = obj.pageY;
+
+  //. 下半分をタッチした時のみ
+  if( touchY > ( window.innerHeight / 2 ) ){
+    isTouch = true;
+    touchData = [];
+  }
+}
+
+function touchEnd( e ){
+  isTouch = false;
+
+  if( touchData && touchData.length > 10 ){
+    //. 描画
+    $('#result').html( '<canvas id="cv" width="200" height="200" style="display:none;"></canvas><br/><img id="resultimg"/>' );
+    var cvs = document.getElementById( "cv" );
+    var ctx = cvs.getContext( "2d" );
+    ctx.beginPath();
+
+    ctx.fillStyle = "rgb( 255, 255, 255 )";
+    ctx.fillRect( 0, 0, 200, 200 );
+
+    var abg = touchData[0];
+
+    var x = abg['lr'];
+    var y = abg['fb'];
+    ctx.moveTo( x + 100 , -1 * y + 100 );
+    for( var i = 1; i < touchData.length; i ++ ){
+      var abg = touchData[i];
+      var x = abg['lr'];
+      var y = abg['fb'];
+      ctx.lineTo( x + 100 , -1 * y + 100 );
+    }
+    ctx.stroke();
+
+    //. Canvas => Image
+    var png = cvs.toDataURL( 'image/png' );
+    document.getElementById( "resultimg" ).src = png;
+
+    touchData = [];
+  }
+}
+
+function deviceOrientation( e ){
+  if( isTouch ){
+    var gamma = e.gamma; //. Left/Right
+    var beta = e.beta;   //. Front/Back
+    var alpha = e.alpha; //. Direction
+
+    var abg = {};
+    abg['dir'] = alpha;
+    abg['fb'] = beta;
+    abg['lr'] = gamma;
+    $('#abg_lr').html( gamma );
+    $('#abg_fb').html( beta );
+    $('#abg_dir').html( alpha );
+
+    touchData.push( abg );
+  } 
+}
+</script>
+<style type="text/css">
+html{
+  height: 100%;
+}
+
+body{
+  background-color: #ffffcc;
+  margin: 0;
+  height: 100%;
+}
+
+table{
+  background-color: #ccffcc;
+}
+
+#main{
+  width: 100%;
+  height: 100%;
+}
+</style>
+</head>
+<body>
+<div>
+ <div>
+  <table border="1" cellspacing="0" width="100%">
+   <thead>
+    <tr><th width="50%">Keys</th><th>Values</th></tr>
+   </thead>
+   <tbody>
+    <tr><td>LR</td><td id="abg_lr">&nbsp;</td></tr>
+    <tr><td>FB</td><td id="abg_fb">&nbsp;</td></tr>
+    <tr><td>DIR</td><td id="abg_dir">&nbsp;</td></tr>
+   </tbody>
+  </table>
+
+  <div id="result"></div>
+ </div>
+</div>
+</body>
+</html>
