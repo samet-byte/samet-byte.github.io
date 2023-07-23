@@ -1,6 +1,6 @@
 const API_URL  = 'https://script.google.com/macros/s/AKfycbx8HldRYNkvjCzV_Pay7iAsqbD0hK3GNow_gwF5aStJoel_ew4_fPxPXkyXfeL0IIDW/exec';
 document.addEventListener('DOMContentLoaded', () => {
-    fetch(API_URL+'?A=h')
+    fetch(API_URL+'')
       .then(response => response.text())
       .then(data => {
         // Split the data into separate lines
