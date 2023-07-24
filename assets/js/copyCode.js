@@ -1,5 +1,5 @@
 // This assumes that you're using Rouge; if not, update the selector
-const codeBlocks = document.querySelectorAll('.code-header');
+const codeBlocks = document.querySelectorAll('.highlight');
 const copyCodeButtons = document.querySelectorAll('.copy-code-button');
 
 copyCodeButtons.forEach((copyCodeButton, index) => {
