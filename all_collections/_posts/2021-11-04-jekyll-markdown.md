@@ -34,11 +34,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 > This is another blockquote following header 3
 
+{% include codeHeader.html %}
 ```kotlin
 // Kotlin
 infix fun Int._sum(n:Int){return this + n}
 ```
-
+{% include codeHeader.html %}
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|

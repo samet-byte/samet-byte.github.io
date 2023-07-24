@@ -221,3 +221,7 @@ main {
     padding: 1.5rem;
   }
 }
+
+.copy-code-button {
+  display: block;
+}
