@@ -59,12 +59,11 @@ class SamTextFormat private constructor(private val text: String) {
 }
 ```
 
-
+### Usage:
 ```kotlin
     SamTextFormat
-        .create("Hello")
-        .yellow()
-        .red()
+        .create(quote) // Quote -> String
+        .cyan()
         .bold()
         .underline()
         .italic()
@@ -74,5 +73,6 @@ class SamTextFormat private constructor(private val text: String) {
 
 
 ### Terminal Output:
-
-> “Happy families are all alike; every unhappy family is unhappy in its own way” (Tolstoy, 1875-1877/2001, p. 1).
+<blockquote>
+<font color="cyan"><strong><u><em>“Happy families are all alike; every unhappy family is unhappy in its own way” (Tolstoy, 1875-1877/2001, p. 1).</em></u></strong></font>
+</blockquote>
