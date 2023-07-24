@@ -7,8 +7,8 @@
       {% include header.html %} {% include bio.html %}
       <section class="articles">
         {% for post in site.posts %}
-        <article class="article">
-          <h2 class="article-title" href="{{site.baseurl}}{{post.url}}">
+        <article onclick="location.href='{{site.baseurl}}{{post.url}}';" class="article">
+          <h2  class="article-title">
             <a href="{{site.baseurl}}{{post.url}}"> {{post.title}} </a>
           </h2>
           <small class="date">{{post.date | date_to_string}}</small>
