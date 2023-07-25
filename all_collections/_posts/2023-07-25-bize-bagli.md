@@ -11,41 +11,41 @@ sam {text-align: center;}
 
 <sam>
 
-Bu akşam da gönlümüzce bitmediyse gün
+Bu akşam da gönlümüzce bitmediyse gün <br>
 
-Suçun yarısı bizim yarısı günün
+Suçun yarısı bizim yarısı günün <br>
 
-Sanki yapının tuğlası bizsek harcı o
+Sanki yapının tuğlası bizsek harcı o <br>
 
-Onun da iyi olması lazım
+Onun da iyi olması lazım <br>
 
-Onun da aklı kalbi namusu
+Onun da aklı kalbi namusu <br>
 
-Ya masmavi aydınlık ferah
+Ya masmavi aydınlık ferah <br>
 
-Ya dikenli huzursuz bir uykusu
+Ya dikenli huzursuz bir uykusu <br>
 
-Gününü gün etmekten korkması lazım.
+Gününü gün etmekten korkması lazım. <br>
 
+ <br>
+Bu akşam da gönlümüzce bitmediyse gün <br>
 
-Bu akşam da gönlümüzce bitmediyse gün
+Demek tümü bizim omuzlarımızda yükün <br>
 
-Demek tümü bizim omuzlarımızda yükün
+Gelin buna bir çare bulalım <br>
 
-Gelin buna bir çare bulalım
+Bunca olduğumuz gayrı yetmiyor <br>
 
-Bunca olduğumuz gayrı yetmiyor
+Yarın daha iyi adam olalım <br>
 
-Yarın daha iyi adam olalım
+Yarın daha sağlam daha akıllı <br>
 
-Yarın daha sağlam daha akıllı
+Yarın daha sevdalı daha haklı <br>
 
-Yarın daha sevdalı daha haklı
+Günün bize bağlı olduğunu bilelim. <br>
 
-Günün bize bağlı olduğunu bilelim.
-
-Rahatı Kaçan Ağaç/Toplu Şiirleri 1…
-
+Rahatı Kaçan Ağaç/Toplu Şiirleri 1… <br>
+ <br>
 <b>Melih Cevdet Anday</b>
 
 </sam>
