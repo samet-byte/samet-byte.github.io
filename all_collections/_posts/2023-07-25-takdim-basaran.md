@@ -5,9 +5,6 @@ date: 2023-07-26 2:03:26
 categories: [poem,literature]
 ---
 
-
-TAKDİM
-
 I <br>
 
 Görebildiğin kadar mavi<br>
