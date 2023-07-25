@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Bize Bağlı
-Melih Cevdet Anday
+title: Bize Bağlı<br>Melih Cevdet Anday
 date: 2023-07-25 8:50:39
 categories: [poem, literature]
 ---
