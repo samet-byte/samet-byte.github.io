@@ -28,6 +28,7 @@ Ya dikenli huzursuz bir uykusu <br>
 Gününü gün etmekten korkması lazım. <br>
 
  <br>
+ 
 Bu akşam da gönlümüzce bitmediyse gün <br>
 
 Demek tümü bizim omuzlarımızda yükün <br>
