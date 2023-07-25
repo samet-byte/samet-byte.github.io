@@ -1,9 +1,3 @@
----
-layout: post
-title: Better Terminal Output With ANSI Escape Codes Using Kotlin
-date: 2023-07-25
-categories: [kotlin,terminal,ansi]
----
 
 # Better Terminal Output With ANSI Escape Codes Using Kotlin
 
