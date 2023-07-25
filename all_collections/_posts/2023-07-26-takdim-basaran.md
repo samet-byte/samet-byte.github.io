@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Takdim<br>Mehmet Başaran
-date: 2023-07-26 12:47:21 AM
+date: 2023-07-26 12:47:21
 categories: [poem, literatue]
 ---
 
