@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GitHub Pages Directory Listing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    li {
+      list-style-type: none;
+      margin: 5px;
+    }
+    a {
+      text-decoration: none;
+      color: #007bff;
+    }
+  </style>
+</head>
+<body>
+  <h1>GitHub Pages Directory Listing</h1>
+  <ul>
+    <!-- JavaScript code to dynamically list all files -->
+    <script>
+      fetch(window.location.href)
+        .then(response => response.text())
+        .then(text => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(text, 'text/html');
+          const links = htmlDoc.querySelectorAll('a');
+          const fileNames = [];
+
+          links.forEach(link => {
+            const href = link.getAttribute('href');
+              fileNames.push(href);
+          });
+
+          const listElement = document.createElement('ul');
+          fileNames.forEach(fileName => {
+            const listItem = document.createElement('li');
+            const anchor = document.createElement('a');
+            anchor.setAttribute('href', fileName);
+            anchor.textContent = fileName;
+            listItem.appendChild(anchor);
+            listElement.appendChild(listItem);
+          });
+
+          document.body.appendChild(listElement);
+        });
+    </script>
+  </ul>
+</body>
+</html>
