@@ -29,6 +29,10 @@ body {
   font-family: "JetBrains Mono", monospace;
   line-height: 2rem;
   background-color: var(--gray-5);
+  
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  
 }
 .content a {
   color: cyan;
