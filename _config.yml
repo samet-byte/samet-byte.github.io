@@ -23,4 +23,4 @@ defaults:
     values:
       layout: "post"
       permalink: /posts/:title/
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "clipboardLastItem.js"]
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "{{site.baseurl}}/assets/js/clipboardLastItem.js"]

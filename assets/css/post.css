@@ -45,11 +45,6 @@ body::-webkit-scrollbar {
   display: none; /* Hide scrollbar for Chrome, Safari and Opera */
 }
 
-
-.example::-webkit-scrollbar {
-  display: none;
-}
-
 .content a {
   color: cyan;
   border-bottom: 1px solid cyan;
