@@ -5,7 +5,7 @@ date: 2023-07-26
 categories: [clipboard,api,dynamic]
 ---
 
-## <h1 id="apiData"></h1>
+<h1 id="apiData"></h1>
 
 <script>
   // Function to fetch data from the API and display it in the <h1> element
