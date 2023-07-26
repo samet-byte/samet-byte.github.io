@@ -6,9 +6,9 @@ categories: [countdown, final]
 ---
 
 <!-- Display the countdown timer in an element -->
-<div style="display: flex; justify-content: center; margin: 20px;">
+<!-- <div style="display: flex; justify-content: center; margin: 20px;"> -->
 <h1 id="demo"></p>
-</div>
+<!-- </div> -->
 
 <script>
 // Set the date we're counting down to
