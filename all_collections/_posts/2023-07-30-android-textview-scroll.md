@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android<br>Make TextView Scrollable<br>Java / Kotlin
-date: 2023-07-30 3:00:13 AM
+date: 2023-07-30
 categories: [textview, android, java,kotlin,scroll]
 ---
 
