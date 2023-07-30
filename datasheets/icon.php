@@ -33,10 +33,10 @@ if ( isset ( $_FILES['myfile'] ) )
     <br /><br />
     Copy the encoded data from above and set it as an element of array $I in index.php. For example, if you
     have just encoded an icon for ".jpg" extension, you'd add this:<br />
-    <strong style="color:blue;">$I['jpg']='&lt;PASTE ENCODED DATA HERE&gt;';</strong>
+    <strong style="color:blue;">$I['jpg']='&lt;PASTE ENCODED DATA HERE&gt;';**
     <br /><br />
     If you want to use the same icon for many extensions, do something like this:<br />
-    <strong style="color:blue;">$I['gif']=$I['jpg']=$I['png']='&lt;PASTE ENCODED DATA HERE&gt;';</strong>
+    <strong style="color:blue;">$I['gif']=$I['jpg']=$I['png']='&lt;PASTE ENCODED DATA HERE&gt;';**
     <br /><br />
     If an icon has already been set for an extension and you want to replace it, just encode the icon
     and paste the new encoded data between the quotes, don't do the step described above. It

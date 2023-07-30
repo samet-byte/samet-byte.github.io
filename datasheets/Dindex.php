@@ -91,7 +91,7 @@ function _head()
 	_tpg=Math.ceil((_files.length+_dirs.length)/_ppg);
 	idx.innerHTML='<div class="rounded gray" style="padding:5px 10px 5px 7px;color:#202020">' +
 		'<p class="left">' +
-			'<strong><?php print$current_dir_name==''?$sitename:$current_dir_name?></strong><?php print$dir!=''?'&nbsp; (<a href="'.$up_url.'">Back</a>)':''?><br />' + (_files.length+_dirs.length) + ' objects in this folder, ' + _s(_tsize) + ' total.' +
+			'**<?php print$current_dir_name==''?$sitename:$current_dir_name?>**<?php print$dir!=''?'&nbsp; (<a href="'.$up_url.'">Back</a>)':''?><br />' + (_files.length+_dirs.length) + ' objects in this folder, ' + _s(_tsize) + ' total.' +
 		'</p>' +
 		'<p class="right">' +
 			'Sort: <span class="link" onmousedown="return _srt(\'name\');" id="sort_name">Name</span>, <span class="link" onmousedown="return _srt(\'type\');" id="sort_type">Type</span>, <span class="link" onmousedown="return _srt(\'size\');" id="sort_size">Size</span>, <span class="link" onmousedown="return _srt(\'date\');" id="sort_date">Date</span>' +
