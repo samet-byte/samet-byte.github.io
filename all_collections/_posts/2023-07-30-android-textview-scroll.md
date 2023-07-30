@@ -6,6 +6,7 @@ categories: [textview, android, java,kotlin,scroll]
 ---
 
 ```kotlin
+//KOTLIN
 val textView = findViewById<TextView>(R.id.textView) 
 // or with binding -> binding.textView
 ...
@@ -14,6 +15,7 @@ textView.movementMethod = ScrollingMovementMethod()
 ```
 
 ```java
+//JAVA
 TextView textView = findViewById(R.id.textView) 
 // or with binding -> binding.textView
 ...
