@@ -18,6 +18,8 @@ function checkPassword() {
             if (enteredPassword === data) {
                 // Enable functions or show content here
                 alert("Access granted! You can now access the restricted content.");
+
+                window.location.href = 'post.html';
             } else {
                 alert("Incorrect password. Access denied!");
             }
