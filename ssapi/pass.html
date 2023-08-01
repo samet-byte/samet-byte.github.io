@@ -12,10 +12,10 @@ function checkPassword() {
 
     // Make an API call to retrieve the actual password
     fetch('https://script.google.com/macros/s/AKfycby6Ur4FBMib0TUe9NAJu7LscmzvxsKtDt1k_T-kwvPVePEtE1irpShrpCMF4Jd4JtI/exec?A=pass')
-        .then(response => response.json())
+        .then(response => response.text())
         .then(data => {
-            var actualPassword = data.password;
-            if (enteredPassword === actualPassword) {
+            //var actualPassword = data.password;
+            if (enteredPassword === data) {
                 // Enable functions or show content here
                 alert("Access granted! You can now access the restricted content.");
             } else {
