@@ -11,7 +11,7 @@ function checkPassword() {
     var enteredPassword = prompt("Enter the password:");
 
     // Make an API call to retrieve the actual password
-    fetch('https://script.google.com/macros/s/AKfycby6Ur4FBMib0TUe9NAJu7LscmzvxsKtDt1k_T-kwvPVePEtE1irpShrpCMF4Jd4JtI/exec?A=pass')
+    fetch('https://script.google.com/macros/s/AKfycbzmXLpHp6ourCiICCiwzQnrekc2_SEqHipSk1vJyCc/dev?A=pass')
         .then(response => response.text())
         .then(data => {
             //var actualPassword = data.password;
