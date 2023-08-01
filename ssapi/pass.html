@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Password Protected Page</title>
+</head>
+<body>
+
+<script>
+function checkPassword() {
+    var enteredPassword = prompt("Enter the password:");
+
+    // Make an API call to retrieve the actual password
+    fetch('https://script.google.com/macros/s/AKfycby6Ur4FBMib0TUe9NAJu7LscmzvxsKtDt1k_T-kwvPVePEtE1irpShrpCMF4Jd4JtI/exec?A=pass')
+        .then(response => response.json())
+        .then(data => {
+            var actualPassword = data.password;
+            if (enteredPassword === actualPassword) {
+                // Enable functions or show content here
+                alert("Access granted! You can now access the restricted content.");
+            } else {
+                alert("Incorrect password. Access denied!");
+            }
+        })
+        .catch(error => {
+            alert("An error occurred while fetching the password. Please try again later.");
+        });
+}
+</script>
+
+<h1>Welcome to the Password-Protected Page</h1>
+
+<button onclick="checkPassword()">Enter Password</button>
+
+</body>
+</html>
