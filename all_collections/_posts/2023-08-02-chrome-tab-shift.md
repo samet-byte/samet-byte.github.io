@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Sloth Series 1: Swicth Between Chrome Tabs <br>AppleScript
+title: "Sloth Series 1:
+ Swicth Between Chrome Tabs 
+ AppleScript"
 date: 2023-08-02 2:49:47 PM
 categories: [mac, applescript, sloth, shortcut, chrome]
 ---
