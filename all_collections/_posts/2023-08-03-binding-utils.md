@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Binding Utils: Power Your DataBinding Views"
+title: "Binding Utils: 
+
+Power Your DataBinding Views"
 date: 2023-08-03
 categories: [android, data-binding, binding-utils]
 ---
