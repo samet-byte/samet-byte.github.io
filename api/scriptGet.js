@@ -1,4 +1,5 @@
-const API_URL  = 'https://script.google.com/macros/s/AKfycbxh6J7p_TVpSOKMjl0IWoB1IpLAjC8ucOuspISsA8cWmHRhHIzqU2J3KDhX2MXXUjM_/exec';
+const API_URL  = 
+'https://script.google.com/macros/s/AKfycbxG2NVO2mOnm2U66XRWp5uG7hG2PSy5gLlHLKcaRKQdONpqXQl-IaiqSe-2Fvlsi61Y/exec?A=s';
 document.addEventListener('DOMContentLoaded', () => {
     fetch(API_URL+'')
       .then(response => response.text())
