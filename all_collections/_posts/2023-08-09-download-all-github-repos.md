@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sloth Series 2: Download All Github User/Organization Repositories"
-date: 2021-11-04
+date: 2023-08-09
 categories: [python, github, sloth, repository, download, batch]
 ---
 
