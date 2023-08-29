@@ -3,11 +3,14 @@ title: CV
 layout: post
 ---
 
-🌌 Interstellar Scholar in Disguise: Basically, I'm a fancy space student pretending to blend in on Earth. 
+🌌 Interstellar Scholar in Disguise: Basically, I'm a fancy space student pretending to blend in on Earth.
+
 🌍 Amateur Earthling: I'm still figuring out how this whole "Earthling" thing works – gravity is a tough subject! 
+
 🚶‍♂️ Flâneur: I roam around like a philosopher, but with less thinking and more wandering. 
 
 Previous Life Experinces:
+
 🦥 Sloth Sensei of Efficiency: 
 I've perfected the art of getting things done with minimal effort, just like a sloth reaching for that perfectly placed leaf. 🍃⏰ 
 
@@ -67,6 +70,7 @@ If cinema were a religion, I'd be its most devout disciple. I analyze movies wit
 
 🏀 Former 15-Minute Basketball Star:
 In my basketball career, I experienced 15 minutes of fame in Türk Telekom Junior Team – 10 minutes on the bench and 5 minutes on the court. It was a slam dunk in the art of warm-up exercises!
+
 ⚽ Turkish Football Federation Licenced Referee (for 1 Day):
 I tried my hand at refereeing – my decisions were as questionable as a plot twist in a B-grade movie. Let's just say, the players weren't the only ones confused on the field.
 
