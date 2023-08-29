@@ -1,10 +1,15 @@
-🌌 Interstellar Scholar in Disguise: Basically, I'm a fancy space student pretending to blend in on Earth.
+---
+title: CV
+layout: post
+---
+
+🌌 Interstellar Scholar in Disguise: Basically, I'm a fancy space student pretending to blend in on Earth. 
 🌍 Amateur Earthling: I'm still figuring out how this whole "Earthling" thing works – gravity is a tough subject! 
-🚶‍♂️ Flâneur: I roam around like a philosopher, but with less thinking and more wandering.
+🚶‍♂️ Flâneur: I roam around like a philosopher, but with less thinking and more wandering. 
 
 Previous Life Experinces:
 🦥 Sloth Sensei of Efficiency: 
-I've perfected the art of getting things done with minimal effort, just like a sloth reaching for that perfectly placed leaf. 🍃⏰
+I've perfected the art of getting things done with minimal effort, just like a sloth reaching for that perfectly placed leaf. 🍃⏰ 
 
 Skills & Interests:
 
@@ -35,7 +40,7 @@ Skills & Interests:
 - Once fixed a bug so elusive that it was awarded an honorary detective badge.
 - Wrote code so efficient that it once made a robot shed a tear of joy.
 
- 
+  
 🛋️ Master of Procrastination:
 - Black Belt in "Last-Minute Panic."
 - PhD in "Productive Distractions."
@@ -79,3 +84,4 @@ I took part in a genetics cloning program. Sure, it was just bacteria, but who k
 
 🦥 Summary for Sloths:
 In the grand theater of life, I've embraced my roles like a method actor immerses in a character. And just like Sisyphus, I keep pushing forward, whether it's a boulder or the play button on my favorite movie. So, if you're in need of an Android virtuoso who can code with elegance and conquer research challenges with a wink, you've found your developer. Just be warned: my apps might be so addictive that you'll forget to feed your pet rock! Also, if you're in need of a professional wanderer who can confuse bugs, create websites with questionable design choices, and turn any argument into an epic showdown, I'm your go-to person. Just don't ask me to find my keys – that's a task even Sherlock Holmes would find baffling.
+        
