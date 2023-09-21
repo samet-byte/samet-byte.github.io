@@ -1,0 +1,10 @@
+ [
+    {
+      "trigger": ["2229", "okulno"],
+      "replace": "22293730"
+    },
+    {
+      "trigger": ["sweb"],
+      "replace": "https://samet-byte.github.io"
+    },
+]
