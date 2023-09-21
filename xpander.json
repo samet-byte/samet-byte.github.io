@@ -7,4 +7,8 @@
       "trigger": ["sweb"],
       "replace": "https://samet-byte.github.io"
     },
+    {
+      "trigger": ["     "],
+      "replace": "Blank stuff"
+    },
 ]
