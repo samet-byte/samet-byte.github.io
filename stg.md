@@ -1,0 +1,1 @@
+https://idratherbewriting.com/documentation-theme-jekyll/mydoc_alerts.html
