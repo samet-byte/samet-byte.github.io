@@ -11,33 +11,33 @@ sam {text-align: center;}
 
 <sam>
 
-dağ köyünde körbağırsak sancısa
+<br>dağ köyünde körbağırsak sancısa</br>
 
-konur karnın ağrıyan yanına
+<br>konur karnın ağrıyan yanına</br>
 
-alev gibi tuğlalar
+<br>alev gibi tuğlalar</br>
 
-/ 1 kalbiniz vardır onu tanıyınız.
+<br>/ 1 kalbiniz vardır onu tanıyınız.</br>
 
-1 şehir kadar kalabalıktır bazıları
+<br>1 şehir kadar kalabalıktır bazıları</br>
 
-1 dehliz kadar karanlıktır bazıları
+<br>1 dehliz kadar karanlıktır bazıları</br>
 
-Konuşurlar
+<br>Konuşurlar</br>
 
-İsterler
+<br>İsterler</br>
 
-Susarlar
+<br>Susarlar</br>
 
-Dinlememişseniz nice yıl kalbinizi
+<br>Dinlememişseniz nice yıl kalbinizi</br>
 
-Ev meslek iş para geçim diyerek
+<br>Ev meslek iş para geçim diyerek</br>
 
-Düşünün şimdi 1 de
+<br>Düşünün şimdi 1 de</br>
 
-Şehirlerde kasaba ve köylerde
+<br>Şehirlerde kasaba ve köylerde</br>
 
-Başını eğmiş kalbiyle söyleşen 1 kişi olduğunuzu
+<br>Başını eğmiş kalbiyle söyleşen 1 kişi olduğunuzu</br>
 
 <b>Cahit Zarifoğlu</b>
 
