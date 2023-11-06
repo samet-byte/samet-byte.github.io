@@ -12,19 +12,32 @@ sam {text-align: center;}
 <sam>
 
 dağ köyünde körbağırsak sancısa
+
 konur karnın ağrıyan yanına
+
 alev gibi tuğlalar
-/ Bir kalbiniz vardır onu tanıyınız.
-Bir şehir kadar kalabalıktır bazıları
-Bir dehliz kadar karanlıktır bazıları
+
+/ 1 kalbiniz vardır onu tanıyınız.
+
+1 şehir kadar kalabalıktır bazıları
+
+1 dehliz kadar karanlıktır bazıları
+
 Konuşurlar
+
 İsterler
+
 Susarlar
+
 Dinlememişseniz nice yıl kalbinizi
+
 Ev meslek iş para geçim diyerek
-Düşünün şimdi bir de
+
+Düşünün şimdi 1 de
+
 Şehirlerde kasaba ve köylerde
-Başını eğmiş kalbiyle söyleşen bir kişi olduğunuzu
+
+Başını eğmiş kalbiyle söyleşen 1 kişi olduğunuzu
 
 <b>Cahit Zarifoğlu</b>
 
