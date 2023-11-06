@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kalbiyle Söyleşen
-date: 2023-11-06 19:28:00
+date: 2023-11-06
 categories: [poem, literature]
 ---
 
