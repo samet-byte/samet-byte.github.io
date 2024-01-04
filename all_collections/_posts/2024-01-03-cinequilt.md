@@ -143,7 +143,7 @@ export const axiosPrivate = axios.create({
 
 #### `src/server.js`
 > **Warning:**  `:/endpoint` allows any request to be made to the server for development purposes. This is not secure and shall be changed on production. 
-``` jsx
+``` javascript
 const express = require("express");
 const cors = require("cors");
 const axios = require("axios");
