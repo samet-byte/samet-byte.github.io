@@ -26,15 +26,32 @@ categories: [hackerrank, sql]
 ``` sql
 
 SELECT CO.CONTINENT, FLOOR(AVG(CI.POPULATION))
-
 FROM CITY CI
-
 INNER JOIN COUNTRY CO
-
 ON CI.COUNTRYCODE = CO.CODE
-
 GROUP BY CO.CONTINENT
-
 ```
-
 </details>
+
+
+
+
+
+
+
+<details>
+  <summary>
+    <strong>
+      Answer
+    </strong>
+  </summary>
+
+<!-- SQL code -->
+```sql
+SELECT CO.CONTINENT, FLOOR(AVG(CI.POPULATION))
+FROM CITY CI
+INNER JOIN COUNTRY CO
+ON CI.COUNTRYCODE = CO.CODE
+GROUP BY CO.CONTINENT
+</details>
+```
