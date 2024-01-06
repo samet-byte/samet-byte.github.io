@@ -15,6 +15,15 @@ categories: [hackerrank, sql]
 
 <img src="https://s3.amazonaws.com/hr-challenge-images/8342/1449769013-e54ce90480-Country.jpg" alt="Alt Text" width="300" height="400">
 
+#### Desired Output
+
+> Asia 693038
+> Europe 175138
+> Oceania 109189
+> South America 147435
+> Africa 274439
+
+
 
 <details>
   <summary>
@@ -23,7 +32,7 @@ categories: [hackerrank, sql]
     </strong>
   </summary>
 
-``` sql
+``` javascript
 
 SELECT CO.CONTINENT, FLOOR(AVG(CI.POPULATION))
 FROM CITY CI
@@ -34,24 +43,3 @@ GROUP BY CO.CONTINENT
 </details>
 
 
-
-
-
-
-
-<details>
-  <summary>
-    <strong>
-      Answer
-    </strong>
-  </summary>
-
-<!-- SQL code -->
-```sql
-SELECT CO.CONTINENT, FLOOR(AVG(CI.POPULATION))
-FROM CITY CI
-INNER JOIN COUNTRY CO
-ON CI.COUNTRYCODE = CO.CODE
-GROUP BY CO.CONTINENT
-</details>
-```
