@@ -32,7 +32,7 @@ categories: [hackerrank, sql]
     </strong>
   </summary>
 
-
+<br/>
 SELECT CO.CONTINENT, FLOOR(AVG(CI.POPULATION))
 <br/>
 
@@ -46,6 +46,7 @@ ON CI.COUNTRYCODE = CO.CODE
 <br/>
 
 GROUP BY CO.CONTINENT
+<br/>
 <br/>
 
 
@@ -84,8 +85,8 @@ INNER JOIN COUNTRY CO
 ON CI.COUNTRYCODE = CO.CODE
 <br/>
 WHERE CO.CONTINENT = 'Asia'
-
-
+<br/>
+<br/>
 </details>
 
 ____
