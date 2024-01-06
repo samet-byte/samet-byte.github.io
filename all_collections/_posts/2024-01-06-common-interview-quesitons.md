@@ -562,6 +562,7 @@ double getCircumfrence();
 ```
 
 ![UML Diagram](https://cppcodetips.files.wordpress.com/2013/12/class_diagram_sample.png)
+
 Source: [CppCodeTips](https://cppcodetips.wordpress.com/2013/12/23/uml-class-diagram-explained-with-c-samples/)
 
 
@@ -936,11 +937,9 @@ public class SecondLargestNumber {
 
 
 
-
-
-
-
 <hr />
+
+<script src="https://gist.github.com/samet-byte/d2decd630f9eb3086b659375d5d4599c.js"></script>
 
 <br/>
 
