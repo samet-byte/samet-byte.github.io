@@ -17,14 +17,10 @@ categories: [hackerrank, sql]
 
 #### Desired Output
 
-> Asia 693038
-> 
+> Asia 693038 
 > Europe 175138
-> 
 > Oceania 109189
-> 
 > South America 147435
-> 
 > Africa 274439
 
 
@@ -38,14 +34,19 @@ categories: [hackerrank, sql]
 
 
 SELECT CO.CONTINENT, FLOOR(AVG(CI.POPULATION))
+<br/>
 
 FROM CITY CI
+<br/>
 
 INNER JOIN COUNTRY CO
+<br/>
 
 ON CI.COUNTRYCODE = CO.CODE
+<br/>
 
 GROUP BY CO.CONTINENT
+<br/>
 
 
 </details>
