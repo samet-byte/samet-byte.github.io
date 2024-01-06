@@ -939,6 +939,27 @@ public class SecondLargestNumber {
 
 <hr />
 
+### Simple Coding Question 9
+
+> Two cats and a mouse are at various positions on a line. You will be given their starting positions. Your task is to determine which cat will reach the mouse first, assuming the mouse does not move and the cats travel at equal speed. If the cats arrive at the same time, the mouse will be allowed to move, and it will escape while they fight.
+>
+>You are given a set of queries in the form of x, y, and z, representing the respective positions for cats A and B, and for mouse C. Complete the function `catAndMouse` to return the appropriate answer to each query, which will be printed on a new line.
+>
+>- If cat A catches the mouse first, print "Cat A."
+>- If cat B catches the mouse first, print "Cat B."
+>- If both cats reach the mouse at the same time, print "Mouse C" as the two cats fight, and the mouse escapes.
+>
+> ### Example
+>
+>```java
+>int positionCatA = 2;
+>int positionCatB = 5;
+>int positionMouseC = 4;
+>
+>System.out.println(catAndMouse(positionCatA, positionCatB, >positionMouseC));
+>// Output: Cat B
+>```
+
 <script src="https://gist.github.com/samet-byte/d2decd630f9eb3086b659375d5d4599c.js"></script>
 
 <br/>
