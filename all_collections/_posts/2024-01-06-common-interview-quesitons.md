@@ -204,6 +204,15 @@ public class Car {
         this.speed = speed;
     }
 
+    // Constructor Overloading (Empty Constructor) 
+    // @NoArgsContructor annotation can be used in Spring Boot
+    public Car() {
+        this.color = "Black";
+        this.model = "Sedan";
+        this.speed = 0;
+    } 
+    
+
     // Constructor Overloading
     public Car(String color, String model) {
         this.color = color;
@@ -255,7 +264,7 @@ public class Car {
 - Abstraction lets you focus on what the object does instead of how it does it., i.e., the implementation details are hidden from the user.
 - **Example:** You interact with your phone by using only a few buttons. What’s going on under the hood? You don’t have to know — implementation details are hidden. You only need to know a short set of actions.
 
-![Alt text](image-1.png)
+![Abstraction](https://cdn-media-1.freecodecamp.org/images/hiX0NQOcZFShroq-a3FM5pFP2LV4UUI5mLle)
 Source: [FreeCodeCamp](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
 
 
@@ -267,7 +276,212 @@ Source: [FreeCodeCamp](https://www.freecodecamp.org/news/object-oriented-program
 - Thanks to **access modifiers**, we can control the visibility of the data and methods.
 
 
+``` java
+public class Book {
+    private String title;
+    private String author;
+    private int year;
+
+    public Book(String title, String author, int year) {
+        this.title = title;
+        this.author = author;
+        this.year = year;
+    }
+
+    // Getter and setter methods for encapsulation
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
+
+    public int getYear() {
+        return year;
+    }
+
+    public void setYear(int year) {
+        this.year = year;
+    }
+}
+```
+
+> The `Book` class encapsulates the details of a `book`, such as `title`, `author`, and `year`.
+> The attributes (`title`, `author`, and `year`) are marked as private, meaning they can only be accessed within the Book class. This is an example of encapsulation, as the internal representation is hidden from outside classes.
+> Public getter and setter methods are provided to access and modify the private attributes. This allows controlled access to the internal state of the Book object.
+
+
 ### What is Inheritence?
+
+- Inheritance is the process of creating a new class from an existing class.
+- The new class is called the **derived class** or **child class**.
+- The existing class is called the **base class** or **parent class**.
+- The derived class inherits the properties and methods of the base class.
+- The derived class can add new properties and methods.
+- The derived class can override the properties and methods of the base class.
+
+``` java
+public class Animal {
+    private String name;
+    private int age;
+
+    public Animal(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    public void eat() {
+        System.out.println("Animal is eating...");
+    }
+
+    public void sleep() {
+        System.out.println("Animal is sleeping...");
+    }
+}
+
+public class Dog extends Animal {
+    private String breed;
+
+    public Dog(String name, int age, String breed) {
+        super(name, age);
+        this.breed = breed;
+    }
+
+    public void bark() {
+        System.out.println("Dog is barking...");
+    }
+
+    @Override
+    public void eat() {
+        System.out.println("Dog is eating...");
+    }
+}
+```
+
+> The `Dog` class inherits the properties and methods of the `Animal` class.
+> The `Dog` class adds a new property called `breed`.
+> The `Dog` class can access the `eat()` and `sleep()` methods of the `Animal` class.
+> The `Dog` class can access the `name` and `age` properties of the `Animal` class.
+> The `Dog` class can access the `breed` property.
+> The `Dog` class can access the `bark()` method on its own.
+> The `Dog` class can access the `eat()` method of the `Animal` class, but it will call the `eat()` method of the `Dog` class because it overrides the `eat()` method of the `Animal` class.
+
+- **Another exapmle:**  Imagine the positions Programmer and Manager within an organization. Both of these positions have a common set of properties, including name, address, and phone num- ber. These positions also have different properties. A Programmer may be concerned with a project’s programming languages, whereas a Manager may be concerned with project status reports.:
+
+![Inheritance](https://2558458775-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LSemf7mp1liQa7nfIAC%2F-LU16Tx-lr3TosIV8kV5%2F-LU1B9IF9HLAeH5rF2q1%2FScreen%20Shot%202018-12-18%20at%2010.07.24%20PM.png?alt=media&token=bbcfdbf9-86f1-4212-a3bf-8499a1875274)
+
+Source: [GitBook](https://gyansetu-java.gitbook.io/core-java/inheritance)
+
+
+### What is Polymorphism in General? 
+
+- Polymorphism is the ability of an object to take on many forms.
+- It is the ability to redefine methods for derived classes.
+- It is the ability to provide a single interface to entities of different types.
+
+
+### What are the Types of Polymorphism?
+
+1. **Compile-time Polymorphism:**
+   - Also known as **static polymorphism** or **early binding**.
+   - The compiler determines which method to call at compile time.
+   - ***Method overloading*** is an example of compile-time polymorphism.
+   - The compiler determines which overloaded method to call based on the number and type of arguments passed to the method.
+
+2. **Run-time Polymorphism:**
+    - Also known as **dynamic polymorphism** or **late binding**.
+    - The compiler determines which method to call at run time.
+    - ***Method overriding*** is an example of run-time polymorphism.
+    - The compiler determines which overridden method to call based on the type of the object.
+
+### What is Method Overloading?
+
+- Method overloading is a feature that allows a class to have more than one method with the same name.
+- The methods must have different types or numbers of parameters.
+- The methods may have different return types.
+- The methods may have different access modifiers.
+- The methods may throw different exceptions.
+- The methods may have different method bodies.
+
+``` java
+// Method Overloading
+class Demo {
+    void show(int a) {
+        System.out.println("Method with one parameter: " + a);
+    }
+
+    void show(int a, int b) {
+        System.out.println("Method with two parameters: " + a + ", " + b);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Demo obj = new Demo();
+        obj.show(1);       // Calls the method with one parameter
+        obj.show(1, 2);    // Calls the method with two parameters
+    }
+}
+```
+
+### What is Method Overriding?
+
+- Method overriding is a feature that allows a subclass to provide a specific implementation of a method that is already provided by its superclass.
+- The method in the subclass has the same name, same parameters or signature, and same return type as the method in the superclass.
+- The method in the subclass must be at least as accessible or more accessible than the method in the superclass.
+
+``` java
+// Method Overriding
+class Parent {
+    void show() {
+        System.out.println("Parent's show()");
+    }
+}
+
+class Child extends Parent {
+    // This method overrides the show() of Parent
+    @Override
+    void show() {
+        System.out.println("Child's show()");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Parent obj1 = new Parent();
+        obj1.show();      // Calls the show() of Parent
+
+        Parent obj2 = new Child();
+        obj2.show();      // Calls the show() of Child
+    }
+}
+```
+
+### What is the Difference Between Method Overloading and Method Overriding?
+
+| Method Overloading | Method Overriding |
+| --- | --- |
+| Method overloading is a feature that allows a class to have more than one method with the same name. | Method overriding is a feature that allows a subclass to provide a specific implementation of a method that is already provided by its superclass. |
+| The methods must have different types or numbers of parameters. | The method in the subclass has the same name, same parameters or signature, and same return type as the method in the superclass. |
+| The methods may have different return types. | The method in the subclass must be at least as accessible or more accessible than the method in the superclass. |
+| The methods may have different access modifiers. | The methods have same access modifiers. |
+|Overloaded methods are in the same class or class hierarchy but have different method signatures. | Overriding methods are present in a superclass and a subclass, where the subclass provides a specific implementation.|
+| Method names must be the same. | Method names must be the same. |
+| Method signatures must be different. | Method signatures must be the same. |
+| Method overloading is an example of **compile-time polymorphism**. | Method overriding is an example of **run-time polymorphism**. |
+
+
+
+
 
 <hr />
 
