@@ -328,6 +328,7 @@ public class Book {
 - The derived class inherits the properties and methods of the base class.
 - The derived class can add new properties and methods.
 - The derived class can override the properties and methods of the base class.
+- In Java, a class can only (**extends**) inherit from **one** class.
 
 ``` java
 public class Animal {
@@ -378,7 +379,6 @@ public class Dog extends Animal {
 - **Another exapmle:**  Imagine the positions Programmer and Manager within an organization. Both of these positions have a common set of properties, including name, address, and phone num- ber. These positions also have different properties. A Programmer may be concerned with a project’s programming languages, whereas a Manager may be concerned with project status reports.:
 
 ![Inheritance](https://2558458775-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LSemf7mp1liQa7nfIAC%2F-LU16Tx-lr3TosIV8kV5%2F-LU1B9IF9HLAeH5rF2q1%2FScreen%20Shot%202018-12-18%20at%2010.07.24%20PM.png?alt=media&token=bbcfdbf9-86f1-4212-a3bf-8499a1875274)
-
 Source: [GitBook](https://gyansetu-java.gitbook.io/core-java/inheritance)
 
 
@@ -478,6 +478,463 @@ public class Main {
 | Method names must be the same. | Method names must be the same. |
 | Method signatures must be different. | Method signatures must be the same. |
 | Method overloading is an example of **compile-time polymorphism**. | Method overriding is an example of **run-time polymorphism**. |
+
+
+### Simple Coding Question 1
+
+> Take an input from the keyboard in Java, and write a function to determine whether this input is the sum of the squares of any two other numbers. Provide the Java code and explain the solution.
+
+```java
+public class SumOfSquares {
+
+    // Function to check if a number is the sum of squares of two other numbers
+    static boolean isSumOfSquares(int num) {
+        // Iterate through possible values of a and b
+        for (int a = 0; a <= Math.sqrt(num); a++) {
+            int b = (int) Math.sqrt(num - a * a);
+            
+            // Check if a^2 + b^2 equals the given number
+            if (a * a + b * b == num) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public static void main(String[] args) {
+        // Example usage
+        int inputNumber = 5;
+        if (isSumOfSquares(inputNumber)) {
+            System.out.println(inputNumber + " is the sum of squares of two numbers.");
+        } else {
+            System.out.println(inputNumber + " is NOT the sum of squares of two numbers.");
+        }
+    }
+}
+```
+
+#### Explanation
+
+##### `isSumOfSquares` Function:
+
+- Takes an integer as input and iterates through possible values of two numbers (`a` and `b`) to check if their squares sum up to the given number.
+- The iteration for `a` goes from 0 to the square root of the given number because any larger value for `a` would result in a negative or complex value for `b`.
+- Inside the loop, `b` is calculated as the square root of `(num - a * a)`.
+- The function checks if `a^2 + b^2` equals the given number. If true, it returns `true` indicating that the number is the sum of squares of two other numbers; otherwise, it returns `false`.
+
+##### Example Usage (`main` method):
+
+- An example usage is provided where the `isSumOfSquares` function is called with an input number (in this case, 5).
+- The result is printed to the console, indicating whether the input number is the sum of squares of two other numbers or not.
+
+##### Example Output:
+
+```
+5 is NOT the sum of squares of two numbers.
+13 is the sum of squares of two numbers.
+```
+
+
+### What is UML?
+
+- UML stands for Unified Modeling Language.
+- It is a standardized modeling language for object-oriented software engineering.
+- It is used to visualize, specify, construct, and document the artifacts of a software system.
+- It is used to model business and similar processes.
+- Different visibility of the class can be represented as
+  - **+** Public
+  - **-** Private
+  - **#** Protected
+
+**Example UML Diagram:**
+
+``` cpp
+class Circle {
+private:
+double radius;
+Point center;
+public:
+setRadius(double radius);
+setCenter(Point center);
+double getArea();
+double getCircumfrence();
+};
+```
+
+![UML Diagram](https://cppcodetips.files.wordpress.com/2013/12/class_diagram_sample.png)
+Source: [CppCodeTips](https://cppcodetips.wordpress.com/2013/12/23/uml-class-diagram-explained-with-c-samples/)
+
+
+
+### Simple Coding Question 2
+
+> Write a function that finds weather a given number is a palindrome or not. Provide the Java code and explain the solution.
+> 
+> **Palindrome:** A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar.
+
+```java
+public class Palindrome {
+
+    // Function to check if a number is a palindrome
+    static boolean isPalindrome(int num) {
+        int reversedNum = 0;
+        int originalNum = num;
+
+        // Reverse the number
+        while (num != 0) {
+            int digit = num % 10;
+            reversedNum = reversedNum * 10 + digit;
+            num /= 10;
+        }
+
+        // Check if the reversed number is equal to the original number
+        return originalNum == reversedNum;
+    }
+
+    public static void main(String[] args) {
+        // Example usage
+        int inputNumber = 12321;
+        if (isPalindrome(inputNumber)) {
+            System.out.println(inputNumber + " is a palindrome.");
+        } else {
+            System.out.println(inputNumber + " is NOT a palindrome.");
+        }
+    }
+}
+```
+
+#### Explanation
+
+##### `isPalindrome` Function:
+
+- Takes an integer as input and reverses it.
+- The reversed number is compared to the original number to check if they are equal.
+- If they are equal, the function returns `true` indicating that the number is a palindrome; otherwise, it returns `false`.
+- The function uses the `%` operator to get the last digit of the number and the `/` operator to remove the last digit of the number.
+- The last digit is added to the reversed number by multiplying it by 10 and adding the digit.
+- The last digit is removed from the original number by dividing it by 10.
+- This process is repeated until the original number becomes 0.
+  
+##### Example Usage (`main` method):
+
+- An example usage is provided where the `isPalindrome` function is called with an input number (in this case, 12321).
+- The result is printed to the console, indicating whether the input number is a palindrome or not.
+
+##### Example Output:
+
+```
+12321 is a palindrome.
+12345 is NOT a palindrome.
+```
+
+### Simple Coding Question 3
+
+> Write a function that finds weather a given number is a prime number or not. Provide the Java code and explain the solution.
+>
+> **Prime Number:** A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers.
+
+```java
+public class PrimeNumber {
+
+    // Function to check if a number is a prime number
+    static boolean isPrime(int num) {
+        // Check if the number is less than 2
+        if (num < 2) {
+            return false;
+        }
+
+        // Check if the number is divisible by any number from 2 to its square root
+        for (int i = 2; i <= Math.sqrt(num); i++) {
+            if (num % i == 0) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    public static void main(String[] args) {
+        // Example usage
+        int inputNumber = 7;
+        if (isPrime(inputNumber)) {
+            System.out.println(inputNumber + " is a prime number.");
+        } else {
+            System.out.println(inputNumber + " is NOT a prime number.");
+        }
+    }
+}
+```
+
+#### Explanation
+
+##### `isPrime` Function:
+
+- Takes an integer as input and checks if it is a prime number.
+- The function first checks if the number is less than 2. If true, it returns `false` indicating that the number is not a prime number.
+- If the number is greater than or equal to 2, the function checks if the number is divisible by any number from 2 to its square root.
+- If the number is divisible by any number from 2 to its square root, it returns `false` indicating that the number is not a prime number.
+- If the number is not divisible by any number from 2 to its square root, it returns `true` indicating that the number is a prime number.
+- The function uses the `%` operator to check if the number is divisible by another number.
+- The function uses the `sqrt` method of the `Math` class to get the square root of the number.
+- The function uses a `for` loop to iterate through possible values of `i` from 2 to the square root of the number.
+- The function returns `false` if the number is divisible by `i`; otherwise, it returns `true`.
+- The function returns `true` if the number is not divisible by any number from 2 to its square root.
+- The function returns `false` if the number is divisible by any number from 2 to its square root.
+- The function returns `false` if the number is less than 2.
+
+##### Example Usage (`main` method):
+
+- An example usage is provided where the `isPrime` function is called with an input number (in this case, 7).
+
+##### Example Output:
+
+```
+7 is a prime number.
+12 is NOT a prime number.
+```
+
+
+### Simple Coding Question 4
+
+> Write a function that finds the Greatest Common Divisor (GCD) of two numbers. Provide the Java code and explain the solution.
+>
+> **Greatest Common Divisor (GCD):** The greatest common divisor (GCD) of two or more integers, which are not all zero, is the largest positive integer that divides each of the integers.
+>
+> **Note:** Use recursion to solve this problem.
+
+```java
+public class GCD {
+
+    // Function to find the GCD of two numbers
+    static int findGCD(int num1, int num2) {
+        // Check if num2 is 0
+        if (num2 == 0) {
+            return num1;
+        }
+
+        // Recursively call the function with num2 as the first parameter and num1 % num2 as the second parameter
+        return findGCD(num2, num1 % num2);
+    }
+
+    public static void main(String[] args) {
+        // Example usage
+        int num1 = 12;
+        int num2 = 18;
+        System.out.println("GCD of " + num1 + " and " + num2 + " is " + findGCD(num1, num2));
+    }
+}
+```
+
+#### Explanation
+
+##### `findGCD` Function:
+
+- Takes two integers as input and finds their GCD.
+- The function first checks if the second number is 0. If true, it returns the first number indicating that the GCD is the first number.
+- If the second number is not 0, the function recursively calls itself with the second number as the first parameter and the remainder of the first number divided by the second number as the second parameter.
+- The function returns the result of the recursive call.
+
+##### Example Usage (`main` method):
+
+- An example usage is provided where the `findGCD` function is called with two input numbers (in this case, 12 and 18).
+- The result is printed to the console, indicating the GCD of the two input numbers.
+- The result is 6 because 6 is the largest positive integer that divides both 12 and 18.
+
+##### Example Output:
+
+```
+GCD of 12 and 18 is 6
+```
+
+### Simple Coding Question 5
+
+> Write a function that finds the Least Common Multiple (LCM) of two numbers. Provide the Java code and explain the solution.
+>
+> **Least Common Multiple (LCM):** The least common multiple (LCM) of two integers a and b is the smallest positive integer that is divisible by both a and b.
+
+```java
+public class LCMDemo {
+    public static void main(String[] args) {
+        int num1 = 15, num2 = 20;
+        System.out.println("The LCM of " + num1 + " and " + num2 + " is " + lcm(num1, num2));
+    }
+
+    public static int lcm(int num1, int num2) {
+        int max, step, lcm = 0;
+
+        // Get the maximum number
+        max = (num1 > num2) ? num1 : num2;
+
+        // Initialize step with the maximum number
+        step = max;
+
+        // This loop will run until it finds an LCM
+        while(true) {
+            if(max % num1 == 0 && max % num2 == 0) {
+                lcm = max;
+                break;
+            }
+            max += step;
+        }
+        return lcm;
+    }
+}
+```
+
+
+### Simple Coding Question 6
+
+> Write a function that finds the given number is an Armstrong number or not. Provide the Java code and explain the solution.
+>
+> **Armstrong Number:** An Armstrong number is a number that is the sum of its own digits each raised to the power of the number of digits.
+
+```java
+public class ArmstrongNumber {
+
+    // Function to check if a number is an Armstrong number
+    static boolean isArmstrongNumber(int num) {
+        int originalNum = num;
+        int sum = 0;
+
+        // Calculate the sum of the digits raised to the power of the number of digits
+        while (num != 0) {
+            int digit = num % 10;
+            sum += Math.pow(digit, String.valueOf(originalNum).length());
+            num /= 10;
+        }
+
+        // Check if the sum is equal to the original number
+        return originalNum == sum;
+    }
+
+    public static void main(String[] args) {
+        // Example usage
+        int inputNumber = 153;
+        if (isArmstrongNumber(inputNumber)) {
+            System.out.println(inputNumber + " is an Armstrong number.");
+        } else {
+            System.out.println(inputNumber + " is NOT an Armstrong number.");
+        }
+    }
+}
+```
+
+#### Explanation
+
+##### `isArmstrongNumber` Function:
+
+- Takes an integer as input and checks if it is an Armstrong number.
+- The function first stores the original number in a variable.
+- The function then calculates the sum of the digits raised to the power of the number of digits.
+- The function checks if the sum is equal to the original number.
+- If the sum is equal to the original number, the function returns `true` indicating that the number is an Armstrong number; otherwise, it returns `false`.
+- The function uses the `%` operator to get the last digit of the number and the `/` operator to remove the last digit of the number.
+- The last digit is added to the sum by raising it to the power of the number of digits.
+- The last digit is removed from the original number by dividing it by 10.
+- This process is repeated until the original number becomes 0.
+
+##### Example Usage (`main` method):
+
+- An example usage is provided where the `isArmstrongNumber` function is called with an input number (in this case, 153).
+- The result is printed to the console, indicating whether the input number is an Armstrong number or not.
+
+##### Example Output:
+
+```
+153 is an Armstrong number.
+123 is NOT an Armstrong number.
+```
+
+### Simple Coding Question 7
+
+> Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
+>
+> Source: [HackerRank](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+
+```java
+public class MinMaxSum {
+
+    public static void main(String[] args) {
+        // Example usage:
+        int[] inputNumbers = {1, 3, 5, 7, 9};
+        long[] result = findMinMaxSum(inputNumbers);
+
+        // Print the respective minimum and maximum values as a single line
+        System.out.println(result[0] + " " + result[1]);
+    }
+
+    public static long[] findMinMaxSum(int[] arr) {
+        long minSum = Long.MAX_VALUE;
+        long maxSum = Long.MIN_VALUE;
+        long totalSum = 0;
+
+        for (int num : arr) {
+            totalSum += num;
+
+            // Track the minimum and maximum elements
+            minSum = Math.min(minSum, num);
+            maxSum = Math.max(maxSum, num);
+        }
+
+        // Calculate the minimum and maximum sums
+        long minTotal = totalSum - maxSum;
+        long maxTotal = totalSum - minSum;
+
+        return new long[]{minTotal, maxTotal};
+    }
+}
+```
+
+#### Explanation
+
+- The minimum sum is 1 + 3 + 5 + 7 = 16 and the maximum sum is
+3 + 5 + 7 + 9 = 24. 
+
+#### Example Output:
+
+```
+16 24
+```
+
+### Simple Coding Question 8
+
+> Find second largest number in an array. Provide the Java code and explain the solution.
+
+```java
+public class SecondLargestNumber {
+
+    public static void main(String[] args) {
+        // Example usage:
+        int[] numbers = {5, 2, 9, 1, 7};
+        int secondLargest = findSecondLargest(numbers);
+
+        System.out.println("Second largest number: " + secondLargest);
+    }
+
+    public static int findSecondLargest(int[] arr) {
+        if (arr.length < 2) {
+            System.out.println("Array should have at least two elements.");
+            return -1; // Return a special value indicating an error or not found
+        }
+
+        int largest = Integer.MIN_VALUE;
+        int secondLargest = Integer.MIN_VALUE;
+
+        for (int num : arr) {
+            if (num > largest) {
+                secondLargest = largest;
+                largest = num;
+            } else if (num > secondLargest && num != largest) {
+                secondLargest = num;
+            }
+        }
+
+        return secondLargest;
+    }
+}
+```
+
+
 
 
 
