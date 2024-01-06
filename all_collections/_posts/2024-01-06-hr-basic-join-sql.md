@@ -120,7 +120,7 @@ ____
   </summary>
 
 <br/>
-SELECT CITY.NAME <br/>
+<strong>SELECT</strong> CITY.NAME <br/>
 FROM CITY <br/>
 INNER JOIN COUNTRY <br/>
 ON CITY.COUNTRYCODE = COUNTRY.CODE <br/>
