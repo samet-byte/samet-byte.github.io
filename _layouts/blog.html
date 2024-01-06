@@ -8,7 +8,7 @@
     <div class="gcse-searchbox-only"></div> -->
     <main>
       {% include header.html %} {% include bio.html %}
-      <section class="articles">
+      <!-- <section class="articles">
         {% for post in site.posts %}
         <article  onclick="location.href='{{site.baseurl}}{{post.url}}';"  class="article">
           <h2  class="article-title">
@@ -22,6 +22,21 @@
           </div>
         </article>
         {%endfor%}
+      </section> -->
+      <section class="articles">
+        {{ range (.Paginate ( where site.RegularPages "Section" "posts" ).ByDate.Reverse).Pages }}
+        <article class="article">
+          <h2 class="article-title">
+            <a href="{{ .Permalink }}" title="{{ .Title }}"> {{ .Title }} </a>
+          </h2>
+          <small class="date">{{ .Date.Format "Mon Jan 2, 2006" }}</small>
+          <div class="tags">
+            {{ range .Params.Tags }}
+            <a href="{{site.BaseURL}}tags/{{ . }}" class="tag">{{ . }}</a>
+            {{ end }}
+          </div>
+        </article>
+        {{ end }}
       </section>
       <div style="display: flex; justify-content: center;">
       <article>
