@@ -8,7 +8,7 @@
     <div class="gcse-searchbox-only"></div> -->
     <main>
       {% include header.html %} {% include bio.html %}
-      <!-- <section class="articles">
+      <section class="articles">
         {% for post in site.posts %}
         <article  onclick="location.href='{{site.baseurl}}{{post.url}}';"  class="article">
           <h2  class="article-title">
@@ -22,8 +22,8 @@
           </div>
         </article>
         {%endfor%}
-      </section> -->
-      <section class="articles">
+      </section>
+      <!-- <section class="articles">
         {{ range (.Paginate ( where site.RegularPages "Section" "posts" ).ByDate.Reverse).Pages }}
         <article class="article">
           <h2 class="article-title">
@@ -37,7 +37,7 @@
           </div>
         </article>
         {{ end }}
-      </section>
+      </section> -->
       <div style="display: flex; justify-content: center;">
       <article>
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7vKu12JceCXjQMwVWFsEnI?utm_source=generator&theme=0"  height="410" width="100%" frameBorder="0"  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" autotransparency="true"></iframe>
