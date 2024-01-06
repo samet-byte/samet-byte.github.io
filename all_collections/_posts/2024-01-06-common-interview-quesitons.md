@@ -14,13 +14,6 @@ categories: [interview, programming, oop]
 - Extensibility
 - Reusability
 
-### Neden OOP?
-
-- Bakım
-- Bakım Maliyeti
-- Genişletilebilirlik
-- Tekrar Kullanılabilirlik
-
 
 ### What is Class and Object?
 
@@ -55,6 +48,258 @@ categories: [interview, programming, oop]
 7. **Examples of Attributes:**
    - In a "Car" class, attributes like color, model, and speed might exist.
    - In a "Student" class, attributes like name, ID, and class could be present.
+
+
+```java
+public class Car {
+    // Attributes
+    private String color;
+    private String model;
+    private int speed;
+
+    // Constructor
+    public Car(String color, String model, int speed) {
+        this.color = color;
+        this.model = model;
+        this.speed = speed;
+    }
+
+    // Methods
+    public void accelerate() {
+        speed += 10;
+    }
+
+    public void brake() {
+        speed -= 5;
+    }
+
+    public void displayInfo() {
+        System.out.println("Car Info - Color: " + color + ", Model: " + model + ", Speed: " + speed);
+    }
+
+    public static void main(String[] args) {
+        Car myCar = new Car("Red", "Sedan", 0);
+        myCar.accelerate();
+        myCar.displayInfo();
+    }
+}
+```
+
+``` cpp
+#include <iostream>
+using namespace std;
+
+class Car {
+private:
+    string color;
+    string model;
+    int speed;
+
+public:
+    Car(string color, string model, int speed) {
+        this->color = color;
+        this->model = model;
+        this->speed = speed;
+    }
+
+    void accelerate() {
+        speed += 10;
+    }
+
+    void brake() {
+        speed -= 5;
+    }
+
+    void displayInfo() {
+        cout << "Car Info - Color: " << color << ", Model: " << model << ", Speed: " << speed << endl;
+    }
+};
+
+int main() {
+    Car myCar("Blue", "SUV", 0);
+    myCar.accelerate();
+    myCar.displayInfo();
+    return 0;
+}
+```
+
+```python
+class Car:
+    def __init__(self, color, model, speed):
+        self.color = color
+        self.model = model
+        self.speed = speed
+
+    def accelerate(self):
+        self.speed += 10
+
+    def brake(self):
+        self.speed -= 5
+
+    def display_info(self):
+        print(f"Car Info - Color: {self.color}, Model: {self.model}, Speed: {self.speed}")
+
+# Example
+my_car = Car("Green", "Hatchback", 0)
+my_car.accelerate()
+my_car.display_info()
+```
+
+```kotlin
+class Car(var color: String, var model: String, var speed: Int) {
+    fun accelerate() {
+        speed += 10
+    }
+
+    fun brake() {
+        speed -= 5
+    }
+
+    fun displayInfo() {
+        println("Car Info - Color: $color, Model: $model, Speed: $speed")
+    }
+}
+
+fun main() {
+    val myCar = Car("Yellow", "Convertible", 0)
+    myCar.accelerate()
+    myCar.displayInfo()
+}
+```
+
+<hr/>
+
+
+### What are Access Modifiers?
+
+Access modifiers are keywords that set the accessibility of classes, methods, and other members.
+
+- **Public:** Accessible from anywhere.
+- **Private:** Accessible only from within the class.
+- **Protected:** Accessible from within the class and subclasses.
+- **Internal:** Accessible from within the same module.
+- **Protected Internal:** Accessible from within the same module and subclasses.
+- **Private Protected:** Accessible from within the same class or subclasses in the same module.
+
+### What is Constructor?
+
+- A constructor is a special method that is called when an object is created.
+- It is used to initialize the object's state.
+- It has the same name as the class.
+- It does not have a return type.
+- Can be overloaded.
+- Can be empty or have parameters.
+- Access modifiers are used when defining constructors.
+
+``` java
+public class Car {
+    private String color;
+    private String model;
+    private int speed;
+
+    // Constructor
+    public Car(String color, String model, int speed) {
+        this.color = color;
+        this.model = model;
+        this.speed = speed;
+    }
+
+    // Constructor Overloading
+    public Car(String color, String model) {
+        this.color = color;
+        this.model = model;
+        this.speed = 0;
+    }
+
+    public void displayInfo() {
+        System.out.println("Car Info - Color: " + color + ", Model: " + model + ", Speed: " + speed);
+    }
+
+    public static void main(String[] args) {
+        Car myCar = new Car("Red", "Sedan", 0);
+        myCar.displayInfo();
+    }
+}
+```
+
+### What is Destructor?
+
+- A destructor is a special method that is called when an object is destroyed.
+- It is used to perform cleanup tasks.
+- It has the same name as the class preceded by a tilde (~).
+- It does not have a return type.
+- Cannot be overloaded.
+- Cannot have parameters.
+- Access modifiers are not used when defining destructors.
+- ex. to free memory allocated by the object.
+
+
+### What are OOP Principles?
+
+- Abstraction
+- Encapsulation
+- Polymorphism
+- Inheritance
+
+
+<img 
+  src="https://www.imaginarycloud.com/blog/content/images/2021/07/OOP_4p.png"
+  alt="OOP Principles"
+  width="100%"
+  height="300"
+  />
+
+### What is Abstraction?
+
+- Abstraction is the process of hiding the internal details and showing only the functionality.
+- Abstraction lets you focus on what the object does instead of how it does it., i.e., the implementation details are hidden from the user.
+- **Example:** You interact with your phone by using only a few buttons. What’s going on under the hood? You don’t have to know — implementation details are hidden. You only need to know a short set of actions.
+
+![Alt text](image-1.png)
+Source: [FreeCodeCamp](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+
+
+### What is Encapsulation?
+
+- Encapsulation is the process of wrapping data and methods into a single unit.
+- It is used to hide the internal details of an object from the outside world.
+- We are able to access the data only through the methods defined in the class.
+- Thanks to **access modifiers**, we can control the visibility of the data and methods.
+
+
+### What is Inheritence?
+
+<hr />
+
+<br/>
+
+## Türkçe
+
+
+### Neden OOP?
+
+- Bakım
+- Bakım Maliyeti
+- Genişletilebilirlik
+- Tekrar Kullanılabilirlik
+
+### OOP Prensipleri Nelerdir?
+
+- Soyutlama
+- Kapsülleme / Sarmalama / Paketleme / Korumalı Erişim
+- Çok Biçimlilik
+- Kalıtım
+
+
+<img 
+  src="https://www.imaginarycloud.com/blog/content/images/2021/07/OOP_4p.png"
+  alt="OOP Principles"
+  width="100%"
+  height="300"
+  />
+
+Kaynak: [Imaginary Cloud](https://www.imaginarycloud.com/blog/the-dos-and-donts-of-oop/)
+
 
 ### Sınıf ve Nesne Nedir?
 
@@ -91,356 +336,5 @@ categories: [interview, programming, oop]
    - "Öğrenci" sınıfında isim, numara, sınıf gibi özellikler bulunabilir.
 
 
-```java
-public class Car {
-    // Attributes
-    private String color;
-    private String model;
-    private int speed;
 
-    // Constructor
-    public Car(String color, String model, int speed) {
-        this.color = color;
-        this.model = model;
-        this.speed = speed;
-    }
-
-    // Methods
-    public void accelerate() {
-        speed += 10;
-    }
-
-    public void brake() {
-        speed -= 5;
-    }
-
-    public void displayInfo() {
-        System.out.println("Car Info - Color: " + color + ", Model: " + model + ", Speed: " + speed);
-    }
-
-    public static void main(String[] args) {
-        Car myCar = new Car("Red", "Sedan", 0);
-        myCar.accelerate();
-        myCar.displayInfo();
-    }
-}
-```
-
-``` cpp
-#include <iostream>
-using namespace std;
-
-class Car {
-private:
-    string color;
-    string model;
-    int speed;
-
-public:
-    Car(string color, string model, int speed) {
-        this->color = color;
-        this->model = model;
-        this->speed = speed;
-    }
-
-    void accelerate() {
-        speed += 10;
-    }
-
-    void brake() {
-        speed -= 5;
-    }
-
-    void displayInfo() {
-        cout << "Car Info - Color: " << color << ", Model: " << model << ", Speed: " << speed << endl;
-    }
-};
-
-int main() {
-    Car myCar("Blue", "SUV", 0);
-    myCar.accelerate();
-    myCar.displayInfo();
-    return 0;
-}
-```
-
-```python
-class Car:
-    def __init__(self, color, model, speed):
-        self.color = color
-        self.model = model
-        self.speed = speed
-
-    def accelerate(self):
-        self.speed += 10
-
-    def brake(self):
-        self.speed -= 5
-
-    def display_info(self):
-        print(f"Car Info - Color: {self.color}, Model: {self.model}, Speed: {self.speed}")
-
-# Example
-my_car = Car("Green", "Hatchback", 0)
-my_car.accelerate()
-my_car.display_info()
-```
-
-```kotlin
-class Car(var color: String, var model: String, var speed: Int) {
-    fun accelerate() {
-        speed += 10
-    }
-
-    fun brake() {
-        speed -= 5
-    }
-
-    fun displayInfo() {
-        println("Car Info - Color: $color, Model: $model, Speed: $speed")
-    }
-}
-
-fun main() {
-    val myCar = Car("Yellow", "Convertible", 0)
-    myCar.accelerate()
-    myCar.displayInfo()
-}
-```
-
-
-
-_____
-
-
-
-<div class="tabs">
-  <input type="radio" id="java-tab" name="code-tabs" checked>
-  <label for="java-tab">Java</label>
-
-  <input type="radio" id="cpp-tab" name="code-tabs">
-  <label for="cpp-tab">C++</label>
-
-  <input type="radio" id="python-tab" name="code-tabs">
-  <label for="python-tab">Python</label>
-
-  <input type="radio" id="kotlin-tab" name="code-tabs">
-  <label for="kotlin-tab">Kotlin</label>
-
-  <div class="tab-content">
-  
-  <div id="java-content">
-
-```java
-public class Car {
-    // Attributes
-    private String color;
-    private String model;
-    private int speed;
-
-    // Constructor
-    public Car(String color, String model, int speed) {
-        this.color = color;
-        this.model = model;
-        this.speed = speed;
-    }
-
-    // Methods
-    public void accelerate() {
-        speed += 10;
-    }
-
-    public void brake() {
-        speed -= 5;
-    }
-
-    public void displayInfo() {
-        System.out.println("Car Info - Color: " + color + ", Model: " + model + ", Speed: " + speed);
-    }
-
-    public static void main(String[] args) {
-        Car myCar = new Car("Red", "Sedan", 0);
-        myCar.accelerate();
-        myCar.displayInfo();
-    }
-}
-```
-  </div>
-  <div id="cpp-content">
-    
-``` cpp
-#include <iostream>
-using namespace std;
-
-class Car {
-private:
-    string color;
-    string model;
-    int speed;
-
-public:
-    Car(string color, string model, int speed) {
-        this->color = color;
-        this->model = model;
-        this->speed = speed;
-    }
-
-    void accelerate() {
-        speed += 10;
-    }
-
-    void brake() {
-        speed -= 5;
-    }
-
-    void displayInfo() {
-        cout << "Car Info - Color: " << color << ", Model: " << model << ", Speed: " << speed << endl;
-    }
-};
-
-int main() {
-    Car myCar("Blue", "SUV", 0);
-    myCar.accelerate();
-    myCar.displayInfo();
-    return 0;
-}
-```
-  </div>
-  <div id="python-content">
-    
-```python
-class Car:
-    def __init__(self, color, model, speed):
-        self.color = color
-        self.model = model
-        self.speed = speed
-
-    def accelerate(self):
-        self.speed += 10
-
-    def brake(self):
-        self.speed -= 5
-
-    def display_info(self):
-        print(f"Car Info - Color: {self.color}, Model: {self.model}, Speed: {self.speed}")
-
-# Example
-my_car = Car("Green", "Hatchback", 0)
-my_car.accelerate()
-my_car.display_info()
-```
-
-  </div>
-    <div id="kotlin-content">
-    
-```kotlin
-class Car(var color: String, var model: String, var speed: Int) {
-    fun accelerate() {
-        speed += 10
-    }
-
-    fun brake() {
-        speed -= 5
-    }
-
-    fun displayInfo() {
-        println("Car Info - Color: $color, Model: $model, Speed: $speed")
-    }
-}
-
-fun main() {
-    val myCar = Car("Yellow", "Convertible", 0)
-    myCar.accelerate()
-    myCar.displayInfo()
-}
-```
-  </div>
-  </div>
-  </div>
-<style>
-  .tabs {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  input[type="radio"] {
-    display: none;
-  }
-  label {
-    padding: 10px;
-    border: 1px solid #ccc;
-    cursor: pointer;
-  }
-  .tab-content {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-  }
-  .tab-content > div {
-    display: none;
-    width: 100%;
-  }
-  input:checked + label {
-    background-color: #ddd;
-  }
-  input:checked + label + .tab-content > div {
-    display: none;
-}
-input:checked + label + .tab-content > div:nth-of-type(2) {
-    display: block;
-}
-}
-</style>
-
-
-
-<!-- Tabbed Content -->
-<details>
-<summary>Tab 1</summary>
-
-Content for Tab 1 goes here.
-
-</details>
-
-<details>
-<summary>Tab 2</summary>
-
-Content for Tab 2 goes here.
-
-</details>
-
-<details>
-<summary>Tab 3</summary>
-
-Content for Tab 3 goes here.
-
-</details>
-
-
-
-
-
-______
-
-### What are OOP Principles?
-
-- Abstraction
-- Encapsulation
-- Polymorphism
-- Inheritance
-
-### OOP Prensipleri Nelerdir?
-
-- Soyutlama
-- Kapsülleme / Sarmalama / Paketleme / Korumalı Erişim
-- Çok Biçimlilik
-- Kalıtım
-
-
-<img 
-  src="https://www.imaginarycloud.com/blog/content/images/2021/07/OOP_4p.png"
-  alt="OOP Principles"
-  width="100%"
-  height="300"
-/>
-Source: [Imaginary Cloud](https://www.imaginarycloud.com/blog/the-dos-and-donts-of-oop/)
 
