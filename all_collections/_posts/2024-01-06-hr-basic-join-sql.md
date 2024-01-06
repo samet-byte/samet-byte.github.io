@@ -17,10 +17,10 @@ categories: [hackerrank, sql]
 
 #### Desired Output
 
-> Asia 693038 
-> Europe 175138
-> Oceania 109189
-> South America 147435
+> Asia 693038  <br/>
+> Europe 175138 <br/>
+> Oceania 109189 <br/>
+> South America 147435 <br/>
 > Africa 274439
 
 
@@ -50,5 +50,46 @@ GROUP BY CO.CONTINENT
 
 
 </details>
+
+
+
+
+
+### Population Census
+
+> Given the CITY and COUNTRY tables, query the sum of the populations of all cities where the CONTINENT is 'Asia'.
+>
+> **Note:** CITY.CountryCode and COUNTRY.Code are matching key columns.
+>
+> **Note2:** Tables are same as above.
+
+#### Desired Output
+
+> 27028484
+
+
+
+<details>
+  <summary>
+    <strong>
+        Answer
+    </strong>
+  </summary>
+
+
+SELECT SUM(CI.POPULATION)
+<br/>
+FROM CITY CI
+<br/>
+INNER JOIN COUNTRY CO
+<br/>
+ON CI.COUNTRYCODE = CO.CODE
+<br/>
+WHERE CO.CONTINENT = 'Asia'
+
+
+</details>
+
+
 
 
