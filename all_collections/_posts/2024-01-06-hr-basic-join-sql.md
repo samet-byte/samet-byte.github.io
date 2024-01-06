@@ -23,11 +23,12 @@ categories: [hackerrank, sql]
     </strong>
   </summary>
 
-``` sql
+```sql
 SELECT CO.CONTINENT, FLOOR(AVG(CI.POPULATION))
 FROM CITY CI
 INNER JOIN COUNTRY CO
 ON CI.COUNTRYCODE = CO.CODE
 GROUP BY CO.CONTINENT
 ```
+
 </details>
