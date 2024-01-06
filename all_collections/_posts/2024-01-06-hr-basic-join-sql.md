@@ -51,9 +51,7 @@ GROUP BY CO.CONTINENT
 
 </details>
 
-
-
-
+____
 
 ### Population Census
 
@@ -76,7 +74,7 @@ GROUP BY CO.CONTINENT
     </strong>
   </summary>
 
-
+<br/>
 SELECT SUM(CI.POPULATION)
 <br/>
 FROM CITY CI
@@ -90,6 +88,41 @@ WHERE CO.CONTINENT = 'Asia'
 
 </details>
 
+____
+
+### African Cities
+
+> Given the CITY and COUNTRY tables, query the names of all cities where the CONTINENT is 'Africa'.
+>
+> **Note:** CITY.CountryCode and COUNTRY.Code are matching key columns.
+>
+> **Note2:** Tables are same as above.
+
+#### Desired Output
+
+> Qina <br/>
+> Warraq al-Arab <br/>
+> Kempton Park <br/>
+> Alberton  <br/>
+> Klerksdorp <br/>
+> Uitenhage <br/>
+> Brakpan <br/>
+> Libreville <br/>
 
 
 
+<details>
+  <summary>
+    <strong>
+        Answer
+    </strong>
+  </summary>
+
+<br/>
+SELECT CITY.NAME <br/>
+FROM CITY <br/>
+INNER JOIN COUNTRY <br/>
+ON CITY.COUNTRYCODE = COUNTRY.CODE <br/>
+WHERE COUNTRY.CONTINENT = 'AFRICA' <br/>
+<br/>
+</details>
