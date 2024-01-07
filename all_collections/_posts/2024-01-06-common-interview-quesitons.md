@@ -1180,6 +1180,135 @@ public class DerivedClass : BaseClass
 }
 ```
 
+### What does SLDC stand for?
+
+- SLDC stands for Software Development Life Cycle.
+- It is a process used by the software industry to design, develop, and test high-quality software.
+- It is also known as Software Development Process.
+
+#### Software Development Life Cycle (SDLC) Steps
+
+##### 1. Planning
+- Define project goals and objectives.
+- Identify project scope, requirements, and constraints.
+- Create a project plan, including timelines and resource allocation.
+
+##### 2. Analysis
+- Gather and analyze user requirements.
+- Define system functionality and specifications.
+- Identify potential risks and challenges.
+
+##### 3. Design
+- Create a detailed system design based on requirements.
+- Define architecture, database structure, and software components.
+- Develop user interface design and system prototypes.
+
+##### 4. Implementation
+- Write code based on the design specifications.
+- Perform unit testing to ensure individual components work as intended.
+- Integrate and test the entire system.
+
+##### 5. Testing
+- Conduct various testing phases, including:
+  - Unit testing
+  - Integration testing
+  - System testing
+  - User acceptance testing (UAT)
+- Identify and fix defects.
+
+##### 6. Deployment
+- Release the software to production.
+- Monitor and address any issues that arise during deployment.
+- Ensure a smooth transition to the new system.
+
+##### 7. Maintenance
+- Provide ongoing support and maintenance.
+- Address bugs, issues, and user feedback.
+- Make necessary updates and improvements.
+
+
+
+### What is Web Service?
+
+- A web service is a software system designed to support interoperable machine-to-machine interaction over a network.
+- HTTP is the most common protocol for web services.
+
+![Web Service](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*fmVL8PuEbSBikgnrT-a-cg.jpeg)
+
+Source: [Medium](https://medium.com/@sagarjadhav_99150/what-is-web-service-what-are-the-types-of-web-services-ebd8a0bffd9e)
+
+### What are the common types of web services?
+
+- SOAP (Simple Object Access Protocol)
+- REST (Representational State Transfer)
+
+### What is SOAP?
+
+- SOAP stands for Simple Object Access Protocol.
+- It is a messaging protocol specification for exchanging structured information in the implementation of web services.
+- It is based on XML.
+
+### What is REST?
+
+- REST stands for Representational State Transfer.
+- It is an architectural style for providing standards between computer systems on the web.
+- It is based on HTTP.
+- It is used to build web services that are lightweight, maintainable, and scalable.
+- It is commonly used to create APIs for web-based applications.
+
+### What is the difference between SOAP and REST?
+
+| Points                                                                   | Explanation                                                                                                                             |
+|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| REST services support JSON, XML, and even TEXT data types.               | SOAP services, on the other hand, can use XML. REST is more versatile in this aspect.                                                 |
+| REST services use URI scheme, while SOAP services use XML scheme.        | REST employs URI for communication, whereas SOAP relies on XML, including WSDL schema.                                                 |
+| If data size in the application is crucial, using REST is more suitable. | When dealing with significant data sizes, REST is more appropriate.                                                                      |
+| For speed considerations, using REST is more beneficial.                 | When speed is a crucial factor, opting for REST is advantageous.                                                                         |
+| REST approach utilizes HTTP methods such as GET, POST, PUT, DELETE.      | REST architecture performs actions using HTTP methods like GET, POST, PUT, DELETE, etc.                                                |
+| REST architecture is more flexible and lightweight compared to SOAP.    | REST is more flexible and lightweight than SOAP, resulting in smaller data transfer and easier integration.                            |
+
+
+### What are HTTP Methods?
+
+- HTTP methods indicate the desired action to be performed on a resource.
+- The most common methods are:
+  - **GET:**
+    - *Purpose:* Retrieve data from the server.
+    - *Characteristics:* It should only retrieve data and not modify any resource on the server.
+
+  - **POST:**
+    - *Purpose:* Submit data to be processed to a specified resource.
+    - *Characteristics:* It can be used to create a new resource or update an existing one.
+
+  - **PUT:**
+    - *Purpose:* Update a resource or create it if it doesn't exist.
+    - *Characteristics:* It replaces the entire resource with the new data provided.
+
+  - **DELETE:**
+    - *Purpose:* Request the removal of a resource.
+    - *Characteristics:* It is used to delete the specified resource on the server.
+
+  - **PATCH:**
+    - *Purpose:* Apply partial modifications to a resource.
+    - *Characteristics:* It is used to apply partial modifications to a resource, unlike PUT, which replaces the entire resource.
+
+  - **HEAD:**
+    - *Purpose:* Retrieve only the headers of a resource, without the actual data.
+    - *Characteristics:* It is useful for obtaining metadata about a resource without transferring the entire content.
+
+  - **OPTIONS:**
+    - *Purpose:* Get information about the communication options for the target resource.
+    - *Characteristics:* It is used to describe the communication options for the target resource, such as supported methods or request/response formats.
+
+  - **TRACE:**
+    - *Purpose:* Echoes the received request to the client, for diagnostic purposes.
+    - *Characteristics:* It is used to perform a message loop-back test, helping in debugging and understanding how a request is handled by intermediate servers.
+
+  - **CONNECT:**
+    - *Purpose:* Establish a network connection to a resource, usually a secure tunnel.
+    - *Characteristics:* It is typically used with a proxy that can dynamically switch to being a tunnel.
+
+These HTTP methods provide a standardized way for clients to interact with web servers, enabling a wide range of actions and operations on resources.
 
 
 
