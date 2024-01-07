@@ -964,6 +964,45 @@ public class SecondLargestNumber {
 
 <br/>
 
+### Queue vs. Stack
+
+| Queue | Stack |
+| --- | --- |
+| First In First Out (FIFO) | Last In First Out (LIFO) |
+| Elements are added to the back of the queue and removed from the front of the queue. | Elements are added to the top of the stack and removed from the top of the stack. |
+| Example: Waiting in line | Example: Stack of plates |
+| Example: Printer queue | Example: Undo/Redo operations |
+
+![Queue vs. Stack](https://gohighbrow.com/wp-content/uploads/2018/07/Computer-science-fundamentals_6.1.png)
+
+<script src="https://gist.github.com/samet-byte/7dffd9d0e51750e72a62c172592ac7d1.js"></script>
+
+<script src="https://gist.github.com/samet-byte/9320edc1c9d73f9622793aceced1a270.js"></script>
+
+### What is a Linked List?
+
+- A linked list is a data structure.
+- It consists of a sequence of elements.
+- Each element points to the next element in the sequence.
+- Unlike arrays, linked lists do not have a fixed size.
+- The elements in linked lists, called nodes, are not stored in contiguous memory locations.
+- Each node contains data and a reference (or link) to the next node in the sequence.
+
+<script src="https://gist.github.com/samet-byte/d2ea7b3a5450325837cbaab4ae842474.js"></script>
+
+For more information, see [Linked List Example](posts/linked-list-example)
+
+
+
+
+
+
+
+
+
+<hr />
+
+
 ## Türkçe
 
 
