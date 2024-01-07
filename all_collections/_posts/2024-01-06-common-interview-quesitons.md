@@ -1312,6 +1312,56 @@ These HTTP methods provide a standardized way for clients to interact with web s
 
 
 
+### What is Front-End Development?
+
+- Front-end development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.
+- It is also known as client-side development.
+- It is the part of web development that codes and creates the visual elements of a website or web application.
+- It is responsible for the look and feel of a site.
+
+### What is Back-End Development?
+
+- Back-end development is the practice of server-side development, in which the server-side code is used to develop the logic of a website or an application, and it connects the web to a database.
+- It is also known as server-side development.
+- It is the part of web development that focuses on how the site works.
+- It is responsible for the database and the server-side applications.
+
+### What is Full-Stack Development?
+
+- Full-stack development is the practice of developing both the front-end and back-end portions of a website or application.
+
+![Full-Stack Development](https://miro.medium.com/v2/resize:fit:1400/0*lQJUG355unpGw_fQ)
+
+Source: [Medium](https://medium.com/@sagarjadhav_99150/what-is-web-service-what-are-the-types-of-web-services-ebd8a0bffd9e)
+
+
+### What is N-Tier Architecture?
+
+- N-Tier architecture is a client-server architecture in which the presentation, the application processing, and the data management are logically separate processes.
+
+Tier | Description
+|--- | ---|
+|**Presentation** | The presentation tier is the topmost level of the application. It is responsible for displaying information related to services offered by the application. It communicates with other tiers by outputting results to the browser/client tier and all other tiers in the network.
+|**Application** | The application tier is the middle tier of the application. It is responsible for processing application logic and communicating with other tiers.
+|**Data** | The data tier is the bottommost level of the application. It is responsible for storing and retrieving data from storage devices and communicating with other tiers.
+
+
+### What is MVC?
+
+- MVC stands for Model-View-Controller.
+- It is a software architectural pattern for implementing user interfaces.
+- It divides a given software application into three interconnected parts, so as to separate internal representations of information from the ways that information is presented to or accepted from the user.
+
+Part | Description
+|--- | ---|
+|**Model** | The model is responsible for managing the data of the application. It receives user input from the controller.
+|**View** | The view is responsible for displaying all or a portion of the data to the user. It receives user input from the controller.
+|**Controller** | The controller is responsible for handling user requests and updating the model as necessary. It receives user input from the view.
+
+![MVC](https://cdn-media-1.freecodecamp.org/images/uHgRPiyifEHQjXI-hj2LgSYPChoj86JIlsHI)
+
+Source and Fun Approach to Explain MVC: [freeCodeCamp](https://www.freecodecamp.org/news/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053/)
+
 <hr />
 
 
