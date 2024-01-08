@@ -1357,7 +1357,7 @@ Part | Description
 |**Model** | The model is responsible for managing the data of the application. It receives user input from the controller.
 |**View** | The view is responsible for displaying all or a portion of the data to the user. It receives user input from the controller.
 |**Controller** | The controller is responsible for handling user requests and updating the model as necessary. It receives user input from the view.
-
+ 
 ![MVC](https://cdn-media-1.freecodecamp.org/images/uHgRPiyifEHQjXI-hj2LgSYPChoj86JIlsHI)
 
 Source and Fun Approach to Explain MVC: [freeCodeCamp](https://www.freecodecamp.org/news/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053/)
