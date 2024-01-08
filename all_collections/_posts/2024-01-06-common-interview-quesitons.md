@@ -1149,6 +1149,12 @@ fun main() {
 | Static classes can contain static members. | Dynamic classes can contain static members. |
 | Performance is better due to the absence of object creation. | Performance is slower due to object creation. |
 
+### Do we need to instantiate a static class?
+
+In object-oriented programming, static classes are a type of class where the methods and properties are defined as static. This means that you can access them without creating an instance of the class.  
+
+
+
 ### What is a Singleton Class?
 
 - A singleton class is a class that can have only one object (an instance of the class) at a time.
@@ -1354,13 +1360,355 @@ Tier | Description
 
 Part | Description
 |--- | ---|
-|**Model** | The model is responsible for managing the data of the application. It receives user input from the controller.
-|**View** | The view is responsible for displaying all or a portion of the data to the user. It receives user input from the controller.
-|**Controller** | The controller is responsible for handling user requests and updating the model as necessary. It receives user input from the view.
+|Model | The model is responsible for managing the data of the application. It receives user input from the controller.
+|View | The view is responsible for displaying all or a portion of the data to the user. It receives user input from the controller.
+|Controller | The controller is responsible for handling user requests and updating the model as necessary. It receives user input from the view.
  
 ![MVC](https://cdn-media-1.freecodecamp.org/images/uHgRPiyifEHQjXI-hj2LgSYPChoj86JIlsHI)
 
 Source and Fun Approach to Explain MVC: [freeCodeCamp](https://www.freecodecamp.org/news/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053/)
+
+
+### What is MVVM?
+
+#### MVVM (Model-View-ViewModel) Pattern
+
+##### Overview
+
+MVVM is a design pattern used in software development to structure the architecture of an application, particularly in the context of graphical user interfaces (GUIs). It promotes separation of concerns, making the codebase more modular and maintainable.
+
+##### Components
+
+1. **Model:**
+    - Represents the data and business logic of the application.
+    - Responsible for retrieving, processing, and storing data.
+
+2. **View:**
+    - Represents the user interface (UI) components.
+    - Displays information from the ViewModel to the user.
+    - Passes user input back to the ViewModel.
+
+3. **ViewModel:**
+    - Acts as an intermediary between the Model and the View.
+    - Transforms raw data from the Model into a form that the View can display.
+    - Handles user input from the View and updates the Model accordingly.
+
+##### Data Flow
+
+1. **Model to ViewModel:**
+    - The Model notifies the ViewModel of changes in the data.
+    - ViewModel updates its state based on the changes in the Model.
+
+2. **ViewModel to View:**
+    - The ViewModel exposes properties and commands that the View binds to.
+    - The View updates automatically when the ViewModel's state changes.
+
+3. **View to ViewModel:**
+    - User interactions in the View (button clicks, text input, etc.) are captured.
+    - The ViewModel processes these interactions and updates the Model if necessary.
+
+##### Benefits
+
+- **Separation of Concerns:**
+    - Each component (Model, View, ViewModel) has a distinct responsibility.
+    - Changes to one component have minimal impact on the others.
+
+- **Testability:**
+    - ViewModel logic can be unit tested independently of the UI.
+    - Model and View can also be tested in isolation.
+
+- **Maintainability:**
+    - Code is organized and modular, making it easier to understand and maintain.
+    - Promotes code reusability.
+
+##### Example Usage
+
+Consider an application displaying a list of items. The Model would handle fetching and managing the data, the View would present the list, and the ViewModel would format the data for the View and handle user interactions.
+
+|       Model       |      ViewModel      |         View         |
+|-------------------|---------------------|----------------------|
+|   Fetches data, Processes data    |  Formats data for the View, updates   | Displays information, Handles user input |
+
+### What is SQL?
+
+- SQL stands for Structured Query Language.
+- It is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS).
+- It is used for querying and modifying data in a database.
+- It is the standard language for relational database management systems.
+- It is used to perform tasks such as update data on a database, or retrieve data from a database.
+
+### What is a Database?
+
+- A database is an organized collection of data.
+- It is a collection of information that is organized so that it can be easily accessed, managed, and updated.
+- It is a collection of data stored in a computer system.
+- It is a collection of data that is organized so that its contents can easily be accessed, managed, and updated.
+
+### What is Join & Types of Join?
+
+- A join is a clause that combines rows from two or more tables, views, or materialized views.
+- It retrieves data from multiple tables.
+- It is used to combine rows from two or more tables, based on a related column between them.
+
+#### Types of Join
+
+1. **Inner Join:**
+    - Returns records that have matching values in both tables.
+    - It is the most common type of join.
+    - It returns rows when there is at least one match in both tables.
+
+2. **Left Join:**
+   - Returns all records from the left table, and the matched records from the right table.
+
+3. **Right Join:**
+    - Returns all records from the right table, and the matched records from the left table.
+
+4. **Full Outer Join:**
+    - Returns all records when there is a match in either left or right table.
+
+
+### What is a Primary Key?
+
+- A primary key is a column or a set of columns that uniquely identifies each row in a table.
+
+### What is a Foreign Key?
+
+- A foreign key is a column or a set of columns that refers to a primary key in another table.
+- It is used to establish and enforce a link between the data in two tables.
+- In other words, it is used to link two tables together.
+
+### What is a Stored Procedure?
+
+A stored procedure is a precompiled collection of one or more SQL statements or procedural logic, which is stored in a database. It can be called and executed within the database environment, typically with parameters passed to it. Stored procedures are often used for encapsulating a set of operations or queries to be executed on the database server.
+
+
+
+### Stored Procedure vs. Function vs. Trigger
+
+**Stored Procedure:**
+
+**Type:** Stored procedures are of procedural type.
+**Return Type:** May or may not return a value.
+**Usage:** Can be called explicitly by applications or other stored procedures.
+**Modification of Data:** Can modify data and perform transactions.
+**Scope:** Can have input and output parameters.
+
+``` sql
+CREATE PROCEDURE GetCustomer
+AS
+SELECT * FROM Customers;
+```
+
+**Function:**
+
+**Type:** Functions are of functional type.
+**Return Type:** Must return a value.
+**Usage:** Can be used in SQL statements like SELECT, WHERE, etc.
+**Modification of Data:** Generally, should not modify data. Designed for computation and returning values.
+**Scope:** Can have input parameters, but no output parameters.
+
+``` sql
+CREATE FUNCTION GetTotalOrders (@customerId INT)
+RETURNS INT
+AS
+BEGIN
+    DECLARE @totalOrders INT;
+    SELECT @totalOrders = COUNT(*) FROM Orders WHERE CustomerID = @customerId;
+    RETURN @totalOrders;
+END;
+```
+
+**Trigger:**
+
+**Type:** Triggers are of event-driven type.
+**Return Type:** N/A (Triggers don't return values like functions or procedures).
+**Usage:** Automatically executed (triggered) in response to specified events (e.g., INSERT, UPDATE, DELETE).
+**Modification of Data:** Can modify data based on the triggering event.
+**Scope:** Typically used for enforcing business rules or auditing changes.
+
+``` sql
+-- Creating the "Employees" table
+CREATE TABLE Employees (
+    EmployeeID INT PRIMARY KEY,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    LastModified DATETIME
+);
+
+-- Creating the trigger
+CREATE TRIGGER OnEmployeeUpdate
+ON Employees
+AFTER UPDATE
+AS
+BEGIN
+    UPDATE Employees
+    SET LastModified = GETDATE()
+    FROM Employees
+    INNER JOIN INSERTED ON Employees.EmployeeID = INSERTED.EmployeeID;
+END;
+```
+
+
+### What is Design Pattern?
+
+#### Design Pattern
+
+A design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for solving a particular design problem that can be adapted and applied to different situations. Design patterns are not finished designs that can be transformed directly into code; they are templates or guides for solving particular problems in a flexible and efficient way.
+
+The use of design patterns helps to streamline the development process by providing tested, proven development paradigms. These patterns can speed up the development process by providing tested, proven development paradigms. Effective software design requires considering issues that may not become visible until later in the implementation. Reusing design patterns helps to prevent subtle issues that can cause major problems and improves code readability for developers who are familiar with the patterns.
+
+##### Common Design Patterns
+
+1. **Singleton Pattern:**
+   - Ensures a class has only one instance and provides a global point to that instance.
+
+2. **Factory Method Pattern:**
+   - Defines an interface for creating an object but leaves the choice of its type to the subclasses, creating the object without specifying its class.
+
+3. **Observer Pattern:**
+   - Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+
+4. **Strategy Pattern:**
+   - Defines a family of algorithms, encapsulates each algorithm, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+
+5. **Adapter Pattern:**
+   - Allows the interface of an existing class to be used as another interface.
+
+6. **Decorator Pattern:**
+   - Attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+
+7. **Command Pattern:**
+   - Encapsulates a request as an object, thereby allowing users to parameterize clients with queues, requests, and operations.
+
+8. **MVC (Model-View-Controller) Pattern:**
+   - Separates an application into three interconnected components: the Model, the View, and the Controller.
+
+Design patterns are documented solutions to recurring problems. They can speed up the development process by providing tested, proven development paradigms. However, they are not blueprints or templates that can be directly translated into code. Developers need to adapt them to the specific needs of their project.
+
+
+### What is a Framework?
+
+- A framework is a collection of libraries that provide a set of reusable functions and features.
+- ex. .NET Framework, .NET Core, ASP.NET Core, Entity Framework Core, Spring Framework, etc.
+
+### What is a Library?
+
+- A library is a collection of classes and methods that can be reused.
+
+### What is a Package?
+
+- A package is a collection of related classes and interfaces that provide a set of reusable functions and features.
+- ex. NuGet packages, npm packages, Maven packages, etc.
+
+### What is Cache?
+
+- Cache is a temporary storage area.
+- It stores frequently accessed data in a high-speed storage location.
+- It is used to reduce the number of times an original data source must be read.
+- It is used to improve the performance of a system.
+
+### What is a Cookie?
+
+- A cookie is a small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing.
+
+### What is a Session?
+
+- A session is a temporary and interactive information interchange between two or more communicating devices, or between a computer and user.
+
+### What is API?
+
+#### API (Application Programming Interface)
+
+API stands for Application Programming Interface. It is a set of rules and protocols that allows one software application to interact with another. APIs define the methods and data formats that applications can use to request and exchange information. APIs play a crucial role in modern software development by enabling different software systems to communicate and work together.
+
+##### Key Characteristics
+
+1. **Methods and Endpoints:**
+   - APIs expose specific methods (functions or procedures) that applications can call to perform certain tasks.
+   - Endpoints represent specific URLs or URIs that correspond to these methods.
+
+2. **Data Formats:**
+   - APIs define the data format in which information is exchanged. Common formats include JSON (JavaScript Object Notation) and XML (eXtensible Markup Language).
+
+3. **Authentication and Authorization:**
+   - APIs often require authentication to ensure that only authorized users or applications can access certain functionality or data.
+
+4. **HTTP Methods:**
+   - APIs commonly use HTTP methods like GET, POST, PUT, and DELETE to perform operations.
+
+5. **Documentation:**
+   - Good APIs come with documentation that explains how to use the API, including details about available endpoints, request parameters, and response formats.
+
+6. **Versioning:**
+   - APIs may include versioning to ensure backward compatibility while introducing new features or changes.
+
+##### Types of APIs
+
+1. **Web APIs (RESTful APIs):**
+   - Commonly used for web and mobile applications.
+   - Follow principles of Representational State Transfer (REST).
+   - Communicate over HTTP.
+
+2. **Library APIs:**
+   - Provide pre-written functions or routines that developers can use in their applications.
+   - Examples include standard libraries in programming languages.
+
+3. **Hardware APIs:**
+   - Allow software to interact with hardware components, such as printer APIs or graphics APIs.
+
+4. **Operating System APIs:**
+   - Provide functions to interact with the underlying operating system.
+   - Examples include Windows API and POSIX API.
+
+5. **Database APIs:**
+   - Allow applications to interact with databases using specific query languages.
+   - Examples include JDBC (Java Database Connectivity) and ODBC (Open Database Connectivity).
+
+APIs facilitate interoperability between different software systems, enabling them to share data and functionality. They are fundamental to building modern, scalable, and integrated applications.
+
+
+### Process vs. Thread
+
+| Feature           | Process                             | Thread                              |
+|-------------------|-------------------------------------|-------------------------------------|
+| **Definition**    | Independent program                 | Smaller unit within a process      |
+| **Independence**  | Runs in its own space                | Shares resources with other threads|
+| **Resource Allocation** | Own memory, file handles       | Shares memory space with process   |
+| **Creation Overhead** | More resource-intensive          | Less resource-intensive            |
+| **Communication** | IPC mechanisms (message passing, shared memory) | Directly through shared data     |
+| **Fault Tolerance** | Independent, failure in one doesn't affect others | Failure in one can affect others |
+| **Parallelism**   | Runs in parallel on multi-core systems | Can run in parallel within a process |
+
+
+### What is Lazy Loading?
+
+Lazy loading is a programming and software design pattern where objects, data, or resources are loaded or initialized only when they are actually needed or accessed, rather than loading everything at the beginning. The goal is to improve performance, reduce resource usage, and enhance the user experience by loading and using resources on-demand.
+
+In the context of web development, lazy loading is commonly used for:
+
+- Images: Loading images only when they are about to be displayed on the user's screen. This can significantly improve the initial page load time.
+
+- JavaScript: Delaying the loading of JavaScript files until they are required, reducing the initial page load size.
+
+- Data: Fetching and loading data from a server only when it is needed, rather than loading all data upfront.
+
+Lazy loading is particularly beneficial in scenarios where not all resources or data are essential for the initial rendering or functionality of a page. By loading items only when they are needed, developers can optimize performance and reduce the amount of data that needs to be loaded initially.
+
+HTML Example:
+``` html
+<!-- Before lazy loading -->
+<img src="image.jpg" alt="Image">
+
+<!-- After lazy loading -->
+<img src="placeholder.jpg" data-src="image.jpg" alt="Image" loading="lazy">
+```
+In this example, the `loading="lazy"` attribute is used to enable lazy loading for the image. The actual image (`image.jpg`) will only be loaded when it's about to enter the user's viewport, improving the page load performance.
+
+Lazy loading is not limited to web development; it can be applied in various software scenarios to optimize resource usage and improve overall system performance.
+
+
+
+
 
 <hr />
 
