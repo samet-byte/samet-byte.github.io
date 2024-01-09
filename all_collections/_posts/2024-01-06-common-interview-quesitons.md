@@ -1482,7 +1482,7 @@ Consider an application displaying a list of items. The Model would handle fetch
 
 A stored procedure is a precompiled collection of one or more SQL statements or procedural logic, which is stored in a database. It can be called and executed within the database environment, typically with parameters passed to it. Stored procedures are often used for encapsulating a set of operations or queries to be executed on the database server.
 
-![Functions vs Stored Procedure](https://sametb.com/posts/funvsstoredprocedure.png)
+![Functions vs Stored Procedure](https://sametb.com/assets/post/funvsstoredprocedure.png)
 
 
 ### Stored Procedure vs. Function vs. Trigger
