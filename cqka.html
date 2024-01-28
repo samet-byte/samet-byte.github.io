@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keep Server Alive</title>
+</head>
+<body>
+
+<p id="counterDisplay">Counter: 0</p>
+
+<script>
+    let counter = 0;
+
+    function sendRequest() {
+        counter++;
+        fetch('https://cinequilt.onrender.com/api/v1/metadatas/2')
+            .then(response => {
+                console.log(`Request ${counter} sent successfully`);
+                updateCounterDisplay();
+            })
+            .catch(error => console.error(`Error sending request ${counter}:`, error));
+    }
+
+    function updateCounterDisplay() {
+        document.getElementById('counterDisplay').innerText = `Counter: ${counter}`;
+    }
+
+    // Initial call
+    sendRequest();
+
+    // Set interval for subsequent calls
+    setInterval(sendRequest, 5000); // Send a request every 60 seconds (adjust as needed)
+</script>
+
+</body>
+</html>
