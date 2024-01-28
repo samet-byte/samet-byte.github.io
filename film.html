@@ -3,12 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+
+        #videoFrame {
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
 </head>
 <body>
     <iframe 
-        src="https://videoseyred.in/embed/270342" 
-        frameborder="0" width="1440" height="800" title="Player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe>
+        id="videoFrame"
+        frameborder="0" 
+        title="Video Player" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+    ></iframe>
+
+    <script>
+        fetch('https://samdb.netlify.app/api/crud?db=film&col=single&sort=dateEdited,1&last=1')
+            .then(response => response.json())
+            .then(data => {
+                // Get the video URL from the JSON response
+                const videoUrl = data.url;
+
+                // Update the iframe src attribute
+                const videoFrame = document.getElementById('videoFrame');
+                videoFrame.src = videoUrl;
+            })
+            .catch(error => console.error('Error fetching JSON:', error));
+    </script>
 </body>
 </html>
