@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Masa Da Masaymış Ha
-date: 2023-02-22
+date: 2024-02-22
 categories: [poem, literature]
 ---
 
