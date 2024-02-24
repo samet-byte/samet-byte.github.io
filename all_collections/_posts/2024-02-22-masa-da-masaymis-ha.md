@@ -33,7 +33,7 @@ sam {text-align: center;}
 <br>Masaya biranın dökülüşünü koydu
 <br>Uykusunu koydu uyanıklığını koydu
 <br>Tokluğunu açlığını koydu.
-
+<br>
 <br>Masa da masaymış ha
 <br>Bana mısın demedi bu kadar yüke
 <br>Bir iki sallandı durdu
