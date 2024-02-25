@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Denge
+title: Tel Cambazının Telin Üstündeki Durumunu Anlatan Şiirdir
 date: 2024-02-24
 categories: [poem, literature]
 ---
@@ -18,7 +18,6 @@ sam {text-align: center;}
 <br>Tanrınız büyük amenna
 <br>Şiiriniz adamakıllı şiir
 <br>Dumanı da caba
-<br>
 <br>Bütün ağaçlarla uyuşmuşum
 <br>Kalabalık ha olmuş ha olmamış
 <br>Sokaklarda yitirmiş cebimde bulmuşum
