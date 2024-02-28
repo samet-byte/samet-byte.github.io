@@ -14,6 +14,7 @@ sam {text-align: center;}
 
 
 
+
 <br>Sizin alınız al inandım
 <br>Sizin morunuz mor inandım
 <br>Tanrınız büyük amenna
