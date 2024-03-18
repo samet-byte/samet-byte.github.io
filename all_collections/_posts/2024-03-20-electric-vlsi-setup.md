@@ -2,15 +2,8 @@
 layout: post
 title: Electric VLSI Setup
 date: 2024-03-20
-categories: [electric, vlsi, setup, tutorial, howto, guide, linux, cadence, mentor, synopsys, xilinx, altera, lattice, microchip, atmel, st, ti, analog, onsemi, infineon, toshiba, rohm, fairchild, diodes, maxim, nxp, renesas, toshiba, vishay, yageo, kemet, murata, tdk, avx, samsung, skhynix, micron, toshiba, western-digital, seagate, sandisk, kingston, micron, intel, amd, nvidia, arm, x86, risc-v, mips, microcontroller, microprocessor, fpga, cpld, asic, soc, digital, analog, mixed-signal, power, rf, high-speed, low-power, low-noise, high-precision, high-voltage, high-current, high-temperature, high-frequency, low-frequency, low-temperature, low-current, low-voltage, low-power, low-noise, low-precision, low-frequency, low-temperature]
+categories: [electric, vlsi, setup, tutorial, howto, guide]
 ---
-
-<style>
-sam {text-align: center;}
-</style>
-
-
-
 
 # Electric VLSI Setup
 
