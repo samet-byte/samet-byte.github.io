@@ -5,6 +5,13 @@ date: 2024-03-18
 categories: [electric, vlsi, setup, tutorial, howto, guide]
 ---
 
+
+> ![Note] To download files, either do 
+> 
+> right click on the link and select `Save link as...` or `Save target as...` to download the file.
+>
+> or click on the link and then press `Ctrl + S` to save the file.
+
 # Electric VLSI Setup
 
 This is a tutorial on how to setup a VLSI design environment on a your machine.
