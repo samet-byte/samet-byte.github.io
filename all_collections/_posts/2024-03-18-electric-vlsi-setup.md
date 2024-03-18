@@ -47,7 +47,7 @@ This is a tutorial on how to setup a VLSI design environment on a your machine.
 
 
 ## 2. Install Electric (VLSI Design Tool)
-> [Electric VLSI Design Tool Download](https://samet-byte.github.io/electric_vlsi_stuff/electric-9.07.jar)
+> [Electric VLSI Design Tool Download](https://samet-byte.github.io/electric_vlsi_stuff/electricBinary-9.07.jar)
 > 
 > or you can download it from the official website:
 > 
@@ -79,6 +79,11 @@ This is a tutorial on how to setup a VLSI design environment on a your machine.
 > 
 > After running deck: `Run, Ignore Input`
 > Run program: Path of the LTSpice executable file (e.g. C:\Program Files\LTC\LTspice\LTSpice.exe)
+>
+> Run program (MacOS): Path of the LTSpice executable file (e.g. /Applications/LTspice.app/Contents/MacOS/script.sh)
+>
+> Download script.sh from the following link:
+> [script.sh Download (for LTSpice](https://samet-byte.github.io/electric_vlsi_stuff/script.sh)
 > 
 > With Args: Paste following: 
 > 
