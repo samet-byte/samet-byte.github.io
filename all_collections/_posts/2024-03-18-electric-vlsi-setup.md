@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Electric VLSI Setup
-date: 2024-03-20
+date: 2024-03-18
 categories: [electric, vlsi, setup, tutorial, howto, guide]
 ---
 
@@ -54,3 +54,12 @@ This is a tutorial on how to setup a VLSI design environment on a your machine.
 
 # Preferences
 
+![Technology Scale](https://samet-byte.github.io/electric_vlsi_stuff/tech_scale.png)
+
+![Spice Setup](https://samet-byte.github.io/electric_vlsi_stuff/spice_setup.png)
+> For LTSpice, you need to set the path of the LTSpice executable file.
+> At `Running Spice` Section:
+> After running deck: `Run, Ignore Input`
+> Run program: Path of the LTSpice executable file (e.g. C:\Program Files\LTC\LTspice\LTSpice.exe)
+> With Args: Paste following: 
+> `${FILENAME_NO_EXT} -r ${FILENAME_NO_EXT}.raw -o ${FILENAME_NO_EXT}.out`
