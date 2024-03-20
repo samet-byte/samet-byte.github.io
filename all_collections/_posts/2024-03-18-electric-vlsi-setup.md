@@ -58,7 +58,9 @@ This is a tutorial on how to setup a VLSI design environment on a your machine.
 
 ## 3. Install LTSpice
 > Follow the instructions on the official website to install LTSpice:
-> 
+> ## For Windows Better Download Legacy Version:
+> `https://cmosedu.com/cmos1/ltspice/LTspiceIV.exe`
+> ## For MacOS, Linux Based Systems (Better Use This Version):
 > [LTSpice Official Website](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 
 ## 4. Download tmsc180.txt (180nm) (Technology File)
@@ -86,8 +88,15 @@ This is a tutorial on how to setup a VLSI design environment on a your machine.
 > [script.sh Download (for LTSpice](https://samet-byte.github.io/electric_vlsi_stuff/script.sh)
 > 
 > With Args: Paste following: 
+>
+> ### For Windows:
+> 
+> `-i ${FILENAME} -r ${FILENAME_NO_EXT}.raw -o ${FILENAME_NO_EXT}.out`
+> 
+> ### For MacOS:
 > 
 > `${FILENAME_NO_EXT} -r ${FILENAME_NO_EXT}.raw -o ${FILENAME_NO_EXT}.out`
+> 
 
 
 ## Bonus: How to Toggle Measurement (Display Ruler):
