@@ -12,6 +12,12 @@ categories: [electric, vlsi, setup, tutorial, howto, guide]
 >
 > or click on the link and then press `Ctrl + S` to save the file.
 
+
+> ## cmosedu.com Tutorials:
+> ![Inverter Tutorial3] (https://cmosedu.com/videos/electric/tutorial3/electric_tutorial_3.htm)
+> ![NAND Tutorial4] (https://cmosedu.com/videos/electric/tutorial4/electric_tutorial_4.htm)
+
+
 # Electric VLSI Setup
 
 This is a tutorial on how to setup a VLSI design environment on a your machine.
