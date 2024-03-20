@@ -15,6 +15,7 @@ categories: [electric, vlsi, setup, tutorial, howto, guide]
 
 > ## cmosedu.com Tutorials:
 > [Inverter Tutorial3](https://cmosedu.com/videos/electric/tutorial3/electric_tutorial_3.htm)
+> 
 > [NAND Tutorial4](https://cmosedu.com/videos/electric/tutorial4/electric_tutorial_4.htm)
 
 
@@ -65,8 +66,11 @@ This is a tutorial on how to setup a VLSI design environment on a your machine.
 ## 3. Install LTSpice
 > Follow the instructions on the official website to install LTSpice:
 > ## For Windows Better Download Legacy Version:
+> 
 > [Windows LTSpiceIV Legacy Download](https://cmosedu.com/cmos1/ltspice/LTspiceIV.exe)
+> 
 > ## For MacOS, Linux Based Systems (Better Use This Version):
+> 
 > [LTSpice Official Website](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 
 ## 4. Download tmsc180.txt (180nm) (Technology File)
