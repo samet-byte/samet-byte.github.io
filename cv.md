@@ -3,9 +3,12 @@ title: CV
 layout: post
 ---
 
-🌌 Interstellar Scholar in Disguise: Basically, I'm a fancy space student pretending to blend in on Earth.
+🌌 Interstellar Scholar in Disguise: 
 
-🌍 Amateur Earthling: I'm still figuring out how this whole "Earthling" thing works – gravity is a tough subject! 
+Basically, I'm a fancy space student pretending to blend in on Earth.
+
+🌍 Amateur Earthling: 
+I'm still figuring out how this whole "Earthling" thing works – gravity is a tough subject! 
 
 🚶‍♂️ Flâneur: I roam around like a philosopher, but with less thinking and more wandering. 
 
