@@ -34,6 +34,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
 
 - Degree: Bachelor of Electrical-Electronics Engieering
   - University: Başkent University
+  - Scholarship: 100%
   - Year: Agu 2019 - Jun 2020,  Sep 2022 - **Jan 2025**
   - Expected Graduation Date: Jan 2025
   - GPA: 3.77/4.00
@@ -48,6 +49,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
 <br/>
 - Degree: High School
   - School: Ayşeabla Science High School
+  - Scholarship: 100%
   - Year: 2015 - 2019
   - Status: Graduated
   - GPA: 97.35/100
