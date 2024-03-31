@@ -73,8 +73,6 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - Flows
     - Data Binding
     - Paging 3
-  
-
   <br/>
   - Java 
     - Android Development (for legacy projects)
@@ -82,7 +80,6 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - JPA
     - Hibernate
     - Spring Security (JWT)
-  
   <br/>
   - JADX (Decompiling jars, APKs)
 
@@ -91,14 +88,12 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - React (Beginner-Intermediate)
     - Bootstrap
     - HTML, CSS (Beginner-Intermediate), JavaScript, TypeScript (Still learning) 
-    
   <br/>
   - Python 
     - Machine Learning, Tensorflow, OpenCV .. Beginner-Intermediate
     - Flask .. Beginner
     - Data Analysis .. Beginner
     - Web Scraping (BeautifulSoup) .. Upper-Intermediate
-  
   <br/>
   - MATLAB
     - Engineering Toolboxes
@@ -106,29 +101,22 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - Signal Processing
     - Machine Learning
     - Simulink
-
   <br/>
   - C 
     - To manage microcontrollers
-    
   <br/>
   - C++
     - I wrote a simple 'Library Management System' with C++ for my university project in 2019.
     - I have not much experience with it.
-  
   <br/>
   - C#
-    - I developed a couple of simple mobile applications with .NET MAUI 
-    - I contributed a closed source project (Android Accessibility Service that uses Rest API)
-
+    - I developed a couple of simple mobile applications with .NET MAUI (I contributed a closed source project - Android Accessibility Service that uses Rest API)
   <br/>
   - AppleScript
       - Occasionally, I write scripts to automate my daily tasks on macOS.
-
   <br/>
   - Assembly, VHDL, Verilog, Smali, Swift, Dart, Flutter, Spice
     - Just for fun, I have not much experience with them.
-    
   <br/>
   - Database
     - PostgreSQL
@@ -136,7 +124,6 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - MongoDB
     - RealmDB
     - SQLite
-  
   <br/>
   - Version Control:
     - Git
