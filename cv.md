@@ -17,7 +17,7 @@ samj {text-align: justify;}
 #### Ankara, Turkey
 
 
-#####     (Google) sametbayat1311@gmail.com
+#####     (GMail) sametbayat1311@gmail.com
 #####     (Outlook) sametbayat@hotmail.com
 #####     [LinkedIn @sametbayat](https://www.linkedin.com/in/sametbayat/)
 #####    [GitHub @samet-byte](https://github.com/samet-byte)
@@ -37,15 +37,13 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
   - Year: Agu 2019 - Jun 2020,  Sep 2022 - **Jan 2025**
   - Expected Graduation Date: Jan 2025
   - GPA: 3.77/4.00
-
-##
+<br/>
 - Degree: Bachelor of Chemical Engineering
   - University: Hacettepe University
   - Year: Agu 2020 - May 2022
   - Status: Not graduated
   - GPA: 3.15/4.00 (2nd year)
-
-##
+<br/>
 - Degree: High School
   - School: Ayşeabla Science High School
   - Year: 2015 - 2019
@@ -77,7 +75,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - Paging 3
   
 
-  ###
+  <br/>
   - Java 
     - Android Development (for legacy projects)
     - Spring Boot
@@ -85,23 +83,23 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - Hibernate
     - Spring Security (JWT)
   
-  ###
+  <br/>
   - JADX (Decompiling jars, APKs)
 
-  ###
+  <br/>
   - Web Development
     - React (Beginner-Intermediate)
     - Bootstrap
     - HTML, CSS (Beginner-Intermediate), JavaScript, TypeScript (Still learning) 
     
-  ###
+  <br/>
   - Python 
     - Machine Learning, Tensorflow, OpenCV .. Beginner-Intermediate
     - Flask .. Beginner
     - Data Analysis .. Beginner
     - Web Scraping (BeautifulSoup) .. Upper-Intermediate
   
-  ###
+  <br/>
   - MATLAB
     - Engineering Toolboxes
     - Image Processing
@@ -109,29 +107,29 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - Machine Learning
     - Simulink
 
-  ###
+  <br/>
   - C 
     - To manage microcontrollers
     
-  ###
+  <br/>
   - C++
     - I wrote a simple 'Library Management System' with C++ for my university project in 2019.
     - I have not much experience with it.
   
-  ###
+  <br/>
   - C#
     - I developed a couple of simple mobile applications with .NET MAUI 
     - I contributed a closed source project (Android Accessibility Service that uses Rest API)
 
-  ###
+  <br/>
   - AppleScript
       - Occasionally, I write scripts to automate my daily tasks on macOS.
 
-  ###
+  <br/>
   - Assembly, VHDL, Verilog, Smali, Swift, Dart, Flutter, Spice
     - Just for fun, I have not much experience with them.
     
-  ###
+  <br/>
   - Database
     - PostgreSQL
     - Room
@@ -139,7 +137,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - RealmDB
     - SQLite
   
-  ###
+  <br/>
   - Version Control:
     - Git
 
