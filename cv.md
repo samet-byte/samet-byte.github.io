@@ -308,7 +308,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
   - Description: A Bluetooth speaker project that uses a bandpass filter. Developed to learn bandpass filters and audio processing.
   - For: Term Project
   - Role: Developer, Team Leader
-  - Status: Completed (Spring 2023)
+  - Status: Completed (Spring 2023)****
 
 ### Ongoing Projects:
 
