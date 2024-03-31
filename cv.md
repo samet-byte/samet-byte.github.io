@@ -309,8 +309,8 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
   - For: Term Project
   - Role: Developer, Team Leader
   - Status: Completed (Spring 2023)
-<br/>  
-- Ongoing Projects:
+
+### Ongoing Projects:
 
   - Robot Arm with Computer Vision for Agriculture
     - Description: A robot arm project that helps in agriculture uses computer vision. Developing to learn robotics and automation.
