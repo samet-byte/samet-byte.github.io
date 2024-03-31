@@ -3,6 +3,12 @@ title: Curriculum Vitae
 layout: post
 ---
 
+<style>
+sam {text-align: center;}
+samj {text-align: justify;}
+</style>
+
+
 <img src="https://sdk.bitmoji.com/render/panel/20048676-100025018093_13-s5-v1.png?transparent=1&palette=1&scale=1"/>
 
 # Samet Bayat
@@ -20,7 +26,9 @@ layout: post
 
 
 ## Summary
+<samj>
 I am a freelance Android Developer and Electrical-Electronics Engineering student. I have a passion for mobile development and I am always looking for new challenges. I am a quick learner and I am always eager to learn new technologies. I have experience with Kotlin, Java, Python, MATLAB, JavaScript, React, Bootstrap, HTML, CSS, Android Development, Spring Boot, JWT, Retrofit, Room, Coroutines, MVVM, Flows, Data Binding, Paging 3, Ktor, Dagger Hilt, Jetpack Compose, ESP32, Raspberry Pi, OpenCV, TensorFlow, Machine Learning, Robotics, Automation, PostgreSQL, MongoDB, RealmDB, SQLite, Git, etc. I have developed a couple of Android applications and I have contributed to a couple of projects. I am currently working on a robot arm project for agriculture applications. I am also interested in motion pictures, art house cinema, stop motion animation, existentialism, basketball theory, poetry, Raspberry Pi & ESP hobby projects, paintings, and debates. My favourite director is Krzysztof Kieślowski (Dekalog, Three Colours trilogy, Camera Buff) and my favourite writers are Albert Camus (The Myth of Sisyphus, The Stranger) and Yusuf Atılgan (The Loiterer).
+</samj>
 
 
 
