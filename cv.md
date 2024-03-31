@@ -16,12 +16,12 @@ samj {text-align: justify;}
 #### Electrical-Electronics Engineering Student
 #### Ankara, Turkey
 
-
-#####     (GMail) sametbayat1311@gmail.com
-#####     (Outlook) sametbayat@hotmail.com
-#####     [LinkedIn @sametbayat](https://www.linkedin.com/in/sametbayat/)
-#####    [GitHub @samet-byte](https://github.com/samet-byte)
-#####    [Blog - byte-sized adventures.](https://sametb.com/)
+## Contact Info:
+- GMail: sametbayat1311@gmail.com
+- Outlook: sametbayat@hotmail.com
+- [LinkedIn @sametbayat](https://www.linkedin.com/in/sametbayat/)
+- [GitHub @samet-byte](https://github.com/samet-byte)
+- [Blog - byte-sized adventures.](https://sametb.com/)
 
 
 
@@ -37,12 +37,14 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
   - Year: Agu 2019 - Jun 2020,  Sep 2022 - **Jan 2025**
   - Expected Graduation Date: Jan 2025
   - GPA: 3.77/4.00
+
 <br/>
 - Degree: Bachelor of Chemical Engineering
   - University: Hacettepe University
   - Year: Agu 2020 - May 2022
   - Status: Not graduated
   - GPA: 3.15/4.00 (2nd year)
+
 <br/>
 - Degree: High School
   - School: Ayşeabla Science High School
@@ -73,6 +75,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - Flows
     - Data Binding
     - Paging 3
+ 
   <br/>
   - Java 
     - Android Development (for legacy projects)
@@ -80,20 +83,25 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - JPA
     - Hibernate
     - Spring Security (JWT)
+  
   <br/>
-  - JADX (Decompiling jars, APKs)
+  - JADX 
+    - Decompiling jars, APKs
+    - Ethical Reverse Engineering
 
   <br/>
   - Web Development
     - React (Beginner-Intermediate)
     - Bootstrap
     - HTML, CSS (Beginner-Intermediate), JavaScript, TypeScript (Still learning) 
+
   <br/>
   - Python 
     - Machine Learning, Tensorflow, OpenCV .. Beginner-Intermediate
     - Flask .. Beginner
     - Data Analysis .. Beginner
     - Web Scraping (BeautifulSoup) .. Upper-Intermediate
+ 
   <br/>
   - MATLAB
     - Engineering Toolboxes
@@ -101,22 +109,28 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - Signal Processing
     - Machine Learning
     - Simulink
+ 
   <br/>
   - C 
     - To manage microcontrollers
+ 
   <br/>
   - C++
     - I wrote a simple 'Library Management System' with C++ for my university project in 2019.
     - I have not much experience with it.
+ 
   <br/>
   - C#
     - I developed a couple of simple mobile applications with .NET MAUI (I contributed a closed source project - Android Accessibility Service that uses Rest API)
+  
   <br/>
   - AppleScript
       - Occasionally, I write scripts to automate my daily tasks on macOS.
+ 
   <br/>
   - Assembly, VHDL, Verilog, Smali, Swift, Dart, Flutter, Spice
     - Just for fun, I have not much experience with them.
+ 
   <br/>
   - Database
     - PostgreSQL
@@ -124,6 +138,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - MongoDB
     - RealmDB
     - SQLite
+ 
   <br/>
   - Version Control:
     - Git
@@ -161,14 +176,14 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
   - Quick Look: 
     <img src="https://github.com/samet-byte/frontent-react-cinequilt-js/raw/main/ss/Screenshot%202024-01-02%20at%2011.14.20%E2%80%AFPM.png" />
 
-##
+<br/>
 - Ctrl + C (ssClipboard) 
   - Description: Text expander and text box assistant for Android.
   - For: Personal Project
   - Role: Full Stack Developer
   - Status: Completed (Summer 2023 - Occasionally Updated)
   - Technologies: Kotlin, Android Studio, Room, Coroutines, MVVM, Data Binding, Android Accessibility Service, Rest API, Google Apps Script, JavaScript, HTML.
-  
+
   - Accomplishments:
     - Developed the app with Kotlin and Android Studio.
     - Implemented the database with Room.
@@ -192,7 +207,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - Swipe to Delete & Share
     - Dark Mode
 
-##
+<br/>
 - A Comprehensive Review Of Face Detection, Tracking & Face Swap Algorithms With Matlab Applications
   - Description: In this study face/feature detection, feature tracking and face swap applications will be handled and evaluated with Viola Jones, KLT and MPB algorithms. The work includes three different applications: 'Real Time Face Tracking', 'Image Editing/Blending' and 'Video Editing/Blending'. The open- source content of Mahmoud Afifi (York University) is used as the video processing dataset and MATLAB code guide. The aim is to examine the algorithms in detail, how MATLAB used it and to determine the proportionality of the application-theoretical knowledge common shares.
   - For: Term Project
@@ -210,7 +225,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     - (Repository will be public after the publication of research paper)
     - [Face Detection, Tracking & Face Swap Algorithms]()
 
-##
+<br/>
 - Hoops Insight
   - Description: A basketball players' statistics and analytics platform. Mostly to improve my skills in Jetpack Compose.
   - For: Personal Project
@@ -236,10 +251,10 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
     <img  width="30%" height="auto" src="https://github.com/samet-byte/Android-JetpackCompose-HoopsInsight/raw/main/screenshot/details_collapsed_mj.png">
     <img  width="30%" height="auto" src="https://github.com/samet-byte/Android-JetpackCompose-HoopsInsight/raw/main/screenshot/details_expanded_mj.png">
 
-#
+<br>
 - [More Projects on Github](https://github.com/samet-byte?tab=repositories)
   
-  ##
+  <br/>
   - [Gemini API Demo App](https://github.com/samet-byte/Android-Jetpack-Gemini-Demo)
     - Description: An Android application that demonstrates the Gemini API. Developed in a short time to learn the Gemini API and discover its capabilities.
     - For: Personal Project
@@ -253,7 +268,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
         - Fetched data from the Gemini API.
         - Lasted 2 hours from the idea to finish.
 
-  ##
+  <br/>
   - [Samsung SPen SDK Demo App](https://github.com/samet-byte/SPen-Button-Feature)
     - Description: An Android application that demonstrates the Samsung SPen SDK. Developed in a short time to learn the Samsung SPen SDK and discover its capabilities.
     - For: Personal Project
@@ -265,7 +280,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
       - Developed the app with Java and Kotlin.
       - Fetched data from the Samsung SPen SDK.
     
-  ##
+  <br/>
   - [ESP32 Capacitive Touch as a Keyboard](https://github.com/samet-byte/ESP32-CAM-Capacitive-Touch-Keyboard-Demo)
     - Description: An ESP32 project that uses capacitive touch as a keyboard. Developed to learn ESP32 and capacitive touch.
     - For: Personal Project
@@ -276,7 +291,7 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
       - Developed the project with C.
       - Used capacitive touch as a keyboard input.
   
-  ##
+  <br/>
   - [Android as Server](https://github.com/samet-byte/Android-As-Server)
     - Description: This project demonstrates how to run an HTTP server in an Android app with Ktor.
     - For: Personal Project
@@ -288,13 +303,13 @@ I am a freelance Android Developer and Electrical-Electronics Engineering studen
       - Ran an HTTP server in an Android app with Ktor.
       - Used the server to serve an API that controls the device's features (like volume, brightness, etc.)
     
-##
+<br/>
 - Bluetooth Speaker with Bandpass Filter
   - Description: A Bluetooth speaker project that uses a bandpass filter. Developed to learn bandpass filters and audio processing.
   - For: Term Project
   - Role: Developer, Team Leader
   - Status: Completed (Spring 2023)
-##  
+<br/>  
 - Ongoing Projects:
 
   - Robot Arm with Computer Vision for Agriculture
