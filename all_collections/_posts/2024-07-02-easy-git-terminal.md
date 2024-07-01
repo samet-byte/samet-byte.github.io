@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Single Line Git (Add, Commit, Push)
+title: "Single Line Git (Add, Commit, Push)"
 date: 2024-07-02
 categories: [git, terminal]
 ---
