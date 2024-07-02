@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Single Line Git (Add, Commit, Push)"
+title: Single Line Git
 date: 2024-07-02
 categories: [git, terminal]
 ---
+
+# Add, Commit, Push in a Single Line
 
 ```bash
 # Description: Quick commit and push all changes in the current repository
