@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <h1>API Example</h1>
+    <script>
+        function callAPI() {
+            fetch('https://script.google.com/macros/s/AKfycbxzKSL_sBEtOkA0gbOxXouDjYos7iDU-4q4hrqtTx7pUpyxZ4nO1QUomQ2-D_u0BwBuzg/exec')
+                .then(response => response.json())
+                .then(data => {
+                    // Display the response data
+                    document.getElementById('output').textContent = data;
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+        }
+        callAPI(); // Call the API automatically
+    </script>
+</head>
+<body>
+    <div id="output"></div>
+</body>
+</html>
