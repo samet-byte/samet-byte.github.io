@@ -1,0 +1,58 @@
+@font-face {
+	font-family:"Mom";
+	src: url("Mom.ttf") format("truetype");
+  }
+
+html { font-family: 'Mom'; }
+
+body {height: 100%; margin: 0; padding: 0; background: rgba(145, 168, 206, 0.9); -webkit-font-smoothing: antialiased;}
+
+#wrap {position: absolute; left: 0; top: 0; right: 0; bottom: 0; overflow: hidden;}
+#wrap.intro {pointer-events: none;}
+
+.paper {position: absolute; left: 8vmin; right: 8vmin; top: 8vmin; min-height: calc(100% - 16vmin); font-family: inherit, '맑은 고딕', 'Malgun Gothic', '나눔고딕', arial, '돋움', dotum; font-size: 3.5vmin; font-weight: 700; color: #000; word-break: break-all; line-height: 1.5; margin: 0; padding: 8.5vmin 8vmin; border-radius: 0.6vmin; box-sizing: border-box; background: #F5F5DC; box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);}
+
+#paper {
+	perspective: 300px;
+	perspective-origin: 50% 0%;
+}
+#paper:before {position: absolute; content: attr(data-placeholder); opacity: 0.3;
+	transition: opacity 0.15s 0.35s ease-out;
+}
+#paper.has-text:before {opacity: 0;
+	transition-delay: 0s;
+}
+#paper span {position: relative; word-spacing: 1px; display: inline-block; opacity: 0;}
+#paper span.fired {word-spacing: 0; opacity: 1;
+	transform: none !important;
+	transition: all 0.55s cubic-bezier(0.445, 0.050, 0.550, 1.050);
+}
+#paper span:not([data-letter]) {
+	transition: all 0.15s ease-out;
+}
+#paper span:before,
+#paper span:after {position: absolute; left: 0; top: 0; content: attr(data-letter); opacity: 0.35; -webkit-filter: blur(0px); -moz-filter: blur(0px); -ms-filter: blur(0px); filter: blur(0px);}
+#paper span.fired:before {opacity: 0; -webkit-backface-visibility: hidden;
+	transform: translateZ(25px) scale3d(5, 5, 1);
+	transition: all 0.65s 0.525s cubic-bezier(0.230, 1.000, 0.320, 1.000);
+}
+#paper span:after {visibility: hidden;}
+#paper span.fired:after {opacity: 0; visibility: visible;
+	transform: translate3d(0, 10em, 0) rotateZ(-35deg);
+	transition: all 0.7s 0.525s ease-in;
+}
+#paper span.selected {color: #fff !important; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+	transition: all 0.2s ease-out;
+}
+#paper span.selected.start {border-radius: 3px 0 0 3px;}
+#paper span.selected.end {border-top-right-radius: 3px; border-bottom-right-radius: 3px;}
+#paper i {position: absolute; left: 0; top: 0; width: 2px; height: 1.5em; margin: 8.5vmin 0 0 8vmin; border-radius: 1px; background: #000;
+	animation: caret-breath 0.5s linear infinite alternate;
+}
+#paper:not(.ready) i,
+#paper i.hide {visibility: hidden;}
+@keyframes caret-breath {
+	100% {opacity: 0;}
+}
+
+#editor {opacity: 0;}
