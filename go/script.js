@@ -21,16 +21,51 @@ frame / project frame
 about
 contact
 `.trim()
+	
+		var DEFAULT_PLACEHOLDER_TR = 
+`ilerlemek icin yazın:             
+cv / resume / özgecmis 
+portfolio / portföy / portfolyo
+mail / e-posta / eposta
+blog 
+byte-sized adventures.
+legacy blog / eski blog
+git / github
+in / linkedin
+cq / cinequilt
+frame / project frame
+kimdir / hakkında
+iletisim
+`.trim()
 
 	
-	const DEFAULT_INTRO = 'Hi, I am Samet Bayat.';
-
 	const API_URL = 'https://g--s.vercel.app/api/v1?id=1QqdXSLg4lQoERzEDZOwgtMQSEPcnOdkW_cYzoTh08e8';
+	
+	const DEFAULT_INTRO = 'Hi, I am Samet Bayat.';
+	const DEFAULT_INTRO_TR = 'Merhaba, ben Samet Bayat.';
+	const DEFAULT_INTRO_BY_LANG = browserLanguage() === 'tr' ? DEFAULT_INTRO_TR : DEFAULT_INTRO;
+
 
 	const urlParams = new URLSearchParams(window.location.search);
 	const redirectText = urlParams.get('redirect') || urlParams.get('r')  || 'continue';
-	const placeholderText = urlParams.get('placeholder') || urlParams.get('ph') || DEFAULT_PLACEHOLDER;
-	const introText = urlParams.get('intro') || urlParams.get('i') || DEFAULT_INTRO;
+	
+	const DEFAULT_PLACEHOLDER_BY_LANG = browserLanguage() === 'tr' ? DEFAULT_PLACEHOLDER_TR : DEFAULT_PLACEHOLDER;
+	const placeholderText = urlParams.get('placeholder') || urlParams.get('ph') || DEFAULT_PLACEHOLDER_BY_LANG;
+	
+	const introText = urlParams.get('intro') || urlParams.get('i') || DEFAULT_INTRO_BY_LANG;
+
+
+
+	function browserLanguage() {
+		var lang =  navigator.language || navigator.userLanguage;
+		if (lang.startsWith('tr')) {
+			return 'tr';
+		} else {
+			return 'en';
+		}
+	}
+
+
 
 
 	    // Array of image URLs
@@ -65,69 +100,7 @@ https://sdk.bitmoji.com/render/panel/10213080-100025018093_13-s5-v1.png?transpar
 	}
 	
 	
-	var redirectRoutes = 
-	[
-		{
-			"redirect": "https://sametb.com/cv",
-			"text": "cv"
-		  },
-		  {
-			"redirect": "https://sametb.com/cv",
-			"text": "resume"
-		  },
-		  {
-			"redirect": "https://cinequilt.netlify.app/",
-			"text": "cq"
-		  },
-		  {
-			"redirect": "https://cinequilt.netlify.app/",
-			"text": "cinequilt"
-		  },
-		  {
-			"redirect": "https://bytesizedadventures.onrender.com/",
-			"text": "blog"
-		  },
-		  {
-			"redirect": "https://sametb.com/",
-			"text": "personnel"
-		  },
-		  {
-			"redirect": "https://sametb.com/",
-			"text": "sam"
-		  },
-		  {
-			"redirect": "http://sametb.com/frame",
-			"text": "frame"
-		  },
-		  {
-			"redirect": "https://www.linkedin.com/in/sametbayat/",
-			"text": "in"
-		  },
-		  {
-			"redirect": "https://www.linkedin.com/in/sametbayat/",
-			"text": "linkedin"
-		  },
-		  {
-			"redirect": "https://github.com/samet-byte/",
-			"text": "github"
-		  },
-		  {
-			"redirect": "https://github.com/samet-byte/",
-			"text": "git"
-		  },
-		  {
-			"redirect": "https://bytesizedadventures.onrender.com/search/query?category=Portfolio",
-			"text": "portfolio"
-		  },
-		  {
-			"redirect": "https://sametb.com/",
-			"text": "legacy blog"
-		  },
-		  {
-			"redirect": "mailto:sametbayat@hotmail.com?subject=ABOUT%20..&body=Hello,%20I%20have%20a%20question%20about%20..",
-			"text": "mail"
-		  }
-	];
+	var redirectRoutes = [{"redirect":"https://sametb.com/cv","text":"cv"},{"redirect":"https://sametb.com/cv","text":"resume"},{"redirect":"https://sametb.com/cv","text":"özgeçmiş"},{"redirect":"https://cinequilt.netlify.app/","text":"cq"},{"redirect":"https://cinequilt.netlify.app/","text":"cinequilt"},{"redirect":"https://bytesizedadventures.onrender.com/","text":"blog"},{"redirect":"https://sametb.com/","text":"personnel"},{"redirect":"https://sametb.com/","text":"sam"},{"redirect":"http://sametb.com/frame","text":"frame"},{"redirect":"https://www.linkedin.com/in/sametbayat/","text":"in"},{"redirect":"https://www.linkedin.com/in/sametbayat/","text":"linkedin"},{"redirect":"https://github.com/samet-byte/","text":"github"},{"redirect":"https://github.com/samet-byte/","text":"git"},{"redirect":"https://bytesizedadventures.onrender.com/search/query?category=Portfolio","text":"portfolio"},{"redirect":"https://sametb.com/","text":"legacy blog"},{"redirect":"mailto:sametbayat@hotmail.com?subject=ABOUT%20..&body=Hello,%20I%20have%20a%20question%20about%20..","text":"mail"},{"redirect":"mailto:sametbayat@hotmail.com?subject=ABOUT%20..&body=Hello,%20I%20have%20a%20question%20about%20..","text":"eposta"},{"redirect":"mailto:sametbayat@hotmail.com?subject=ABOUT%20..&body=Hello,%20I%20have%20a%20question%20about%20..","text":"e-posta"},{"redirect":"https://sametb.com/about-me/","text":"about"},{"redirect":"https://sametb.com/about-me/contact/","text":"contact"},{"redirect":"https://bytesizedadventures.onrender.com/","text":"byte-sized adventures."},{"redirect":"https://bytesizedadventures.onrender.com/","text":"byte-sized adventures"},{"redirect":"https://bytesizedadventures.onrender.com/search/query?category=Portfolio","text":"portfolyo"},{"redirect":"https://sametb.com/cv","text":"özgeçmiş"},{"redirect":"https://sametb.com/about-me/","text":"hakkında"},{"redirect":"https://sametb.com/about-me/","text":"kimdir"},{"redirect":"https://sametb.com/about-me/contact/","text":"iletişim"}];
 
 
 	async function fetchRedirectRoutes() {
@@ -300,13 +273,31 @@ document.head.appendChild(style);
 
 	}
 
+	function normalizeString(str) {
+		return str
+		  .toLowerCase()
+		  .replace(/[àáâãäå]/g, "a")
+		  .replace(/[èéêë]/g, "e")
+		  .replace(/[ìíîï]/g, "i")
+		  .replace(/[òóôõö]/g, "o")
+		  .replace(/[ùúûü]/g, "u")
+		  .replace(/[ýÿ]/g, "y")
+		  .replace(/[ç]/g, "c")
+		  .replace(/[ğ]/g, "g")
+		  .replace(/[ı]/g, "i")
+		  .replace(/[İ]/g, "i")
+		  .replace(/[ş]/g, "s")
+		  .replace(/[ö]/g, "o")
+		  .replace(/[ü]/g, "u");
+	  }
+
 		
 	function check4Redirect(text, routeText, redirect) {
-		if (text.toLowerCase().trim() === routeText.toLowerCase().trim()) {
+		if (normalizeString(text).toLowerCase().trim() === normalizeString(routeText).toLowerCase().trim()) {
 			$editor.innerHTML = '';
 			setTimeout(() => {
 				window.location.href = redirect;
-			}, 750);
+			}, 1000);
 		}
 	}
 

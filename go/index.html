@@ -19,7 +19,7 @@
         bottom: 0;
         left: 0;
         right: 0;
-        height: 52%; 
+        height: 40%; 
         background-image: url('./img/image_1.jpg'); 
         background-size: contain;
         background-repeat: no-repeat;
@@ -30,9 +30,19 @@
         z-index: 0; 
         /* 
         transform: scaleX(-1); 
+        animation: bounce 2s infinite;
         */
-    }
-
+  }
+/*
+  @keyframes bounce {
+      0%, 100% {
+          transform: translateX(0);
+      }
+      50% {
+          transform: translateX(-50px);
+      }
+  }
+*/
     
 </style>
 
