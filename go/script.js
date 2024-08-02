@@ -17,7 +17,10 @@ legacy blog
 git / github
 in / linkedin
 cq / cinequilt
-frame / project frame`
+frame / project frame
+about
+contact
+`.trim()
 
 	
 	const DEFAULT_INTRO = 'Hi, I am Samet Bayat.';
