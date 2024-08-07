@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radar Frontend Example</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #1a1a1a;
+        }
+        #radar {
+            width: 400px;
+            height: 400px;
+            border-radius: 50%;
+            background-color: rgba(0, 255, 0, 0.1);
+            position: relative;
+            overflow: hidden;
+        }
+        .scan-line {
+            position: absolute;
+            width: 50%;
+            height: 2px;
+            background-color: rgba(0, 255, 0, 0.7);
+            top: 50%;
+            left: 50%;
+            transform-origin: left center;
+            animation: scan 4s linear infinite;
+        }
+        .blip {
+            position: absolute;
+            width: 10px;
+            height: 10px;
+            background-color: rgb(0, 255, 0);
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+        }
+        @keyframes scan {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div id="radar">
+        <div class="scan-line"></div>
+    </div>
+
+    <script>
+        const radar = document.getElementById('radar');
+        const radarRect = radar.getBoundingClientRect();
+        const centerX = radarRect.width / 2;
+        const centerY = radarRect.height / 2;
+
+        function createBlip(x, y) {
+            const blip = document.createElement('div');
+            blip.className = 'blip';
+            blip.style.left = `${centerX + x}px`;
+            blip.style.top = `${centerY + y}px`;
+            radar.appendChild(blip);
+
+            setTimeout(() => {
+                blip.remove();
+            }, 2000);
+        }
+
+        function randomPosition(max) {
+            return Math.floor(Math.random() * max) - max / 2;
+        }
+
+        setInterval(() => {
+            const x = randomPosition(radarRect.width);
+            const y = randomPosition(radarRect.height);
+            if (x*x + y*y <= centerX*centerX) {
+                createBlip(x, y);
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
