@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kadir Usta</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+        }
+        header a {
+            color: #ffffff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header #branding {
+            float: left;
+        }
+        header #branding h1 {
+            margin: 0;
+        }
+        header nav {
+            float: right;
+            margin-top: 10px;
+        }
+        header .highlight, header .current a {
+            color: #e8491d;
+            font-weight: bold;
+        }
+        header a:hover {
+            color: #cccccc;
+            font-weight: bold;
+        }
+        #showcase {
+            min-height: 400px;
+            background: url('vintageautogallery.avif') no-repeat center;
+            background-size: cover;
+            text-align: center;
+            color: #ffffff;
+        }
+        #showcase h1 {
+            margin-top: 100px;
+            font-size: 55px;
+            margin-bottom: 10px;
+        }
+        #showcase p {
+            font-size: 20px;
+        }
+        #boxes {
+            margin-top: 20px;
+        }
+        #boxes .box {
+            float: left;
+            text-align: center;
+            width: 30%;
+            padding: 10px;
+        }
+        #boxes .box img {
+            width: 90px;
+        }
+        footer {
+            padding: 20px;
+            margin-top: 20px;
+            color: #ffffff;
+            background-color: #e8491d;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1><span class="highlight">Kadir Usta</span><BR/>Gültekin Oto Tamirhanesi</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li class="current"><a href="#home">Ana Sayfa</a></li>
+                    <li><a href="#services">Hizmetler</a></li>
+                    <li><a href="#contact">İletişim</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="showcase">
+        <div class="container">
+            <h1>Profesyonel Oto Tamir Hizmetleri</h1>
+            <p>Traktör ve arabanız için en iyi bakım, onarım ve tamir hizmetleri</p>
+        </div>
+    </section>
+
+    <section id="boxes">
+        <div class="container">
+            <div class="box">
+                <img src="kartal.png" alt="Araba Tamiri">
+                <h3>Araba Tamiri</h3>
+                <p>Her marka ve model araç için profesyonel tamir hizmetleri</p>
+            </div>
+            <div class="box">
+                <img src="ferguson.png" alt="Traktör Bakımı">
+                <h3>Traktör Bakımı</h3>
+                <p>Traktörünüzün performansını en üst düzeyde tutmak için düzenli bakım</p>
+            </div>
+            <div class="box">
+                <img src="sparepart.png" alt="Yedek Parça">
+                <h3>Yedek Parça</h3>
+                <p>Orijinal ve kaliteli yedek parçalarla hızlı çözümler</p>
+            </div>
+        </div>
+    </section>
+
+  
+
+    <footer>
+        <section id="contact">
+            <div class="container">
+                <h2>İletişim</h2>
+                <p>Telefon: 0507 669 69 50</p>
+                <p>Adres: Sanayi Sitesi Bâlâ / ANKARA</p>
+            </div>
+        </section>
+        <br/>
+        <p>Kadir Usta | Gültekin Oto Tamir Servisi &copy; 2024</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            // Basit bir animasyon ekleyelim
+            const showcase = document.getElementById('showcase');
+            showcase.style.opacity = 0;
+            let opacity = 0;
+            const fadeIn = setInterval(() => {
+                if (opacity < 1) {
+                    opacity += 0.1;
+                    showcase.style.opacity = opacity;
+                } else {
+                    clearInterval(fadeIn);
+                }
+            }, 100);
+
+            // Navigasyon için smooth scroll
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    document.querySelector(this.getAttribute('href')).scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html>
