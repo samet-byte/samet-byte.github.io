@@ -13,11 +13,11 @@ description: "
   </P>
   <br/>
   <p>
-    Redirect to my works : <a href='https://samet-byte.github.io/go/' style='text-decoration: none;' target='_blank'>sametb.com/go</a>
+    Redirect to my works : <a href='https://samet-byte.github.io/go/' style='text-decoration: none;' target='_blank'>samet.uk.to/go</a>
     <br/><br/>
-    About me : <a href='https://sametb.com/about-me/' style='text-decoration: none;' target='_blank'>sametb.com/about-me</a>
+    About me : <a href='https://samet.uk.to/about-me/' style='text-decoration: none;' target='_blank'>samet.uk.to/about-me</a>
     <br/><br/>
-    Contact : <a href='https://sametb.com/about-me/contact/' style='text-decoration: none;' target='_blank'>sametb.com/about-me/contact</a>
+    Contact : <a href='https://samet.uk.to/about-me/contact/' style='text-decoration: none;' target='_blank'>samet.uk.to/about-me/contact</a>
     <br/><br/>
     My new blog : <a href='https://bytesizedadventures.onrender.com/' style='text-decoration: none;' target='_blank'>byte-sized adventures.</a>
     <br/>
@@ -39,7 +39,7 @@ contact:
   - title: github
     url: https://github.com/samet-byte
   - title: web
-    url: https://sametb.com
+    url: https://samet.uk.to
   - title: email
     url: mailto:sametbayat@protonmail.com
   - title: cv
