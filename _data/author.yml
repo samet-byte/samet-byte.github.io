@@ -10,7 +10,7 @@ description: "
   <br/>
   <br/>
 As part of our new publishing orientation, “posts” are being moved to our new blog interface.
-Please visit <strong><a href='https://bsam.us.to' style='text-decoration: none;'>byte-sized adventures. (New UI)</a></strong>
+Please visit <strong><a href='https://blog.sametb.me/' style='text-decoration: none;'>byte-sized adventures. (New UI)</a></strong>
   <br/>
   <br/>
   <br/>
@@ -24,23 +24,17 @@ Please visit <strong><a href='https://bsam.us.to' style='text-decoration: none;'
   </P>
   <br/>
   <p>
-    Redirect to my works : <a href='https://samet-byte.github.io/go/' style='text-decoration: none;' target='_blank'>samet.uk.to/go</a>
+    Redirect to my works : <a href='https://sametb.me/go/' style='text-decoration: none;' target='_blank'>samet.uk.to/go</a>
     <br/><br/>
-    About me : <a href='https://samet.uk.to/about-me/' style='text-decoration: none;' target='_blank'>samet.uk.to/about-me</a>
+    About me : <a href='https://sametb.me/about-me/' style='text-decoration: none;' target='_blank'>samet.uk.to/about-me</a>
     <br/><br/>
-    Contact : <a href='https://samet.uk.to/about-me/contact/' style='text-decoration: none;' target='_blank'>samet.uk.to/about-me/contact</a>
+    Contact : <a href='https://sametb.me/about-me/contact/' style='text-decoration: none;' target='_blank'>samet.uk.to/about-me/contact</a>
     <br/><br/>
-    My new blog : <a href='https://bytesizedadventures.onrender.com/' style='text-decoration: none;' target='_blank'>byte-sized adventures.</a>
+    My new blog : <a href='https://blog.sametb.me/' style='text-decoration: none;' target='_blank'>byte-sized adventures.</a>
     <br/>
-    <br/>
-    Other endpoints: <a href='https://bsam.us.to/' style='text-decoration: none;' target='_blank'>bsam.us.to</a>
-    <br/>
-    <br/>
-    Other endpoints: <a href='https://sametb.us.to/' style='text-decoration: none;' target='_blank'>sametb.us.to</a>
+    Cinequilt : <a href='https://cq.sametb.me/' style='text-decoration: none;' target='_blank'>Cinequilt</a>
     <br/><br/>
-    Cinequilt : <a href='https://cinequilt.netlify.app' style='text-decoration: none;' target='_blank'>Cinequilt</a>
-    <br/><br/>
-    Frame : <a href='https://samet-byte.github.io/frame' style='text-decoration: none;' target='_blank'>Frame</a>
+    Frame : <a href='https://sametb.me/frame' style='text-decoration: none;' target='_blank'>Frame</a>
     <br/><br/>
     CV (en-tr) : <a href='https://samet-byte.github.io/Samet_Bayat_Resume_tr_en.pdf' style='text-decoration: none;' target='_blank'>CV</a>
   </p>
@@ -52,7 +46,7 @@ contact:
   - title: github
     url: https://github.com/samet-byte
   - title: web
-    url: https://samet.uk.to
+    url: https://sametb.me/
   - title: email
     url: mailto:sametbayat@protonmail.com
   - title: cv
